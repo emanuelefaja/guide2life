@@ -34,6 +34,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'The Importance of Habits', link: '/markdownxamples' },
+          { text: 'Goals vs Identity', link: '/markdownxamples' },
           { text: 'Good Starting Habits', link: '/markdown-exples' },
           { text: 'Setting Habits', link: '/api-exames' },
           { text: 'Tracking Habits', link: '/api-exales' }
@@ -45,7 +46,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'The Types of Decisions', link: '/markdown-amples' },
-          { text: 'Decision Making Processes', link: '/api-exples' }
+          { text: 'Decision Making Processes', link: '/api-exples' },
+          { text: 'Reviewing Past Decisions', link: '/api-exples' },
+          { text: 'The Washington Post Test', link: '/api-exples' },
+          { text: 'Criminality', link: '/api-exples' }
         ]
       },
       {
@@ -53,14 +57,14 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Learn to listen', link: '/markdown-amples' },
-          { text: 'Decision Making Processes', link: '/api-exples' }
+          { text: 'Be Charitable', link: '/api-exples' }
         ]
       },
       {
         text: 'Embrace Growth',
         collapsed: true,
         items: [
-          { text: 'The Types of Decisions', link: '/markdown-amples' },
+          { text: 'Growth Mindset', link: '/markdown-amples' },
           { text: 'Decision Making Processes', link: '/api-exples' }
         ]
       },
@@ -68,7 +72,7 @@ export default defineConfig({
       text: 'Manage Time',
         collapsed: true,
         items: [
-          { text: 'The Types of Decisions', link: '/markdown-amples' },
+          { text: 'Mono Task', link: '/markdown-amples' },
           { text: 'Decision Making Processes', link: '/api-exples' }
         ]
       },
@@ -76,7 +80,7 @@ export default defineConfig({
       text: 'Practice Mindfullness',
         collapsed: true,
         items: [
-          { text: 'The Types of Decisions', link: '/markdown-amples' },
+          { text: 'Meditation', link: '/markdown-amples' },
           { text: 'Decision Making Processes', link: '/api-exples' }
         ]
       },
@@ -98,8 +102,8 @@ export default defineConfig({
           { text: 'Non-Communicable Diseases', link: '/markdownxamples' },
           { text: 'Diet', link: '/markdownxamples' },
           { text: 'Exercise', link: '/markdown-exples' },
-          { text: 'Setting Habits', link: '/api-exames' },
-          { text: 'Tracking Habits', link: '/api-exales' }
+          { text: 'Addictions', link: '/api-exames' },
+          { text: 'Mental Health', link: '/api-exales' }
         ]
       },
     ],
@@ -107,7 +111,8 @@ export default defineConfig({
     
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/emanuelefaja/howtolive' }
     ]
   }
 })
+
