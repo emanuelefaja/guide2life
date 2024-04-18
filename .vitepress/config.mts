@@ -88,7 +88,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Mono Task', link: '/markdown-amples' },
-          { text: 'Decision Making Processes', link: '/api-exples' }
+          { text: 'Pomodoro Technique', link: '/time/pomodoro' }
         ]
       },
       {
