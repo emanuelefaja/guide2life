@@ -5,15 +5,11 @@ Welcome to the Guide2Life, a structured evidence-based approach to get the most 
 
 Drawing from a wide range of disciplines, including psychology, philosophy, health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or find a deeper sense of purpose, this guide will provide you with practical strategies and insights to help you along the way.
 
-## Rationale. 
+## Rationale
 
 Modern life presents unique challenges for our 200,000-year-old brains. Our minds, evolved for a hunter-gatherer lifestyle, must now navigate a world of technological advancements, information overload, and rapid societal changes. 
 
-Many individuals struggle to find proper guidance, relying on trial and error or limited advice to navigate personal and professional challenges.
-
-Educational systems often fail to provide the necessary life skills for thriving in the face of adversity, building meaningful relationships, and making critical decisions. 
-
-The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion or speculation.
+Many individuals struggle to find proper guidance, relying on trial and error to navigate personal and professional challenges. Schools teach us maths and geography, but not the art of conversation or how to make critical decisions. The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion, speculation, and click-bait.
 
 Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines. 
 
