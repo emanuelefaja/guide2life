@@ -11,7 +11,7 @@ export default defineConfig({
           provider: 'local'
         },
     nav: [
-      { text: 'Guide', link: '/introduction' }
+      { text: 'Guide', link: '/start/introduction' }
       ],
 
     sidebar: [
@@ -19,8 +19,9 @@ export default defineConfig({
         text: 'Start Here',
         collapsed: false,
         items: [
-          { text: 'Introduction', link: '/introduction' },
-          { text: 'FAQ', link: '/faq' },
+          { text: 'Introduction', link: '/start/introduction' },
+          { text: 'FAQ', link: '/start/faq' },
+          { text: 'Growth Mindset', link: '/faq' }
         ]
       },
       {
@@ -30,7 +31,9 @@ export default defineConfig({
           { text: 'What is Wisdom?', link: '/markwn-examples' },
           { text: 'Socratic Reasoning', link: '/markd-examples' },
           { text: 'Conquering Desire', link: '/api-examps' },
-          { text: 'Keep a Journal', link: '/api-exples' }
+          { text: 'Keep a Journal', link: '/api-exples' },
+          { text: 'Travel', link: '/api-exples' },
+          { text: 'On Control', link: '/markd-examples' }
         ]
       },
       {
@@ -65,14 +68,6 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Embrace Growth',
-        collapsed: true,
-        items: [
-          { text: 'Growth Mindset', link: '/markdown-amples' },
-          { text: 'Decision Making Processes', link: '/api-exples' }
-        ]
-      },
-      {
       text: 'Manage Time',
         collapsed: true,
         items: [
@@ -85,17 +80,25 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Meditation', link: '/markdown-amples' },
-          { text: 'Decision Making Processes', link: '/api-exples' }
+          { text: 'Work Deeply', link: '/api-exples' }
         ]
       },
       {
-        text: 'Build Wealth',
-        collapsed: true,
-        items: [
-          { text: 'The Importance of Habits', link: '/markdownxamples' },
-          { text: 'Good Starting Habits', link: '/markdown-exples' },
-          { text: 'Setting Habits', link: '/api-exames' },
-          { text: 'Tracking Habits', link: '/api-exales' }
+        "text": "Build Wealth",
+        "collapsed": true,
+        "items": [
+          { "text": "The Importance of Habits", "link": "/markdownxamples" },
+          { "text": "Good Starting Habits", "link": "/markdown-exples" },
+          { "text": "Setting Habits", "link": "/api-exames" },
+          {
+            "text": "On Business",
+            "collapsed": true,
+            "items": [
+              { "text": "The Importance of Habits", "link": "/markdownxamples" },
+              { "text": "Good Starting Habits", "link": "/markdown-exples" },
+              { "text": "Setting Habits", "link": "/api-exames" }
+            ]
+          }
         ]
       },
       {
@@ -103,7 +106,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'What is health?', link: 'health/what-is-health' },
-          { text: 'Non-Communicable Diseases', link: '/markdownxamples' },
+          { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
+          { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
           { text: 'Diet', link: '/markdownxamples' },
           { text: 'Exercise', link: '/markdown-exples' },
           { text: 'Addictions', link: '/api-exames' },
