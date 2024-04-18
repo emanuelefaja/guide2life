@@ -123,6 +123,7 @@ export default defineConfig({
           { text: 'What is health?', link: 'health/what-is-health' },
           { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
           { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
+          { text: 'Hormones', link: '/health/non-communicable-diseases'},
           { text: 'Diet', link: '/markdownxamples' },
           { text: 'Exercise', link: '/markdown-exples' },
           { text: 'Addictions', link: '/api-exames' },
