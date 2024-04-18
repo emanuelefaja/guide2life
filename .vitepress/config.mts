@@ -103,7 +103,7 @@ export default defineConfig({
         "text": "Build Wealth",
         "collapsed": true,
         "items": [
-          { "text": "The Importance of Habits", "link": "/markdownxamples" },
+          { "text": "What is Wealth?", "link": "/wealth/what-is-wealth" },
           { "text": "Good Starting Habits", "link": "/markdown-exples" },
           { "text": "Setting Habits", "link": "/api-exames" },
           {
