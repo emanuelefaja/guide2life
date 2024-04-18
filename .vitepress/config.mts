@@ -21,7 +21,8 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/start/introduction' },
           { text: 'FAQ', link: '/start/faq' },
-          { text: 'Growth Mindset', link: '/faq' }
+          { text: 'Growth Mindset', link: 'start/growth-mindset' },
+          { text: 'Recommended Books', link: '/start/books' }
         ]
       },
       {
@@ -29,11 +30,25 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'What is Wisdom?', link: '/markwn-examples' },
+          { text: 'Continuous Education', link: '/markwn-examples' },
           { text: 'Socratic Reasoning', link: '/markd-examples' },
           { text: 'Conquering Desire', link: '/api-examps' },
           { text: 'Keep a Journal', link: '/api-exples' },
           { text: 'Travel', link: '/api-exples' },
-          { text: 'On Control', link: '/markd-examples' }
+          { text: 'On Control', link: '/markd-examples' },
+          {"text": "Main Philosophies",
+            "collapsed": true,
+            "items": [
+              { "text": "Stoicism", "link": "/stoicism" },
+              { "text": "Epicureanism", "link": "/epicureanism" },
+              { "text": "Existentialism", "link": "/existentialism" },
+              { "text": "Utilitarianism", "link": "/utilitarianism" },
+              { "text": "Confucianism", "link": "/confucianism" },
+              { "text": "Buddhism", "link": "/buddhism" },
+              { "text": "Platonism", "link": "/platonism" },
+              { "text": "Nihilism", "link": "/nihilism" }
+            ]
+          },
         ]
       },
       {
