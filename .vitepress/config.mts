@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  cleanUrls:true,
   title: "How To Live.",
   description: "Structured guide to living well.",
   themeConfig: {
