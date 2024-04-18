@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "How To Live."
   text: "The essential guide to living well."
-  tagline: A structured approach to get the most out of life.
+  tagline: A structured evidence-based approach to get the most out of life.
   actions:
     - theme: brand
       text: Introduction
