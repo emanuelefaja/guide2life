@@ -7,6 +7,9 @@ export default defineConfig({
   description: "Structured guide to living well.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+          provider: 'local'
+        },
     nav: [
       { text: 'Guide', link: '/introduction' }
       ],
