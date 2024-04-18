@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Introduction
-      link: /introduction
+      link: /start//introduction
     - theme: alt
       text: FAQ
-      link: /faq
+      link: /start/faq
 
 features:
   - icon: 😊
