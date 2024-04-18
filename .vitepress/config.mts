@@ -17,24 +17,16 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'FAQ', link: '/faq' },
-          { 
-            text: 'New Item',
-            collapsed: true,
-            items: [
-              { text: 'Subitem 1', link: '/subitem1' },
-              { text: 'Subitem 2', link: '/subitem2' }
-            ]
-          }
         ]
       },
       {
         text: 'Develop Wisdom',
         collapsed: true,
         items: [
-          { text: 'The Importance of Habits', link: '/markwn-examples' },
-          { text: 'Good Starting Habits', link: '/markd-examples' },
-          { text: 'Setting Habits', link: '/api-examps' },
-          { text: 'Tracking Habits', link: '/api-exples' }
+          { text: 'What is Wisdom?', link: '/markwn-examples' },
+          { text: 'Socratic Reasoning', link: '/markd-examples' },
+          { text: 'Conquering Desire', link: '/api-examps' },
+          { text: 'Keep a Journal', link: '/api-exples' }
         ]
       },
       {
@@ -60,7 +52,7 @@ export default defineConfig({
         text: 'Cultivate Relationships',
         collapsed: true,
         items: [
-          { text: 'The Types of Decisions', link: '/markdown-amples' },
+          { text: 'Learn to listen', link: '/markdown-amples' },
           { text: 'Decision Making Processes', link: '/api-exples' }
         ]
       },
@@ -102,8 +94,10 @@ export default defineConfig({
         text: 'Optimize Health',
         collapsed: true,
         items: [
-          { text: 'The Importance of Habits', link: '/markdownxamples' },
-          { text: 'Good Starting Habits', link: '/markdown-exples' },
+          { text: 'What is health?', link: 'health/what-is-health' },
+          { text: 'Non-Communicable Diseases', link: '/markdownxamples' },
+          { text: 'Diet', link: '/markdownxamples' },
+          { text: 'Exercise', link: '/markdown-exples' },
           { text: 'Setting Habits', link: '/api-exames' },
           { text: 'Tracking Habits', link: '/api-exales' }
         ]
