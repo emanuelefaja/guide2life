@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "How To Live."
+  name: "Guide2Life"
   text: "The essential guide to living well."
   tagline: A structured evidence-based approach to get the most out of life.
   actions:
