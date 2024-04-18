@@ -1,4 +1,6 @@
 # Non-Communicable Diseases.
+> “Prevention is better than cure." **Desiderius Erasmus.**
+
 
 Non-communicable diseases (NCDs), also known as chronic diseases, are medical conditions that are not transmissible from person to person. NCDs are the leading cause of death globally, accounting for 74% of all deaths worldwide [1].
 
@@ -22,6 +24,7 @@ NCDs also eat up the majority of healthcare dollars. For instance, in the US it 
 Given the substantial financial burden that NCDs place on healthcare systems and societies, it can be argued that looking after your health is not only a personal responsibility but also a civic duty. By adopting healthy lifestyles and reducing the risk of developing NCDs, you contribute to the sustainability of healthcare systems and the overall well-being of your community.
 
 ## Your responsibility. 
+> “Our health is a result of our choices every day." **Moira Hutchison.**
 
 While genetic factors do play a role in the likelihood of you developing an NCD, lifestyle choices and habits — _the things that you control_ — are the primary drivers of these diseases. 
 
