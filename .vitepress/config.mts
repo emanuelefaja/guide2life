@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls:true,
-  title: "How To Live.",
+  title: "Guide2Life",
   description: "Structured guide to living well.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -130,6 +130,21 @@ export default defineConfig({
           { text: 'Mental Health', link: '/api-exales' }
         ]
       },
+      {
+        text: 'Common Problems',
+        collapsed: true,
+        items: [
+          { text: 'What is health?', link: 'health/what-is-health' },
+          { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
+          { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
+          { text: 'Hormones', link: '/health/non-communicable-diseases'},
+          { text: 'Diet', link: '/markdownxamples' },
+          { text: 'Exercise', link: '/markdown-exples' },
+          { text: 'Addictions', link: '/api-exames' },
+          { text: 'Mental Health', link: '/api-exales' }
+        ]
+      },
+      
     ],
     
     
