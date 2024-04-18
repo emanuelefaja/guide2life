@@ -34,12 +34,25 @@ _These are all under your control_, and so you can significantly reduce your ris
 
 ## Deep Dive into main NCDs.
 
+### Cardiovascular Diseases (CVDs)
+Cardiovascular diseases (CVDs) affect the heart and blood vessels, and are the leading cause of death worldwide [4]. The most common types of CVDs include coronary heart disease, stroke, heart failure, and hypertension. Coronary heart disease occurs when the blood vessels supplying the heart become narrowed or blocked, leading to heart attacks and angina. Strokes happen when the blood supply to the brain is interrupted, causing brain cells to die. Heart failure occurs when the heart cannot pump blood effectively, leading to shortness of breath, fatigue, and swelling in the legs and feet. Hypertension, or high blood pressure, can damage blood vessels and increase the risk of heart attacks, strokes, and kidney failure.
+
+### Cancers
+Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. Some of the most common types of cancer include lung cancer, breast cancer, colorectal cancer, prostate cancer, and skin cancer. Lung cancer is often caused by smoking or exposure to secondhand smoke and air pollution. Breast cancer is the most common cancer in women worldwide, while prostate cancer is the most common cancer in men, affecting the prostate gland. Colorectal cancer affects the colon and rectum and is often associated with a diet high in processed and red meats. Skin cancer is caused by overexposure to ultraviolet (UV) radiation from the sun or tanning beds.
+
+### Chronic Respiratory Diseases
+
+Chronic respiratory diseases affect the lungs and airways, with the most common types being chronic obstructive pulmonary disease (COPD), asthma, and occupational lung diseases. COPD is a group of diseases, including chronic bronchitis and emphysema, that cause airflow blockage and breathing-related problems. Asthma is a chronic condition that causes inflammation and narrowing of the airways, leading to wheezing, chest tightness, and shortness of breath. Occupational lung diseases are caused by exposure to dust, fumes, or other irritants in the workplace, such as silicosis and asbestosis.
+
 ### Diabetes
+Diabetes is a metabolic disorder characterized by high blood sugar levels. There are two main types of diabetes: Type 1 and Type 2. Type 1 diabetes is an autoimmune disease with a strong genetic component, in which the body does not produce insulin, requiring daily insulin injections. Type 2 diabetes occurs when the body becomes resistant to insulin or does not produce enough insulin, and is often associated with obesity and physical inactivity. If not properly managed, diabetes can lead to serious complications, such as heart disease, kidney failure, blindness, and lower limb amputation.
+
 
 
 [1]: https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases
 [2]: https://www.cdc.gov/chronicdisease/about/costs/index.htm
 [3]: https://health.ec.europa.eu/non-communicable-diseases/overview_en
+[4]: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
  
 
