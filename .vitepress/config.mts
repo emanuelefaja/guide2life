@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/start/introduction' },
           { text: 'FAQ', link: '/start/faq' },
+          { text: 'Your Attention is Your Life', link: '/start/faq' },
           { text: 'Growth Mindset', link: 'start/growth-mindset' },
           { text: 'Recommended Books', link: '/start/books' }
         ]
@@ -55,7 +56,7 @@ export default defineConfig({
         text: 'Create Habits',
         collapsed: true,
         items: [
-          { text: 'The Importance of Habits', link: '/markdownxamples' },
+          { text: 'The Importance of Habits', link: '/habits/importance-of-habits' },
           { text: 'Goals vs Identity', link: '/markdownxamples' },
           { text: 'Good Starting Habits', link: '/markdown-exples' },
           { text: 'Setting Habits', link: '/api-exames' },
