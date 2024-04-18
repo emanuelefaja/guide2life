@@ -1,19 +1,28 @@
 # Introduction
 Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled for the sake of transparency. ](https://github.com/emanuelefaja/howtolive)
 
-At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.
+**At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.**
 
 Drawing from a wide range of disciplines, including psychology, philosophy, health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or find a deeper sense of purpose, this guide will provide you with practical strategies and insights to help you along the way.
 
 ## Rationale. 
-The rationale behind this ambitious project is that many of us stumble through life without proper guidance. School may teach us maths and geography, but doesn't teach us how to have a hard conversation or how to make tough decisions. In a world filled with uncertainties and endless possibilities, it can be overwhelming to find the right path to a fulfilling and healthy life. So, creating a comprehensive guide on how to live made sense.
 
-## Evidence-based.
+Modern life presents unique challenges for our 200,000-year-old brains. Our minds, evolved for a hunter-gatherer lifestyle, must now navigate a world of technological advancements, information overload, and rapid societal changes. 
 
-This guide is not based on personal opinion, but on evidence. We reference peer-reviewed studies and reports from reputable organizations where possible. If the evidence changes and points to different conclusions, we will update the findings accordingly. 
+Many individuals struggle to find proper guidance, relying on trial and error or limited advice to navigate personal and professional challenges.
 
-Throughout this guide, you'll find a blend of scientific research, practical advice, and philosophical wisdom, all presented in an accessible and engaging format. You can think of this as a reference guide, whenever you have questions about a specific topic or there is something you want to improve, and it can serve as a solid starting point to then educate yourself further.
+Educational systems often fail to provide the necessary life skills for thriving in the face of adversity, building meaningful relationships, and making critical decisions. 
 
-However, it's essential to remember that your life is your responsibility. 
+The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion or speculation.
 
-**You need to do what works for you.**
+Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines. 
+
+The goal is not to prescribe a singular path to a live well lived, but rather to provide a reliable resource for those seeking to live a more intentional, fulfilling, and well-rounded life, offering a framework for self-discovery and personal growth adaptable to individual circumstances and aspirations.
+
+## Evidence-based Approach
+Guide2Life is based on evidence, not personal opinion. The guide references peer-reviewed studies and reports from reputable organizations whenever possible. If new evidence emerges that contradicts current findings, the guide will be updated accordingly.
+
+The content blends scientific research, practical advice, and philosophical wisdom in an accessible format, serving as a reference for specific topics and a starting point for further education.
+
+## Personal Responsibility
+Ultimately, individuals are responsible for their own lives and must do what works best for them. Guide2Life provides guidance and evidence-based recommendations, but you should adapt the advice to your unique situations and make decisions based on your personal values and goals.
