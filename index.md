@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "How To Live."
-  text: "A structured guide to living well."
-  tagline: My great project tagline
+  text: "The essential guide to living well."
+  tagline: A structured approach to get the most out of life.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Introduction
+      link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: FAQ
+      link: /faq
 
 features:
   - title: Feature A
