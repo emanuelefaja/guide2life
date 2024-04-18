@@ -8,7 +8,7 @@ While you may not be able to escape mortality, you can significantly influence t
 
 In other words, optimizing the amount of quality-time in your life. There’s no point living until 110 years old, if for the years after 80 you’re just vegetable.
 
-Everyone wants more time, except perhaps the person sitting in a prison cell. And if you’re living a miserable life, more time is the last thing you need. But, assuming you have your life in order, more time is better than less time. 
+Everything else being equal, more quality-time is better. You get to have more of the precious resource, time. You have more experiences. 
 
 
 
