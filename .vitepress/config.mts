@@ -79,8 +79,9 @@ export default defineConfig({
         text: 'Cultivate Relationships',
         collapsed: true,
         items: [
-          { text: 'Learn to listen', link: '/markdown-amples' },
-          { text: 'Be Charitable', link: '/api-exples' }
+          { text: 'Learn to Listen', link: '/markdown-amples' },
+          { text: 'Be Charitable', link: '/api-exples' },
+          { text: 'Communicate Clearly', link: '/api-exples' }
         ]
       },
       {
@@ -92,7 +93,7 @@ export default defineConfig({
         ]
       },
       {
-      text: 'Practice Mindfullness',
+      text: 'Practice Mindfulness',
         collapsed: true,
         items: [
           { text: 'Meditation', link: '/markdown-amples' },
@@ -104,8 +105,7 @@ export default defineConfig({
         "collapsed": true,
         "items": [
           { "text": "What is Wealth?", "link": "/wealth/what-is-wealth" },
-          { "text": "Good Starting Habits", "link": "/markdown-exples" },
-          { "text": "Setting Habits", "link": "/api-exames" },
+          { "text": "Avoid Materialism", "link": "/wealth/avoid-materialism" },
           {
             "text": "On Business",
             "collapsed": true,
@@ -124,26 +124,39 @@ export default defineConfig({
           { text: 'What is health?', link: 'health/what-is-health' },
           { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
           { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
-          { text: 'Hormones', link: '/health/non-communicable-diseases'},
+          { text: 'Hormones', link: '/health/hormones'},
           { text: 'Diet', link: '/markdownxamples' },
           { text: 'Exercise', link: '/markdown-exples' },
+          { text: 'Sleep', link: '/health/sleep' },
           { text: 'Addictions', link: '/api-exames' },
+          { text: 'Breathing Techniques', link: '/api-exames' },
+          { text: 'Preventive Healthcare', link: '/api-exames' },
           { text: 'Mental Health', link: '/api-exales' }
         ]
       },
       {
-        text: 'Common Problems',
-        collapsed: true,
-        items: [
-          { text: 'What is health?', link: 'health/what-is-health' },
-          { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
-          { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
-          { text: 'Hormones', link: '/health/non-communicable-diseases'},
-          { text: 'Diet', link: '/markdownxamples' },
-          { text: 'Exercise', link: '/markdown-exples' },
-          { text: 'Addictions', link: '/api-exames' },
-          { text: 'Mental Health', link: '/api-exales' }
-        ]
+      text: 'Common Problems',
+      collapsed: true,
+      items: [
+      { text: 'Anxiety', link: '/problems/anxiety' },
+      { text: 'Depression', link: '/problems/depression' },
+      { text: 'Stress', link: '/problems/stress' },
+      { text: 'Procrastination', link: '/problems/procrastination' },
+      { text: 'Low Self-Esteem', link: '/problems/low-self-esteem' },
+      { text: 'Relationship Issues', link: '/problems/relationship-issues' },
+      { text: 'Financial Struggles', link: '/problems/financial-struggles' },
+      { text: 'Time Management', link: '/problems/time-management' },
+      { text: 'Addiction', link: '/problems/addiction' },
+      { text: 'Burnout', link: '/problems/burnout' },
+      { text: 'Loneliness', link: '/problems/loneliness' },
+      { text: 'Imposter Syndrome', link: '/problems/imposter-syndrome' },
+      { text: 'Sleep Disorders', link: '/problems/sleep-disorders' },
+      { text: 'Eating Disorders', link: '/problems/eating-disorders' },
+      { text: 'Anger Management', link: '/problems/anger-management' },
+      { text: 'Grief and Loss', link: '/problems/grief-and-loss' },
+      { text: 'Trauma', link: '/problems/trauma' },
+      { text: 'Overweight', link: '/problems/overweight' }
+      ]
       },
       
     ],
