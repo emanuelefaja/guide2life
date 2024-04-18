@@ -34,10 +34,14 @@ The main modifiable risk factors for NCDs include:
 
 _These are all under your control_, and so you can significantly reduce your risk of developing NCDs. 
 
+A compelling example of how lifestyle factors can dramatically impact NCD risk is the study of the Tsimane people in Bolivia. [4] The Tsimane follow a traditional lifestyle of hunting, gathering, fishing, and farming, with high levels of physical activity and a diet low in saturated fats and high in fiber. 
+
+Despite a high infectious disease burden, the Tsimane have extremely low rates of coronary artery disease, with CT scans showing that 85% of Tsimane adults had no evidence of coronary artery calcification — the lowest reported levels of coronary artery disease of any population recorded to date. This study suggests that a lifestyle characterized by high physical activity, a healthy diet, and minimal smoking and alcohol consumption can significantly reduce the risk of cardiovascular disease, even in the presence of other health challenges.
+
 ## Deep Dive into main NCDs.
 
 ### Cardiovascular Diseases (CVDs)
-Cardiovascular diseases (CVDs) affect the heart and blood vessels, and are the leading cause of death worldwide [4]. The most common types of CVDs include coronary heart disease, stroke, heart failure, and hypertension. Coronary heart disease occurs when the blood vessels supplying the heart become narrowed or blocked, leading to heart attacks and angina. Strokes happen when the blood supply to the brain is interrupted, causing brain cells to die. Heart failure occurs when the heart cannot pump blood effectively, leading to shortness of breath, fatigue, and swelling in the legs and feet. Hypertension, or high blood pressure, can damage blood vessels and increase the risk of heart attacks, strokes, and kidney failure.
+Cardiovascular diseases (CVDs) affect the heart and blood vessels, and are the leading cause of death worldwide [5]. The most common types of CVDs include coronary heart disease, stroke, heart failure, and hypertension. Coronary heart disease occurs when the blood vessels supplying the heart become narrowed or blocked, leading to heart attacks and angina. Strokes happen when the blood supply to the brain is interrupted, causing brain cells to die. Heart failure occurs when the heart cannot pump blood effectively, leading to shortness of breath, fatigue, and swelling in the legs and feet. Hypertension, or high blood pressure, can damage blood vessels and increase the risk of heart attacks, strokes, and kidney failure.
 
 ### Cancers
 Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. Some of the most common types of cancer include lung cancer, breast cancer, colorectal cancer, prostate cancer, and skin cancer. Lung cancer is often caused by smoking or exposure to secondhand smoke and air pollution. Breast cancer is the most common cancer in women worldwide, while prostate cancer is the most common cancer in men, affecting the prostate gland. Colorectal cancer affects the colon and rectum and is often associated with a diet high in processed and red meats. Skin cancer is caused by overexposure to ultraviolet (UV) radiation from the sun or tanning beds.
@@ -54,7 +58,8 @@ Diabetes is a metabolic disorder characterized by high blood sugar levels. There
 [1]: https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases
 [2]: https://www.cdc.gov/chronicdisease/about/costs/index.htm
 [3]: https://health.ec.europa.eu/non-communicable-diseases/overview_en
-[4]: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+[4]: https://pubmed.ncbi.nlm.nih.gov/28320601/
+[5]: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
  
 
