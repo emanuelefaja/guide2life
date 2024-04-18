@@ -15,11 +15,15 @@ hero:
       link: /faq
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 😊
+    title: Build Meaning. 
+    details: Wake up in the morning excited about life.
+  - icon: 💰
+    title: Free
+    details: All the knowledge in the guide is free.
+  - icon: ✏️
+    title: Open Source
+    details: Anyone can contribute to build knowledge.
+  
 ---
 
