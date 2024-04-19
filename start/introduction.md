@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled for the sake of transparency. ](https://github.com/emanuelefaja/howtolive)
+Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled.](https://github.com/emanuelefaja/howtolive)
 
 **At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.**
 
