@@ -1,5 +1,5 @@
 # How To Use This. 
-There is a lot of information in Guide2Life. However, life is school, and you are not going to be tested on trying to memorize everything about the role of Insulin on body fat or the effects of meditation on your mental state.
+There is a lot of information in Guide2Life. However, life is not school, and you are not going to be tested on trying to memorize everything about the role of Insulin on body fat or the effects of meditation on your mental state.
 
 The most important thing is behavior change, and trying to change your identity to take on new behaviors that serve you. Taking control of your habits, instead of your habits taking control of you.
 
@@ -8,6 +8,8 @@ Just in the same way that you do not have to know the precise process of how bac
 Similarly, when it comes to the information presented in Guide2Life, the goal is not to simply learn and memorize facts, but to use that knowledge to make meaningful changes in your daily life. For example, if you learn about how insulin works and its impact on body fat, the point is not to become an expert on insulin physiology. Instead, the objective is to make different eating choices every day based on that knowledge, such as choosing lower glycemic index foods or being mindful of portion sizes.
 
 Over time, as you consistently apply this knowledge to your daily choices, the specific details about insulin may fade from your memory. However, the new actions and behaviors you've adopted will stick with you, becoming ingrained habits that positively impact your health and well-being.
+
+It's important to remember that you don't have to be perfect or make drastic changes overnight. The key is to focus on making small, consistent improvements that compound over time. Don't feel overwhelmed by the wealth of information presented in Guide2Life. Instead, choose one or two areas to focus on at a time, and gradually incorporate new habits and behaviors into your life. Celebrate your progress along the way, and don't be too hard on yourself if you experience setbacks. The journey to personal growth and self-improvement is ongoing, and every small step you take brings you closer to your goals.
 
 
 Here are some tips on how to effectively use Guide2Life:
