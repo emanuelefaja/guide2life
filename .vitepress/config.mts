@@ -83,6 +83,7 @@ export default defineConfig({
         items: [
           { text: 'Learn to Listen', link: '/markdown-amples' },
           { text: 'Be Charitable', link: '/api-exples' },
+          { text: 'How To Make Friends', link: '/relationships/how-to-make-friends' },
           { text: 'Communicate Clearly', link: '/api-exples' }
         ]
       },
