@@ -169,6 +169,7 @@ export default defineConfig({
       { text: 'Introduction to Tools', link: '/tools/introduction-to-tools' },
       { text: 'Negative Visualisation', link: '/tools/negative-visualisation' },
       { text: 'Daily Reflection', link: '/tools/daily-reflection' },
+      { text: 'Boredom', link: '/tools/boredom' },
       { text: 'Breathwork', link: '/tools/breathwork' },
       { text: 'Focus on a Point', link: '/tools/focus-on-a-point' },
       { text: 'Gratitude', link: '/tools/gratitude' },
