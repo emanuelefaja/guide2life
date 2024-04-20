@@ -21,7 +21,23 @@ Over time, as you consistently apply this knowledge to your daily choices, the s
 
 **It's important to remember that you don't have to be perfect or make drastic changes overnight.** The key is to focus on making small, consistent improvements that compound over time. Don't feel overwhelmed by the wealth of information presented in Guide2Life. Instead, choose one or two areas to focus on at a time, and gradually incorporate new habits and behaviors into your life. Celebrate your progress along the way, and don't be too hard on yourself if you experience setbacks. The journey to personal growth and self-improvement is ongoing, and every small step you take brings you closer to your goals.
 
+## Recommendations
 
+### Start small
+
+It’s tempting to try and make multiple large, drastic changes at  the same time. 
+
+Don’t do this — the failure rates for this approach are horrific. 
+
+Instead, choose a single habit or practice to implement in your daily life, and gradually build upon your successes as you progress.
+
+### Bookmark Guide2Life
+
+This is a reference guide, you’ll be coming back to this often. Bookmark the guide to ensure, or even set it as your home page on your browser to remind yourself.
+
+### Write
+
+### Track
 Here are some tips on how to effectively use Guide2Life:
 
 1. Start with the areas that resonate with you the most. Whether it's developing wisdom, creating habits, or optimizing your health, focus on the sections that align with your current goals and priorities.
