@@ -29,6 +29,17 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Create Habits',
+        collapsed: true,
+        items: [
+          { text: 'The Importance of Habits', link: '/habits/importance-of-habits' },
+          { text: 'Goals vs Identity', link: '/markdownxamples' },
+          { text: 'Good Starting Habits', link: '/markdown-exples' },
+          { text: 'Setting Habits', link: '/api-exames' },
+          { text: 'Tracking Habits', link: '/api-exales' }
+        ]
+      },
+      {
         text: 'Develop Wisdom',
         collapsed: true,
         items: [
@@ -54,18 +65,6 @@ export default defineConfig({
           },
         ]
       },
-      {
-        text: 'Create Habits',
-        collapsed: true,
-        items: [
-          { text: 'The Importance of Habits', link: '/habits/importance-of-habits' },
-          { text: 'Goals vs Identity', link: '/markdownxamples' },
-          { text: 'Good Starting Habits', link: '/markdown-exples' },
-          { text: 'Setting Habits', link: '/api-exames' },
-          { text: 'Tracking Habits', link: '/api-exales' }
-        ]
-      },
-      
       {
         text: 'Decide Rationally',
         collapsed: true,
