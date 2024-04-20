@@ -1,15 +1,25 @@
 # How To Use This. 
 There is a lot of information in Guide2Life. However, life is not school, and you are not going to be tested on trying to memorize everything about the role of Insulin on body fat or the effects of meditation on your mental state.
 
-The most important thing is behavior change, and trying to change your identity to take on new behaviors that serve you. Taking control of your habits, instead of your habits taking control of you.
+**The most important thing is behavior change — changing your identity to take on new behavioral patterns that serve you.** 
 
-Just in the same way that you do not have to know the precise process of how bacteria can break down the enamel of your teeth and cause serious dental problems to brush your teeth everyday. It is just a habit, something that becomes almost subconscious. You do it, because this is something that is ingrained in who you are, and it may even feel strange to go to bed without brushing your teeth.
+> “If you don’t control your habits, your habits will control you.” **Hal Elrod.**
 
-Similarly, when it comes to the information presented in Guide2Life, the goal is not to simply learn and memorize facts, but to use that knowledge to make meaningful changes in your daily life. For example, if you learn about how insulin works and its impact on body fat, the point is not to become an expert on insulin physiology. Instead, the objective is to make different eating choices every day based on that knowledge, such as choosing lower glycemic index foods or being mindful of portion sizes.
+## Action vs Knowledge
+
+There is a famous Buddhist parable from the [Cūḷamālukya Sutta](https://encyclopediaofbuddhism.org/wiki/C%C5%AB%E1%B8%B7am%C4%81lukya_Sutta) that makes the point of action vs knowledge perfectly:
+
+> It's just as if a man were wounded with an arrow thickly smeared with poison. His friends and companions, kinsmen and relatives would provide him with a surgeon, and the man would say, _'I won't have this arrow removed until I know whether the man who wounded me was a noble warrior, a priest, a merchant, or a worker.'_ He would say, _'I won't have this arrow removed until I know the given name & clan name of the man who wounded me... until I know whether he was tall, medium, or short... until I know whether he was dark, ruddy-brown, or golden-colored... until I know his home village, town, or city... until I know whether the bow with which I was wounded was a long bow or a crossbow... until I know whether the bowstring with which I was wounded was fiber, bamboo threads, sinew, hemp, or bark... until I know whether the shaft with which I was wounded was wild or cultivated... until I know whether the feathers of the shaft with which I was wounded were those of a vulture, a stork, a hawk, a peacock, or another bird... until I know whether the shaft with which I was wounded was bound with the sinew of an ox, a water buffalo, a langur, or a monkey.'_ He would say, _'I won't have this arrow removed until I know whether the shaft with which I was wounded was that of a common arrow, a curved arrow, a barbed, a calf-toothed, or an oleander arrow.'_ The man would die and those things would still remain unknown to him.
+
+You do not have to know the precise process of how bacteria can break down the enamel of your teeth and cause serious dental problems in order to brush your teeth everyday. It is just a habit, something that becomes almost subconscious. You do it, because this is something that is ingrained in who you are, and it may even feel strange to go to bed without brushing your teeth.
+
+Similarly, when it comes to the information presented in Guide2Life, the goal is not to simply learn and memorize facts. **Instead, use the knowledge to make meaningful changes in your daily life.**
+
+If you learn about how insulin works and its impact on body fat, the point is not to become an expert on insulin physiology. Instead, the objective is to make different eating choices each day based on that knowledge, such as choosing lower glycemic index foods, being mindful of portion sizes, or practicing OMAD.
 
 Over time, as you consistently apply this knowledge to your daily choices, the specific details about insulin may fade from your memory. However, the new actions and behaviors you've adopted will stick with you, becoming ingrained habits that positively impact your health and well-being.
 
-It's important to remember that you don't have to be perfect or make drastic changes overnight. The key is to focus on making small, consistent improvements that compound over time. Don't feel overwhelmed by the wealth of information presented in Guide2Life. Instead, choose one or two areas to focus on at a time, and gradually incorporate new habits and behaviors into your life. Celebrate your progress along the way, and don't be too hard on yourself if you experience setbacks. The journey to personal growth and self-improvement is ongoing, and every small step you take brings you closer to your goals.
+**It's important to remember that you don't have to be perfect or make drastic changes overnight.** The key is to focus on making small, consistent improvements that compound over time. Don't feel overwhelmed by the wealth of information presented in Guide2Life. Instead, choose one or two areas to focus on at a time, and gradually incorporate new habits and behaviors into your life. Celebrate your progress along the way, and don't be too hard on yourself if you experience setbacks. The journey to personal growth and self-improvement is ongoing, and every small step you take brings you closer to your goals.
 
 
 Here are some tips on how to effectively use Guide2Life:
