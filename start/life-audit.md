@@ -84,7 +84,9 @@ Answer the following questions honestly, selecting the option that best represen
 By completing this basic audit, you'll have a clearer picture of where you stand in these fundamental areas of life. Use this information as a starting point for setting goals and making positive changes as you continue your self-discovery journey.
 
 
-## Define Your Present Self.
+## Define Your Present Self
+> “The meeting of two eternities, the past and the future… is precisely the present moment." **Henry David Thoreau.**
+
 
 Who are you?
 
