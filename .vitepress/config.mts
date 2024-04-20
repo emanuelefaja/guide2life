@@ -128,14 +128,22 @@ export default defineConfig({
         items: [
           { text: 'What is health?', link: 'health/what-is-health' },
           { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
+          { text: 'Preventive Healthcare', link: '/api-exames' },
           { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
           { text: 'Hormones', link: '/health/hormones'},
-          { text: 'Diet', link: '/markdownxamples' },
+          {
+            "text": "Nutrition",
+            "collapsed": true,
+            "items": [
+              { "text": "Fats", "link": "/health/nutrition/fats" },
+              { "text": "Carbohydrates", "link": "/health/nutrition/carbs" },
+              { "text": "Protein", "link": "/health/nutrition/protein" },
+            ]
+          },
           { text: 'Exercise', link: '/markdown-exples' },
           { text: 'Sleep', link: '/health/sleep' },
           { text: 'Addictions', link: '/api-exames' },
           { text: 'Breathing Techniques', link: '/api-exames' },
-          { text: 'Preventive Healthcare', link: '/api-exames' },
           { text: 'Mental Health', link: '/api-exales' }
         ]
       },
