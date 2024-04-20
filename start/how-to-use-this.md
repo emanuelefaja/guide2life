@@ -19,17 +19,18 @@ If you learn about how insulin works and its impact on body fat, the point is no
 
 Over time, as you consistently apply this knowledge to your daily choices, the specific details about insulin may fade from your memory. However, the new actions and behaviors you've adopted will stick with you, becoming ingrained habits that positively impact your health and well-being.
 
-**It's important to remember that you don't have to be perfect or make drastic changes overnight.** The key is to focus on making small, consistent improvements that compound over time. Don't feel overwhelmed by the wealth of information presented in Guide2Life. Instead, choose one or two areas to focus on at a time, and gradually incorporate new habits and behaviors into your life. Celebrate your progress along the way, and don't be too hard on yourself if you experience setbacks. The journey to personal growth and self-improvement is ongoing, and every small step you take brings you closer to your goals.
 
 ## Recommendations
 
-### Start small
+### Start Small
 
 It’s tempting to try and make multiple large, drastic changes at  the same time. 
 
 Don’t do this — the failure rates for this approach are horrific. 
 
 Instead, choose a single habit or practice to implement in your daily life, and gradually build upon your successes as you progress.
+
+### Progress vs Perfection
 
 ### Bookmark Guide2Life
 
