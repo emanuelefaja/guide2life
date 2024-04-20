@@ -47,6 +47,7 @@ export default defineConfig({
           { text: 'What is Wisdom?', link: '/markwn-examples' },
           { text: 'Continuous Education', link: '/markwn-examples' },
           { text: 'Socratic Reasoning', link: '/markd-examples' },
+          { text: 'Things Will Go Wrong', link: '/api-examps' },
           { text: 'Conquering Desire', link: '/api-examps' },
           { text: 'Keep a Journal', link: '/api-exples' },
           { text: 'Travel', link: '/api-exples' },
@@ -172,6 +173,7 @@ export default defineConfig({
       { text: 'Focus on a Point', link: '/tools/focus-on-a-point' },
       { text: 'Gratitude', link: '/tools/gratitude' },
       { text: 'Journaling', link: '/tools/journaling' },
+      { text: 'Spaced Repetition', link: '/tools/journaling' }, 
       { text: 'Software', link: '/tools/software' }
       ]
       },
