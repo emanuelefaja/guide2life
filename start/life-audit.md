@@ -1,16 +1,19 @@
 # Life Audit.
-A life audit is a process of taking a deep look at various aspects of your life so you can get a clear picture of where you are, identify areas that need improvement, and set goals and priorities based on what matters most to you. It's about gaining clarity and aligning your life with your values and aspirations.
+This is the process of reflecting on your life to get a clear picture of where you are, ares for improvement, and set goals  based on what matters to you. You’ll gain clarity and align your life with your values. 
+
+Reading Guide2Life indicates that you want to improve your life.
+Perhaps you want better relationships, a healthier body, or to address a feeling that something, somewhere, didn’t quite work out in your life so far. 
 
 ## Why Self-Reflection Matters
-Self-reflection is a crucial component of personal growth and development. By taking the time to honestly assess your life, you can gain valuable insights into your strengths, weaknesses, and opportunities for growth. This process allows you to identify patterns, habits, and behaviors that may be holding you back or not serving you well. It also helps you to clarify your values, priorities, and goals, which is essential for making meaningful changes and living a more fulfilling life.
+> "The unexamined life is not worth living." **Socrates.**
 
-Self-reflection is one of the cornerstones of philosophy. Being able to take an objective look at yourself and your actions, and understand what you are doing right, what you are doing wrong, and how you can improve, is crucial.
+Self-reflection is one of the cornerstones of philosophy, and is essential for personal growth and development. Without it, nothing else is this guide will work. Any results will be through random chance alone. 
 
-By the very fact that you’re reading Guide2Life, this means that you are trying to improve your life in some way. Perhaps you want better relationships, a healthier body, or you have this feeling in the back of your mind that something, somewhere, didn’t quite work out. 
+Self-reflection involves honestly assessing your life to identify strengths, weaknesses, and areas for improvement. This process helps you recognize patterns, habits, and behaviors that may be limiting your potential. By clarifying your values, priorities, and goals through self-reflection, you can make meaningful changes and lead a more fulfilling life.
 
-A life audit a process of assessing various aspects of your life to gain clarity, identify areas for improvement, and set goals for personal growth.
 
 ## Audit the Basics.
+> “Success is nothing more than a few simple disciplines, practiced every day." **Jim Rohn.**
 
 Before diving into a deep evaluation of your present self, it's essential to assess some fundamental aspects of your life. While everyone can define their own path to a life well-lived, there are certain universal commonalities that contribute to overall well-being. After all, we are all human, and our basic needs and desires are more similar than we might think.
 
