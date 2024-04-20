@@ -160,6 +160,20 @@ export default defineConfig({
       { text: 'Overweight', link: '/problems/overweight' }
       ]
       },
+      {
+      text: 'Tools',
+      collapsed: true,
+      items: [
+      { text: 'Introduction to Tools', link: '/tools/introduction-to-tools' },
+      { text: 'Negative Visualisation', link: '/tools/negative-visualisation' },
+      { text: 'Daily Reflection', link: '/tools/daily-reflection' },
+      { text: 'Breathwork', link: '/tools/breathwork' },
+      { text: 'Focus on a Point', link: '/tools/focus-on-a-point' },
+      { text: 'Gratitude', link: '/tools/gratitude' },
+      { text: 'Journaling', link: '/tools/journaling' },
+      ]
+      },
+      { text: 'Contributions', link: '/contributions' },
       
     ],
     
