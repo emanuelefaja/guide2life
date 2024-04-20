@@ -33,10 +33,11 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'The Importance of Habits', link: '/habits/importance-of-habits' },
-          { text: 'Goals vs Identity', link: '/markdownxamples' },
+          { text: 'Habit Formation Science', link: '/habits/habit-formation-science' },
           { text: 'Good Starting Habits', link: '/markdown-exples' },
-          { text: 'Setting Habits', link: '/api-exames' },
-          { text: 'Tracking Habits', link: '/api-exales' }
+          { text: 'Creating New Habits', link: '/habits/creating-new-habits' },
+          { text: 'Breaking Bad Habits', link: 'habits/breaking-bad-habits' },
+          { text: 'Tracking Habits', link: 'habits/tracking-habts' }
         ]
       },
       {
@@ -171,6 +172,7 @@ export default defineConfig({
       { text: 'Focus on a Point', link: '/tools/focus-on-a-point' },
       { text: 'Gratitude', link: '/tools/gratitude' },
       { text: 'Journaling', link: '/tools/journaling' },
+      { text: 'Software', link: '/tools/software' }
       ]
       },
       {
