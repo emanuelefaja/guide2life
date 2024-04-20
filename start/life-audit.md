@@ -1,8 +1,10 @@
 # Life Audit.
-This is the process of reflecting on your life to get a clear picture of where you are, ares for improvement, and set goals  based on what matters to you. You’ll gain clarity and align your life with your values. 
-
 Reading Guide2Life indicates that you want to improve your life.
 Perhaps you want better relationships, a healthier body, or to address a feeling that something, somewhere, didn’t quite work out in your life so far. 
+
+Before you can go anywhere, you need to know where you are. This is where the Life Audit comes in. This is the process of reflecting on your life to get a clear picture of where you are, ares for improvement, and set goals based on what matters to you. You’ll gain clarity and align your life with your values. 
+
+
 
 ## Why Self-Reflection Matters
 > "The unexamined life is not worth living." **Socrates.**
