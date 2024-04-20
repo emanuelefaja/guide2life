@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/start/introduction' },
           { text: 'How To Use This', link: '/start/how-to-use-this' },
+          { text: 'Life Audit', link: '/start/life-audit' },
           { text: 'FAQ', link: '/start/faq' },
           { text: 'Your Attention is Your Life', link: '/start/faq' },
           { text: 'Growth Mindset', link: 'start/growth-mindset' },
