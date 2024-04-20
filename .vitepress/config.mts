@@ -173,7 +173,16 @@ export default defineConfig({
       { text: 'Journaling', link: '/tools/journaling' },
       ]
       },
-      { text: 'Contributions', link: '/contributions' },
+      {
+      text: 'Editorial Guidelines',
+      collapsed: true,
+      items: [
+      { text: 'Writing Style', link: '/editorial-guidelines/writing-style' },
+      { text: 'Referencing', link: '/editorial-guidelines/referencing' },
+      { text: 'How To Contribute', link: '/editorial-guidelines/how-to-contribute' },
+      { text: 'List of Contributors ', link: '/editorial-guidelines/list-of-contributors' },
+      ]
+      },
       
     ],
     
