@@ -23,6 +23,21 @@ features:
   - icon: ✏️
     title: Open Source
     details: Anyone can contribute to build knowledge.
+  - icon: ✏️
+    title: Open Source
+    details: Anyone can contribute to build knowledge.
+  - icon: 😊
+    title: Build Meaning. 
+    details: Wake up in the morning excited about life.
+  - icon: 💰
+    title: Free
+    details: All the knowledge in the guide is free.
+  - icon: ✏️
+    title: Open Source
+    details: Anyone can contribute to build knowledge.
+  - icon: ✏️
+    title: Open Source
+    details: Anyone can contribute to build knowledge.
   
 ---
 
