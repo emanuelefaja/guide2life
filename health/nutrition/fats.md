@@ -1,5 +1,6 @@
 # Fats.
 
+
 Fats are an essential part of a balanced diet, providing energy, supporting cell growth, and helping our bodies absorb vital nutrients. However, not all fats are created equal. Some fats promote health, while others can increase the risk of chronic diseases. Let's explore the different types of fats and their impact on our well-being.
 
 ## Types of Fats
@@ -24,8 +25,8 @@ Monounsaturated fats are considered healthy fats and can help lower LDL choleste
 ![](../../images/polyunsaturatedfats.webp)
 
 Polyunsaturated fats are also considered healthy fats and are essential for overall health. There are two main types of polyunsaturated fats:
-1. Omega-3 fatty acids: Found in fatty fish (e.g., salmon, mackerel, and sardines), flaxseeds, chia seeds, and walnuts. Omega-3s have anti-inflammatory properties and can help reduce the risk of heart disease, stroke, and certain cancers.
-2. Omega-6 fatty acids: Found in vegetable oils (e.g., soybean, corn, and sunflower oil), nuts, and seeds. While omega-6s are essential for health, consuming too much can lead to inflammation in the body.
+1. **Omega-3 fatty acids:** Found in fatty fish (e.g., salmon, mackerel, and sardines), flaxseeds, chia seeds, and walnuts. Omega-3s have anti-inflammatory properties and can help reduce the risk of heart disease, stroke, and certain cancers.
+2. **Omega-6 fatty acids:** Found in vegetable oils (e.g., soybean, corn, and sunflower oil), nuts, and seeds. While omega-6s are essential for health, consuming too much can lead to inflammation in the body.
 
 ### Saturated Fats
 ![](../../images/saturatedfats.webp)
@@ -34,7 +35,8 @@ Saturated fats are typically solid at room temperature and are primarily found i
 - Butter, cheese, and whole milk
 - Coconut and palm oil
 
-Consuming excessive amounts of saturated fats can raise levels of low-density lipoprotein (LDL) cholesterol, also known as "bad" cholesterol. High LDL cholesterol levels can increase the risk of heart disease and stroke.
+>[!CAUTION]
+>Consuming excessive amounts of saturated fats can raise levels of low-density lipoprotein (LDL) cholesterol, also known as "bad" cholesterol. High LDL cholesterol levels can increase the risk of heart disease and stroke.
 
 ### Trans Fats
 ![](../../images/transfat.webp)
@@ -45,7 +47,8 @@ Trans fats are the least healthy type of fat. They are created through a process
 - Margarine and shortening
 
 
-Trans fats not only raise LDL cholesterol levels but also lower high-density lipoprotein (HDL) cholesterol, or "good" cholesterol. Consuming trans fats significantly increases the risk of heart disease, stroke, and type 2 diabetes.
+>[!CAUTION]
+>Trans fats not only raise LDL cholesterol levels but also lower high-density lipoprotein (HDL) cholesterol, or "good" cholesterol. Consuming trans fats significantly increases the risk of heart disease, stroke, and type 2 diabetes.
 
 ## Understanding Cholesterol
 
@@ -85,7 +88,7 @@ When it comes to cholesterol levels, it's important to maintain a healthy balanc
 
 ## Common Myths 
 
-### Eating Fat Makes You Fat
+### Eating fat makes you fat.
 There is a common myth that eating fats directly leads to weight gain and that low-fat products are inherently healthier. This misconception has led many people to avoid fats altogether, often replacing them with processed, high-sugar alternatives. However, the reality is more complex.
 
 Fats are more calorie-dense than carbohydrates and proteins, with 9 calories per gram compared to 4 calories per gram. This higher calorie content can contribute to weight gain if consumed in excess. However, the type of fat consumed and the overall balance of one's diet are more important factors in maintaining a healthy weight.
