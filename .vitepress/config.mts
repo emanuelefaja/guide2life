@@ -128,6 +128,7 @@ export default defineConfig({
         items: [
           { text: 'What is health?', link: 'health/what-is-health' },
           { text: 'Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
+          { text: 'Losing Weight', link: '/health/losing-weight'},
           { text: 'Preventive Healthcare', link: '/api-exames' },
           { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
           { text: 'Hormones', link: '/health/hormones'},
