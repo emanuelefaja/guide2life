@@ -131,6 +131,7 @@ export default defineConfig({
           { text: 'Preventive Healthcare', link: '/api-exames' },
           { text: 'Metabolic Syndrome', link: '/health/non-communicable-diseases'},
           { text: 'Hormones', link: '/health/hormones'},
+          { text: 'Inflammation', link: '/health/inflammation'},
           { text: 'Autophagy', link: '/health/autophagy'},
           {
             "text": "Nutrition",
