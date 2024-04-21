@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: FAQ
       link: /start/faq
+  image:
+    src: /images/logo.png
+    alt: VitePress
 
 features:
   - icon: 😊
@@ -45,5 +48,6 @@ features:
   :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #00a0d9 30%, #41d1ff);
+    
   }
 </style>
