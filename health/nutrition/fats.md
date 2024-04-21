@@ -12,7 +12,7 @@ These are the four main types of fats, order from healthy to least healthy.
 4. Trans fats
 
 ### Monounsaturated Fats
-!
+![](../../images/monosaturatedfats.webp)
 
 Monounsaturated fats are considered healthy fats and can help lower LDL cholesterol levels and reduce the risk of heart disease. These fats are found in:
 - Olive, canola, and peanut oils
@@ -21,15 +21,14 @@ Monounsaturated fats are considered healthy fats and can help lower LDL choleste
 
 
 ### Polyunsaturated Fats
-!
+![](../../images/polyunsaturatedfats.webp)
 
 Polyunsaturated fats are also considered healthy fats and are essential for overall health. There are two main types of polyunsaturated fats:
 1. Omega-3 fatty acids: Found in fatty fish (e.g., salmon, mackerel, and sardines), flaxseeds, chia seeds, and walnuts. Omega-3s have anti-inflammatory properties and can help reduce the risk of heart disease, stroke, and certain cancers.
 2. Omega-6 fatty acids: Found in vegetable oils (e.g., soybean, corn, and sunflower oil), nuts, and seeds. While omega-6s are essential for health, consuming too much can lead to inflammation in the body.
 
 ### Saturated Fats
-
-!
+![](../../images/saturatedfats.webp)
 Saturated fats are typically solid at room temperature and are primarily found in animal products, such as:
 - Beef, pork, and lamb
 - Butter, cheese, and whole milk
@@ -38,7 +37,7 @@ Saturated fats are typically solid at room temperature and are primarily found i
 Consuming excessive amounts of saturated fats can raise levels of low-density lipoprotein (LDL) cholesterol, also known as "bad" cholesterol. High LDL cholesterol levels can increase the risk of heart disease and stroke.
 
 ### Trans Fats
-!
+![](../../images/transfat.webp)
 Trans fats are the least healthy type of fat. They are created through a process called hydrogenation, which turns liquid oils into solid fats. Trans fats are commonly found in:
 
 - Fried foods
