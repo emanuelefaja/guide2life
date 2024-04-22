@@ -13,12 +13,21 @@ hero:
       text: FAQ
       link: /start/faq
   image:
-    src: /images/logo.png
-    alt: VitePress
+    src: /images/logo.webp
+    alt: Greek Philosopher Thinking
 
 features:
+  - icon: 💰
+    title: Create Habits
+    details: All the knowledge in the guide is free.
+  - icon: ✏️
+    title: Develop Wisdom
+    details: Anyone can contribute to build knowledge.
+  - icon: ✏️
+    title: Make Good Decisions
+    details: Anyone can contribute to build knowledge.
   - icon: 😊
-    title: Build Meaning. 
+    title: Optimize Health 
     details: Wake up in the morning excited about life.
   - icon: 💰
     title: Free
@@ -29,18 +38,9 @@ features:
   - icon: ✏️
     title: Open Source
     details: Anyone can contribute to build knowledge.
-  - icon: 😊
-    title: Build Meaning. 
-    details: Wake up in the morning excited about life.
-  - icon: 💰
-    title: Free
-    details: All the knowledge in the guide is free.
-  - icon: ✏️
-    title: Open Source
-    details: Anyone can contribute to build knowledge.
-  - icon: ✏️
-    title: Open Source
-    details: Anyone can contribute to build knowledge.
+    
+    
+  
   
 ---
 
