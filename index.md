@@ -13,7 +13,7 @@ hero:
       text: FAQ
       link: /start/faq
   image:
-    src: /images/logo.webp
+    src: images/logo.webp
     alt: Greek Philosopher Thinking
 
 features:
