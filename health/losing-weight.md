@@ -81,7 +81,7 @@ This means that not all calories are the same, because different types of calori
 
 The following graph, showing how rates of obesity in various countries are highly correlated to the percentages of calories that come from ultra-processed foods, support this view. This graph was prepared by [Mario Kratz, PHD](https://nourishedbyscience.com/)
 
-![](../images/UFC-obesity.png)
+![](../images/obesity-processedfoods.png)
 
 
 While the fundamental physics of the CICO model—that you must burn more calories than you consume to lose fat—remains valid, this model does not capture the full complexity of human metabolism. Effective weight management requires considering not just the quantity of calories but also their quality and the timing of consumption.
