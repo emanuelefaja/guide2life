@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls:true,
+  sitemap: {
+      hostname: 'https://guide2life.org'
+    },
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   title: "Guide2Life",
   description: "Structured guide to living well.",
