@@ -11,6 +11,10 @@ export default defineConfig({
     search: {
           provider: 'local'
         },
+    footer: {
+          message: 'Made with ❤️ from around the 🌍',
+          copyright: 'No Rights Reserved'
+        },
     nav: [
       { text: 'Guide', link: '/start/introduction' }
       ],
