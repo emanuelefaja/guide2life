@@ -1,7 +1,7 @@
 # Losing Weight.
 
 >[!WARNING] ⚠️ A Note on Misinformation
-> The topic of weight loss is plagued by widespread misinformation, often perpetuated by fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that can make weight loss a confusing and frustrating endevour. **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** We encourage readers to approach weight loss information with a critical eye and to prioritize evidence-based strategies over popular trends or anecdotal advice.  
+> Weight loss is plagued by widespread misinformation, often perpetuated by fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that can make weight loss a confusing and frustrating endeavor. **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** We encourage readers to approach weight loss information with a critical eye and to prioritize evidence-based strategies over popular trends or anecdotal advice.  
 
 Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
 
