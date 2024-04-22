@@ -141,6 +141,9 @@ export default defineConfig({
               { "text": "Fats", "link": "/health/nutrition/fats" },
               { "text": "Carbohydrates", "link": "/health/nutrition/carbs" },
               { "text": "Protein", "link": "/health/nutrition/protein" },
+              { "text": "Sugar", "link": "/health/nutrition/sugar" },
+              { "text": "Salt", "link": "/health/nutrition/salt" },
+              { "text": "Fasting", "link": "/health/nutrition/fasting" },
             ]
           },
           { text: 'Exercise', link: '/markdown-exples' },
