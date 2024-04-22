@@ -4,7 +4,7 @@
 
 Non-communicable diseases (NCDs), also known as chronic diseases, are medical conditions that are not transmissible from person to person. NCDs are the leading cause of death globally, accounting for 74% of all deaths worldwide [1].
 
-So it’s important that you understand NCDs, as they are likely to you or the people around you. 
+So it’s important that you understand NCDs, as they are likely to affect you or the people around you. 
 
 These diseases are typically long-lasting and progress slowly over time, resulting in a long painful death and also severe distress for family members and loved ones .
 

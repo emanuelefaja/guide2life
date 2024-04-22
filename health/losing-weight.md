@@ -1,9 +1,24 @@
 # Losing Weight.
 
 >[!WARNING] ⚠️ A Note on Misinformation
-> The topic of weight loss is plagued by widespread misinformation, often perpetuated by fad diets, misleading marketing claims, and unsubstantiated advice. **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** We encourage readers to approach weight loss information with a critical eye and to prioritize evidence-based strategies over popular trends or anecdotal advice. 
+> The topic of weight loss is plagued by widespread misinformation, often perpetuated by fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that can make weight loss a confusing and frustrating endevour. **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** We encourage readers to approach weight loss information with a critical eye and to prioritize evidence-based strategies over popular trends or anecdotal advice.  
 
-Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. However, the abundance of fad diets, conflicting advice, and misleading marketing claims can make weight loss a confusing and frustrating endeavor.
+Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
+
+[The WHO definition](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight) overweight and obese as:
+
+> The diagnosis of overweight and obesity is made by measuring people’s weight and height and by calculating the body mass index (BMI): weight (kg)/height² (m²). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity. For adults, WHO defines overweight and obesity as follows:
+> - Overweight is a BMI greater than or equal to 25; and
+> - Obesity is a BMI greater than or equal to 30.
+
+
+The picture for modern society is grim.
+
+As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people).
+
+Obesity is now a bigger problem than malnutrition in many parts of the world, highlighting a shift in global health concerns from traditional undernutrition to excessive nutrition-related chronic conditions like cardiovascular disease and diabetes. ​ [You can check where you country ranks in obesity here.](https://data.worldobesity.org/rankings/)
+
+That said, you do not have to be part of these statistics. 
 
 ![](../images/fatloss.png)
 
@@ -14,9 +29,11 @@ Achieving and maintaining a healthy weight is a common goal, with benefits for p
 > - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
 > - **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
 
-Let's start by clarifying that when we say "losing weight," we specifically mean losing excess body fat while preserving lean muscle mass. This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run (Cava et al., 2017). Therefore, the focus should be on adopting evidence-based strategies that promote fat loss while maintaining or even building lean muscle mass for sustainable, healthy weight management.
+Let's start by clarifying that when we say "losing weight," we specifically mean losing excess body fat while preserving lean muscle mass. 
 
+This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run (Cava et al., 2017). 
 
+Therefore, the focus should be on adopting evidence-based strategies that promote fat loss while maintaining or even building lean muscle mass for sustainable, healthy weight management.
 
 ## The Problem with Diets
 Research suggests that 95% of diets fail, with most people regaining the weight they lost within a few years or months (Mann et al., 2007). Fad diets often promise rapid weight loss through strict rules and limited food choices, but these diets are difficult to maintain long-term and can lead to feelings of deprivation, frustration, and eventual abandonment (Dulloo & Montani, 2015).
@@ -25,11 +42,13 @@ The reason is that the body adapts to calorie restriction by slowing down metabo
 
 When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy (Müller & Bosy-Westphal, 2013). These adaptations include:
 
-- Decreased resting metabolic rate: Your body starts burning fewer calories at rest to conserve energy (Rosenbaum & Leibel, 2010).
-- Increased hunger and appetite: Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings (Sumithran et al., 2011).
-- Reduced non-exercise activity thermogenesis (NEAT): Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements (Rosenbaum et al., 2003).
+- **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy (Rosenbaum & Leibel, 2010).
+- **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings (Sumithran et al., 2011).
+- **Reduced non-exercise activity thermogenesis (NEAT):** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements (Rosenbaum et al., 2003).
 
-As a result of these adaptations, you may experience a plateau in weight loss despite maintaining a calorie deficit. To continue losing weight, you would need to further reduce your calorie intake, which can lead to feelings of deprivation, fatigue, and frustration. This cycle of constantly cutting calories and battling hunger is one of the main reasons why many people find it challenging to sustain long-term weight loss through calorie restriction alone.
+As a result of these adaptations, you may experience a stop in weight loss despite maintaining what was previously a calorie deficit. 
+
+To continue losing weight, you would need to further reduce your calorie intake, which can lead to feelings of deprivation, fatigue, and frustration. This cycle of constantly cutting calories and battling hunger is one of the main reasons why many people find it challenging to sustain long-term weight loss through calorie restriction alone.
 
 Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits (Cava et al., 2017).
 
