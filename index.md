@@ -17,28 +17,15 @@ hero:
     alt: Greek Philosopher Thinking
 
 features:
-  - icon: 🚀
-    title: Start Your Journey
-    details: Begin your journey with our Introduction to a well-lived life. Discover the steps to happiness and fulfillment.
-  - icon: 📚
-    title: Learn & Grow
-    details: Dive into our Guide section to master habits and develop wisdom with our evidence-based approach.
-  - icon: 🌱
-    title: Create Habits
-    details: Learn to form life-changing habits and eliminate bad ones to take control of your daily life.
-  - icon: 🤔
-    title: Make Wise Decisions
-    details: Explore decision-making processes to navigate life's complexities confidently.
-  - icon: 🧘‍♂️
-    title: Optimize Health
-    details: Maintain peak condition with our comprehensive health strategies, from nutrition to mental health.
-  - icon: 💡
-    title: Contribute & Collaborate
-    details: Join our community, contribute your insights, and help expand our collective knowledge.
-
-    
-    
-  
+- icon: 📚
+  title: Evidence-Based
+  details:  Backed by peer-reviewed research, ensuring reliable, scientifically supported advice.
+- icon: 🌐
+  title: Open Source
+  details: Fully open-source, allowing anyone to contribute and share knowledge freely.
+- icon: 💰
+  title: Free for All
+  details: Access all our resources at no cost and improve your life without financial barriers
   
 ---
 
