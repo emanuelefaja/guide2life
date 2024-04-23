@@ -2,3 +2,4 @@
 .DS_Store
 .vitepress/.DS_Store
 .obsidian
+node_modules
