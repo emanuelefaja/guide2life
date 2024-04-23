@@ -3,7 +3,6 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  plugins: [vue()],
   vite: { 
     optimizeDeps: { 
       include: [ 
