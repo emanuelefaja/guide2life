@@ -103,7 +103,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '🔗 Mono Task', link: '/markdown-amples' },
-          { text: '⏲️ Pomodoro Technique', link: '/time/pomodoro' }
+          { text: '🍅 Pomodoro Technique', link: '/time/pomodoro' }
         ]
       },
       {
