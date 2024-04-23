@@ -1,27 +1,29 @@
 # Referencing
 
-Proper referencing is crucial to maintaining the credibility and integrity of the Guide2Life. It ensures that we give credit to the original sources of information and allows readers to explore the research and evidence behind our recommendations.
+Proper referencing is crucial to maintaining the credibility and integrity of the Guide2Life. It ensures that we give credit to the original sources of information and allows readers to explore the research and evidence behind our recommendations. All content on Guide2Life must be verifiable. This means that readers can, if they wish to, check that the information is accurate. 
+
+This also means that Guide2Life is not the place for original work,  findings that have not been published, or evidence from unpublished sources. [This aligns closely with the policies of Wikipedia. ](https://en.wikipedia.org/wiki/Help:Referencing_for_beginners)
 
 Note that while there are strict rules on what counts as an acceptable and unacceptable source, *we can still link to blog posts and Youtube videos if they provide useful content for readers*, we just cannot use them to back up points that we make. For instance, it is acceptable to say that [this blog post  ](https://emanuele.cc/harvard-referencing-guide/) and [this 1-minute summary Youtube video](https://www.youtube.com/watch?v=AVeRlhG9gB8) are useful resources to learn more about Harvard Referencing style. 
+
+## Inline Citations
+
+
 
 ## Harvard Style
 
 > [!TIP] Strike a Balance in Referencing
 > While referencing is essential, avoid over-referencing to maintain readability for non-academic audiences. Aim to use references strategically to support key points and ideas without overwhelming the reader.
 
-Throughout the guide, we use the Harvard style of referencing, specifically the *Cite Them Right* style. [The Open University has a comprehensive guide on this.](https://www5.open.ac.uk/library/referencing-and-plagiarism/quick-guide-to-harvard-referencing-cite-them-right)
+Throughout the guide, we use the Harvard style of referencing style, specifically the *Cite Them Right* style. [The Open University has a comprehensive guide on this.](https://www5.open.ac.uk/library/referencing-and-plagiarism/quick-guide-to-harvard-referencing-cite-them-right)
 
-When citing a source within the text, include the author's last name and the year of publication in parentheses, like this: (Smith, 2021). If you are directly quoting a source, also include the page number(s) after the year, like this: (Smith, 2021, p. 45).
+At the end of each page or section, include a "References" heading with an H2 tag (##References). Under this heading, you can list the references, with a line break between each source. You can use this style as per the [Markdown Footnotes Guide.](https://www.markdownguide.org/extended-syntax/#footnotes)
 
-> [!TIP] Parenthetical vs Narrative Citation 
-> In the Guide2Life, we consistently use parenthetical citations, where the author's last name and the year of publication are placed in parentheses at the end of the sentence or clause, like this: (Smith, 2021). Avoid overusing narrative citations, such as "According to Smith (2021)..." or "Smith (2021) argues that..."
-> 
->The reason for this is that parenthetical citations help maintain a more accessible and engaging tone by minimizing the disruption to the flow of the text. This approach prevents the guide from reading like a research paper, making it more appealing and understandable to our target audience.
+```markdown 
+[^1]: This is your reference in the Harvard style
+ ```
 
-
-When citing multiple sources within the same parentheses, list them alphabetically by the first author's last name and separate them with semicolons, like this: (Jones, 2019; Smith, 2021; Taylor, 2020).
-
-At the end of each page or section, include a "References" heading with an H2 tag (## References). Under this heading, list all the sources cited on that page or in that section as bullet points. Each reference should include the author's last name and initials, the year of publication, the title of the work, and the publication details.
+Each reference should include the author's last name and initials, the year of publication, the title of the work, and the publication details.
 
 Here's an example of how to format a reference for a journal article:
 
@@ -35,7 +37,7 @@ Here's an example of a reference with a DOI link:
 
 By following these referencing guidelines, we ensure that the "Guide2Life" is a well-researched, transparent, and reliable resource for our readers.
 
-##  Sources
+## Sources
 
 We prioritize peer-reviewed journals and primary sources. 
 
