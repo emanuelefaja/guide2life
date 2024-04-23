@@ -19,7 +19,7 @@ export default defineConfig({
           copyright: 'No Rights Reserved'
         },
     nav: [
-      { text: '📖 Guide', link: '/start/introduction' }
+      { text: 'Guide', link: '/start/introduction' }
       ],
 
     sidebar: [
