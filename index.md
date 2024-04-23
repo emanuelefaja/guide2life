@@ -7,10 +7,10 @@ hero:
   tagline: A structured evidence-based approach to get the most out of life.
   actions:
     - theme: brand
-      text: Introduction
+      text: 👋 Introduction
       link: /start//introduction
     - theme: alt
-      text: FAQ
+      text: 🔍 FAQ
       link: /start/faq
   image:
     src: logo.webp
