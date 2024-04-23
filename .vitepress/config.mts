@@ -148,7 +148,7 @@ export default defineConfig({
             "collapsed": true,
             "items": [
               { "text": "🍖 Fats", "link": "/health/nutrition/fats" },
-              { "text": "🍞 Carbohydrates", "link": "/health/nutrition/carbs" },
+              { "text": "🍞 Carbohydrates", "link": "/health/nutrition/carbohydrates" },
               { "text": "🍳 Protein", "link": "/health/nutrition/protein" },
               { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
               { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
