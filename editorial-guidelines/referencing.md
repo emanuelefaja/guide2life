@@ -2,16 +2,21 @@
 
 Proper referencing is crucial to maintaining the credibility and integrity of the Guide2Life. It ensures that we give credit to the original sources of information and allows readers to explore the research and evidence behind our recommendations.
 
+Note that while there are strict rules on what counts as an acceptable and unacceptable source, *we can still link to blog posts and Youtube videos if they provide useful content for readers*, we just cannot use them to back up points that we make. For instance, it is acceptable to say that [this blog post  ](https://emanuele.cc/harvard-referencing-guide/) and [this 1-minute summary Youtube video](https://www.youtube.com/watch?v=AVeRlhG9gB8) are useful resources to learn more about Harvard Referencing style. 
+
+## Harvard Style
+
 > [!TIP] Strike a Balance in Referencing
 > While referencing is essential, avoid over-referencing to maintain readability for non-academic audiences. Aim to use references strategically to support key points and ideas without overwhelming the reader.
 
-Throughout the guide, we use the Harvard style of referencing. When citing a source within the text, include the author's last name and the year of publication in parentheses, like this: (Smith, 2021). If you are directly quoting a source, also include the page number(s) after the year, like this: (Smith, 2021, p. 45).
+Throughout the guide, we use the Harvard style of referencing, specifically the *Cite Them Right* style. [The Open University has a comprehensive guide on this.](https://www5.open.ac.uk/library/referencing-and-plagiarism/quick-guide-to-harvard-referencing-cite-them-right)
+
+When citing a source within the text, include the author's last name and the year of publication in parentheses, like this: (Smith, 2021). If you are directly quoting a source, also include the page number(s) after the year, like this: (Smith, 2021, p. 45).
 
 > [!TIP] Parenthetical vs Narrative Citation 
-> In the Guide2Life, we consistently use parenthetical citations, where the author's last name and the year of publication are placed in parentheses at the end of the sentence or clause, like this: (Smith, 2021). Avoid using narrative citations, such as "According to Smith (2021)..." or "Smith (2021) argues that..."
+> In the Guide2Life, we consistently use parenthetical citations, where the author's last name and the year of publication are placed in parentheses at the end of the sentence or clause, like this: (Smith, 2021). Avoid overusing narrative citations, such as "According to Smith (2021)..." or "Smith (2021) argues that..."
 > 
->Parenthetical citations help maintain a more accessible and engaging tone by minimizing the disruption to the flow of the text. This approach prevents the guide from reading like a research paper, making it more appealing and understandable to our target audience.
-
+>The reason for this is that parenthetical citations help maintain a more accessible and engaging tone by minimizing the disruption to the flow of the text. This approach prevents the guide from reading like a research paper, making it more appealing and understandable to our target audience.
 
 
 When citing multiple sources within the same parentheses, list them alphabetically by the first author's last name and separate them with semicolons, like this: (Jones, 2019; Smith, 2021; Taylor, 2020).
