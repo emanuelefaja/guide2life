@@ -1,9 +1,9 @@
 # Introduction
-Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled.](https://github.com/emanuelefaja/howtolive)
+Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled.](https://github.com/emanuelefaja/howtolive) You can email editor@guide2life.org for contributions, feedback, and questions.
 
 **At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.**
 
-Drawing from a wide range of disciplines, including psychology, philosophy, health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or find a deeper sense of purpose, this guide will provide you with practical strategies and insights to help you along the way.
+Drawing from a wide range of disciplines, including philosophy, psychology, health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or find a deeper sense of purpose, this guide will provide you with practical strategies and insights to help you along the way.
 
 But it's not just about hitting all your goals, it's about finding contentment and peace regardless of the situations you find yourself in.
 
