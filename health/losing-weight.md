@@ -92,6 +92,32 @@ Insulin is a hormone produced by the pancreas that regulates blood sugar levels 
 
 Insulin is often referred to as the "gatekeeper" of fat storage. High levels of insulin promote fat storage, while low levels of insulin allow for fat burning (Dimitriadis et al., 2011). This is why individuals with Type 1 Diabetes, who cannot produce insulin, can lose weight rapidly and face life-threatening complications if not treated with insulin injections, regardless of how much they eat (Frandsen & Svensson, 2021).
 
+## Understanding Fat Burning and the Role of Glycogen
+
+To effectively lose body fat, it's essential to understand the underlying biological processes involved in fat burning and the role of glycogen stores in this process.
+
+### Glycogen: The Body's Stored Carbohydrates
+
+When you consume carbohydrates, your body breaks them down into glucose, which is then used for immediate energy needs or stored in the liver and muscles as glycogen (Jensen et al., 2011). Glycogen is the body's primary source of stored energy and is readily accessible for quick energy release when needed (Acheson et al., 1988).
+
+### Prioritizing Glycogen for Energy
+
+When your body requires energy, it first turns to available glucose in the bloodstream and then to stored glycogen. As long as there are sufficient glycogen stores, your body will preferentially use these stores for energy rather than tapping into stored fat (Acheson et al., 1988).
+
+### Depleting Glycogen Stores for Fat Burning
+
+To shift your body into a fat-burning state, you need to deplete your glycogen stores. This can be achieved through a combination of reduced carbohydrate intake and increased physical activity (Volek et al., 2015). Once glycogen stores are depleted, your body is forced to turn to stored fat for energy, leading to fat loss.
+
+### The Fat-Burning Process
+
+When glycogen stores are low, your body releases fatty acids from adipose tissue (fat cells) through a process called lipolysis (Duncan et al., 2007). These fatty acids are then transported to various tissues, including the liver and muscles, where they are metabolized for energy through a process called beta-oxidation (Houten & Wanders, 2010).
+
+### Ketosis: An Advanced Fat-Burning State
+
+In the absence of sufficient glucose and glycogen, your liver produces ketones from fatty acids. This metabolic state, known as ketosis, is an efficient way for your body to use stored fat for energy (Paoli et al., 2015). Very low-carbohydrate diets, such as the ketogenic diet, aim to induce and maintain a state of ketosis to promote fat burning (Volek & Phinney, 2011).
+
+By understanding the role of glycogen stores and the fat-burning process, you can make informed decisions about your diet and exercise routines to optimize fat loss. Strategies such as reducing carbohydrate intake, increasing physical activity, and considering low-carbohydrate or ketogenic diets can help deplete glycogen stores and promote fat burning.
+
 ## The Satiety Mechanism
 
 The body has a built-in system called the "satiety mechanism," which relies on stretch receptors in the stomach and nutrient receptors in the small intestine to signal when we've eaten enough (Lisle & Goldhamer, 2006). When we eat whole, unprocessed foods that are high in fiber and nutrients but relatively low in calorie density, this mechanism works effectively to prevent overeating and maintain a healthy weight.
@@ -246,4 +272,18 @@ Tapsell, L.C., Neale, E.P., Satija, A. and Hu, F.B., 2014. Foods, nutrients, and
 Westman, E.C., Feinman, R.D., Mavropoulos, J.C., Vernon, M.C., Volek, J.S., Wortman, J.A., Yancy, W.S. and Phinney, S.D., 2007. Low-carbohydrate nutrition and metabolism. The American Journal of Clinical Nutrition, 86(2), pp.276-284.
 
 Westerterp-Plantenga, M. S., Nieuwenhuizen, A., Tome, D., Soenen, S., & Westerterp, K. R. (2009). Dietary protein, weight loss, and weight maintenance. Annual Review of Nutrition, 29(1), 21-41.
+
+Acheson, K. J., Schutz, Y., Bessard, T., Anantharaman, K., Flatt, J. P., & Jéquier, E. (1988). Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man. The American Journal of Clinical Nutrition, 48(2), 240-247.
+
+Duncan, R. E., Ahmadian, M., Jaworski, K., Sarkadi-Nagy, E., & Sul, H. S. (2007). Regulation of lipolysis in adipocytes. Annual Review of Nutrition, 27, 79-101.
+
+Houten, S. M., & Wanders, R. J. (2010). A general introduction to the biochemistry of mitochondrial fatty acid β-oxidation. Journal of Inherited Metabolic Disease, 33(5), 469-477.
+
+Jensen, J., Rustad, P. I., Kolnes, A. J., & Lai, Y. C. (2011). The role of skeletal muscle glycogen breakdown for regulation of insulin sensitivity by exercise. Frontiers in Physiology, 2, 112.
+
+Paoli, A., Rubini, A., Volek, J. S., & Grimaldi, K. A. (2015). Beyond weight loss: A review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets. European Journal of Clinical Nutrition, 67(8), 789-796.
+
+Volek, J. S., & Phinney, S. D. (2011). The art and science of low carbohydrate living: An expert guide to making the life-saving benefits of carbohydrate restriction sustainable and enjoyable. Beyond Obesity LLC.
+
+Volek, J. S., Noakes, T., & Phinney, S. D. (2015). Rethinking fat as a fuel for endurance exercise. European Journal of Sport Science, 15(1), 13-20.
 

@@ -60,7 +60,7 @@ Ultimately, you are responsible for your life.  Guide2Life provides guidance and
 
 ## References 
 
-- Irvine, W. B. (2009). A Guide to the Good Life: The ancient art of Stoic joy. Oxford University Press.
+Irvine, W. B. (2009). A Guide to the Good Life: The ancient art of Stoic joy. Oxford University Press.
 
 
 
