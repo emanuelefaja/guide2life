@@ -1,7 +1,7 @@
 # How To Use This. 
 There is a lot of information in Guide2Life. However, life is not school, and you are not going to be tested on trying to memorize everything about the role of Insulin on body fat or the effects of meditation on your mental state.
 
-**The most important thing is behavior change — changing your identity to take on new behavioral patterns that serve you (Simons, 2021).** 
+**The most important thing is behavior change — changing your identity to take on new behavioral patterns that serve you.[^1] ** 
 
 > “If you don’t control your habits, your habits will control you.” **Hal Elrod.**
 
@@ -13,7 +13,7 @@ There is a famous Buddhist parable from the [Cūḷamālukya Sutta](https://ency
 
 You do not have understand the precise process of how bacteria causes dental problems in order to brush your teeth everyday. It just becomes part of who you are, a person who brushes their teeth twice a day. You hardly think about it.  
 
-Similarly, when it comes to the information presented in Guide2Life, the goal is not to simply learn and memorize facts. **Instead, use the knowledge to make meaningful changes in your daily life (Bandura, 2020)​.**
+Similarly, when it comes to the information presented in Guide2Life, the goal is not to simply learn and memorize facts. **Instead, use the knowledge to make meaningful changes in your daily life​. [^2]**
 
 If you learn about how insulin works and its impact on body fat, the point is not to become an expert on insulin physiology. Instead, the objective is to make different eating choices each day based on that knowledge, such as choosing lower glycemic index foods, being mindful of portion sizes, or practicing OMAD.
 
@@ -50,6 +50,6 @@ Here are some tips on how to effectively use Guide2Life:
 
 ## References
 
-Bandura, A. (2020) 'Changing Behavior Using Social Cognitive Theory', in Hagger, M.S., Cameron, L.D., Hamilton, K., Hankonen, N. and Lintunen, T. (eds.) _The Handbook of Behavior Change_. Cambridge: Cambridge University Press, DOI: 10.1017/9781108677318.003.
+[^1]:Simons, J.D. (2021) 'From Identity to Enaction: Identity Behavior Theory', _Frontiers in Psychology_, 12. Available at: [https://doi.org/10.3389/fpsyg.2021.679490](https://doi.org/10.3389/fpsyg.2021.679490) (Accessed: 24 April 2024).
 
-Simons, J.D. (2021) 'From Identity to Enaction: Identity Behavior Theory', _Frontiers in Psychology_, 12. Available at: [https://doi.org/10.3389/fpsyg.2021.679490](https://doi.org/10.3389/fpsyg.2021.679490) (Accessed: 24 April 2024).
+[^2]:Bandura, A. (2020) 'Changing Behavior Using Social Cognitive Theory', in Hagger, M.S., Cameron, L.D., Hamilton, K., Hankonen, N. and Lintunen, T. (eds.) _The Handbook of Behavior Change_. Cambridge: Cambridge University Press, DOI: 10.1017/9781108677318.003.

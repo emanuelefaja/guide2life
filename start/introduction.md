@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the Guide2Life, a structured evidence-based approach to get the most out of life. All changes to this guide are [version controlled.](https://github.com/emanuelefaja/howtolive) You can email editor@guide2life.org for contributions, feedback, and questions.
 
-**At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.**
+**At the core of this guide is the belief that living well is a skill that can be learned and cultivated through intentional effort and practice.** 
 
 Drawing from a wide range of disciplines, including philosophy, psychology, health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or find a deeper sense of purpose, this guide will provide you with practical strategies and insights to help you along the way.
 
@@ -9,7 +9,7 @@ But it's not just about hitting all your goals, it's about finding contentment a
 
 ## A Philosophy of Life
 
-Having a meaningful life means having a grand goal for living. This grand goal serves as the foundation of a well-developed philosophy of life, guiding our choices, actions, and priorities (Irvine, 2009). It is about understanding what we want _out_ of life, rather than merely what we want _in_ life.
+Having a meaningful life means having a grand goal for living. This grand goal serves as the foundation of a well-developed philosophy of life, guiding our choices, actions, and priorities. It is about understanding what we want _out_ of life, rather than merely what we want _in_ life. [^1]
 
 ![](../images/lifereflections.webp)
 
@@ -60,7 +60,7 @@ Ultimately, you are responsible for your life.  Guide2Life provides guidance and
 
 ## References 
 
-Irvine, W. B. (2009). A Guide to the Good Life: The ancient art of Stoic joy. Oxford University Press.
+[^1]:Irvine, W. B. (2009). A Guide to the Good Life: The ancient art of Stoic joy. Oxford University Press.
 
 
 
