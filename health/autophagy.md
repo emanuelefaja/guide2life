@@ -1,6 +1,8 @@
 # Autophagy.
 
-Autophagy is a natural cellular process that helps maintain homeostasis by breaking down and recycling damaged or unnecessary cellular components. The term "autophagy" is derived from Greek, meaning "self-eating." This process is essential for cellular health, as it helps prevent the accumulation of dysfunctional proteins and organelles, which can lead to various diseases.
+Autophagy sounds like magic, but it is very much a real process — the Nobel Prize in Physiology or Medicine 2016 was awarded to Yoshinori Ohsumi for his discoveries of mechanisms for Autophagy.
+
+Autophagy is a natural cellular process that helps maintain homeostasis by breaking down and recycling damaged or unnecessary cellular components. The term "Autophagy" is derived from Greek, meaning "self-eating." This process is essential for cellular health, as it helps prevent the accumulation of dysfunctional proteins and organelles, which can lead to various diseases.
 
 ## The Process of Autophagy
 
