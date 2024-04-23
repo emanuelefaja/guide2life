@@ -78,6 +78,43 @@ export default defineConfig({
         ]
       },
       {
+        text: '🌿 Optimize Health',
+        collapsed: true,
+        items: [
+          { text: '🍏 What is health?', link: 'health/what-is-health' },
+          {
+            "text": "🔑 Key Concepts",    
+            "collapsed": true,
+            "items": [
+              { "text": "🧬 Non-Communicable Diseases", "link": "/health/non-communicable-diseases" },
+              { "text": '🏥 Preventive Healthcare', link: '/api-exames' },,
+              { "text": '🍏 Metabolic Syndrome', link: '/health/non-communicable-diseases'},
+              { "text": '🔥 Inflammation', link: '/health/inflammation'},
+              { "text": '🧘‍♂️ Autophagy', link: '/health/autophagy'},
+            ]
+          },
+          { text: '⚖️ Losing Weight', link: '/health/losing-weight'},
+          { text: '🧬 Hormones', link: '/health/hormones'},
+          {
+            "text": "🥗 Nutrition",
+            "collapsed": true,
+            "items": [
+              { "text": "🍖 Fats", "link": "/health/nutrition/fats" },
+              { "text": "🍞 Carbohydrates", "link": "/health/nutrition/carbohydrates" },
+              { "text": "🍳 Protein", "link": "/health/nutrition/protein" },
+              { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
+              { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
+              { "text": "🕔 Fasting", "link": "/health/nutrition/fasting" },
+            ]
+          },
+          { text: '🏋️‍♂️ Exercise', link: '/markdown-exples' },
+          { text: '💤 Sleep', link: '/health/sleep' },
+          { text: '🍷 Addictions', link: '/api-exames' },
+          { text: '🌬️ Breathing Techniques', link: '/api-exames' },
+          { text: '🧠 Mental Health', link: '/api-exales' }
+        ]
+      },
+      {
         text: '🧮 Decide Rationally',
         collapsed: true,
         items: [
@@ -129,37 +166,6 @@ export default defineConfig({
               { "text": "📝 Setting Habits", "link": "/api-exames" }
             ]
           }
-        ]
-      },
-      {
-        text: '🌿 Optimize Health',
-        collapsed: true,
-        items: [
-          { text: '🍏 What is health?', link: 'health/what-is-health' },
-          { text: '🧬 Non-Communicable Diseases', link: '/health/non-communicable-diseases'},
-          { text: '⚖️ Losing Weight', link: '/health/losing-weight'},
-          { text: '🏥 Preventive Healthcare', link: '/api-exames' },
-          { text: '🍏 Metabolic Syndrome', link: '/health/non-communicable-diseases'},
-          { text: '🧬 Hormones', link: '/health/hormones'},
-          { text: '🔥 Inflammation', link: '/health/inflammation'},
-          { text: '🧘‍♂️ Autophagy', link: '/health/autophagy'},
-          {
-            "text": "🥗 Nutrition",
-            "collapsed": true,
-            "items": [
-              { "text": "🍖 Fats", "link": "/health/nutrition/fats" },
-              { "text": "🍞 Carbohydrates", "link": "/health/nutrition/carbohydrates" },
-              { "text": "🍳 Protein", "link": "/health/nutrition/protein" },
-              { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
-              { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
-              { "text": "🕔 Fasting", "link": "/health/nutrition/fasting" },
-            ]
-          },
-          { text: '🏋️‍♂️ Exercise', link: '/markdown-exples' },
-          { text: '💤 Sleep', link: '/health/sleep' },
-          { text: '🍷 Addictions', link: '/api-exames' },
-          { text: '🌬️ Breathing Techniques', link: '/api-exames' },
-          { text: '🧠 Mental Health', link: '/api-exales' }
         ]
       },
       {
