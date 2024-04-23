@@ -119,7 +119,7 @@ While it's true that extra virgin olive oil has a lower smoke point compared to 
 - U.S. Department of Health and Human Services & U.S. Department of Agriculture. (2015). 2015-2020 Dietary Guidelines for Americans. 8th Edition. Retrieved from [https://health.gov/our-work/food-nutrition/previous-dietary-guidelines/2015](https://health.gov/our-work/food-nutrition/previous-dietary-guidelines/2015)
 - Rong, Y., Chen, L., Zhu, T., Song, Y., Yu, M., Shan, Z., Sands, A., Hu, F. B., & Liu, L. (2013). Egg consumption and risk of coronary heart disease and stroke: dose-response meta-analysis of prospective cohort studies. BMJ, 346, e8539. [https://doi.org/10.1136/bmj.e8539](https://doi.org/10.1136/bmj.e8539)
 - Lawrence, G.D. (2013) 'A healthy approach to dietary fats: understanding the science and taking action to reduce consumer confusion', Nutrition Journal, 12, p. 164. Available at: https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-12-164 (Accessed: 24 April 2024).
-- Mozaffarian, D., Appel, L.J., and Van Horn, L. (2010) 'Dietary fat and cardiometabolic health: evidence, controversies, and consensus for guidance', The BMJ, 341, c4222. Available at: https://www.bmj.com/content/341/bmj.c4222 (Accessed: 24 April 2024).
+- Mozaffarian, D., Appel, L.J., and Van Horn, L. (2010) 'Dietary fat and cardiometabolic health: evidence, controversies, and consensus for guidance', The BMJ, 341, c4222. Available at: https://www.bmj.com/content/361/bmj.k2139 (Accessed: 24 April 2024).
 
 
 [1]: https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf
