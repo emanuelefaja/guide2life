@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://guide2life.org">
-    <h1 align="center">Guide2Life</h1>
-    <h2 align="center">The essential guide to living well.</h2>
+    <h1 align="center">Guide2Life </h1>
+    <h3 align="center">The essential guide to living well.</h3>
   </a>
   <p align="center">
     <a href="https://guide2life.org">Website</a>
