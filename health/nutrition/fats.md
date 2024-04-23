@@ -89,6 +89,9 @@ When it comes to cholesterol levels, it's important to maintain a healthy balanc
 ## Common Myths 
 
 ### Eating fat makes you fat.
+
+> "Despite decades of dietary advice that the lower the total fat content, the healthier the diet, researchers and public health authorities now agree that to consider the effect of total fat intake alone on health is meaningless; different types of fats must be considered" (Mozaffarian, Appel, and Van Horn, 2010).
+
 There is a common myth that eating fats directly leads to weight gain and that low-fat products are inherently healthier. This misconception has led many people to avoid fats altogether, often replacing them with processed, high-sugar alternatives. However, the reality is more complex.
 
 Fats are more calorie-dense than carbohydrates and proteins, with 9 calories per gram compared to 4 calories per gram. This higher calorie content can contribute to weight gain if consumed in excess. However, the type of fat consumed and the overall balance of one's diet are more important factors in maintaining a healthy weight.
