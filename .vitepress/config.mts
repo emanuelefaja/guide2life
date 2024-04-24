@@ -49,6 +49,8 @@ export default defineConfig({
           { text: '🌟 The Importance of Habits', link: '/habits/importance-of-habits' },
           { text: '🔬 Habit Formation Science', link: '/habits/habit-formation-science' },
           { text: '🚀 Good Starting Habits', link: '/markdown-exples' },
+          { text: '🗝️ Keystone Habits', link: '/habits/keystone-habits' },
+          { text: '🧱 Habit Stacking', link: '/habits/habit-stacking' },
           { text: '🛠️ Creating New Habits', link: '/habits/creating-new-habits' },
           { text: '🧹 Breaking Bad Habits', link: 'habits/breaking-bad-habits' },
           { text: '📊 Tracking Habits', link: 'habits/tracking-habits' }
@@ -62,6 +64,8 @@ export default defineConfig({
           { text: '📚 Continuous Education', link: '/markwn-examples' },
           { text: '📢 Socratic Reasoning', link: '/markd-examples' },
           { text: '🚧 Things Will Go Wrong', link: '/api-examps' },
+          {text: '🪞 Cultivating Self-Awareness', link: '/api-examps' },
+          { text: '🧠 Emotional Intelligence', link: '/api-examps' },
           { text: '❤️ Conquering Desire', link: '/api-examps' },
           { text: '✍️ Keep a Journal', link: '/api-exples' },
           { text: '✈️ Travel', link: 'wisdom/travel' },
@@ -123,6 +127,8 @@ export default defineConfig({
           { text: '🏋️‍♂️ Exercise', link: '/markdown-exples' },
           { text: '💤 Sleep', link: '/health/sleep' },
           { text: '🍷 Addictions', link: '/api-exames' },
+          { text: '🧘 Stress Management Techniques', link: '/health/stress-management' },
+          { text: '🌍 Environmental Factors Affecting Health', link: '/health/environmental-factors'}
           { text: '🌬️ Breathing Techniques', link: '/api-exames' },
           { text: '🧠 Mental Health', link: '/api-exales' }
         ]
@@ -158,6 +164,7 @@ export default defineConfig({
           { "text": "🤝 Networking Techniques", "link": "/work/networking" },
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
           { "text": "🔄 Career Transitions", "link": "/work/career-transitions" }
+          { "text": "🌍 Remote Work", "link": "/work/remote-work" }
         ]
       },
       {
@@ -192,10 +199,12 @@ export default defineConfig({
           { "text": "🏦 Banking and Savings", "link": "/wealth/banking-and-savings" },
           { "text": "🌍 Diversification Strategies", "link": "/wealth/diversification-strategies" },
           { "text": "💹 Stock Market Fundamentals", "link": "/wealth/stock-market-fundamentals" },
-          { "text": "💸 Tax Planning", "link": "/wealth/tax-planning" }
+          { "text": "💸 Tax Planning", "link": "/wealth/tax-planning" },
+          { "text": "🧠 The Psychology of Money", "link": "/wealth/psychology-of-money" },
+          { "text": "📊 Budgeting and Expense Tracking", "link": "/wealth/budgeting-and-expense-tracking" },
+          { "text": "🚨 The Importance of Emergency Funds", "link": "/wealth/emergency-funds" },
         ]
-      },
-      {
+      }      {
       text: '📛 Common Problems',
       collapsed: true,
       items: [
