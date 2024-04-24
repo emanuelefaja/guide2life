@@ -128,7 +128,7 @@ export default defineConfig({
           { text: '💤 Sleep', link: '/health/sleep' },
           { text: '🍷 Addictions', link: '/api-exames' },
           { text: '🧘 Stress Management Techniques', link: '/health/stress-management' },
-          { text: '🌍 Environmental Factors Affecting Health', link: '/health/environmental-factors'}
+          { text: '🌍 Environmental Factors Affecting Health', link: '/health/environmental-factors'},
           { text: '🌬️ Breathing Techniques', link: '/api-exames' },
           { text: '🧠 Mental Health', link: '/api-exales' }
         ]
@@ -163,7 +163,7 @@ export default defineConfig({
           { "text": "📝 Resume and Cover Letter Writing", "link": "/work/resume-writing" },
           { "text": "🤝 Networking Techniques", "link": "/work/networking" },
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
-          { "text": "🔄 Career Transitions", "link": "/work/career-transitions" }
+          { "text": "🔄 Career Transitions", "link": "/work/career-transitions"},
           { "text": "🌍 Remote Work", "link": "/work/remote-work" }
         ]
       },
@@ -204,7 +204,8 @@ export default defineConfig({
           { "text": "📊 Budgeting and Expense Tracking", "link": "/wealth/budgeting-and-expense-tracking" },
           { "text": "🚨 The Importance of Emergency Funds", "link": "/wealth/emergency-funds" },
         ]
-      }      {
+      },
+      {
       text: '📛 Common Problems',
       collapsed: true,
       items: [
