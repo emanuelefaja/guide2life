@@ -183,15 +183,16 @@ export default defineConfig({
           { "text": "💼 What is Wealth?", "link": "/wealth/what-is-wealth" },
           { "text": "🛍 Avoid Materialism", "link": "/wealth/avoid-materialism" },
           { "text": "📚 Financial Literacy", "link": "/wealth/financial-literacy" },
-          {
-            "text": "🏢 On Business",
-            "collapsed": true,
-            "items": [
-              { "text": "💡 The Importance of Habits", "link": "/markdownxamples" },
-              { "text": "🚀 Good Starting Habits", "link": "/markdown-exples" },
-              { "text": "📝 Setting Habits", "link": "/api-exames" }
-            ]
-          }
+          { "text": "🔄 Compound Interest", "link": "/wealth/compound-interest" },
+          { "text": "💳 Managing Debt", "link": "/wealth/managing-debt" },
+          { "text": "📈 Investing Basics", "link": "/wealth/investing-basics" },
+          { "text": "🏠 Real Estate Investing", "link": "/wealth/real-estate-investing" },
+          { "text": "💰 Retirement Planning", "link": "/wealth/retirement-planning" },
+          { "text": "📉 Risk Management", "link": "/wealth/risk-management" },
+          { "text": "🏦 Banking and Savings", "link": "/wealth/banking-and-savings" },
+          { "text": "🌍 Diversification Strategies", "link": "/wealth/diversification-strategies" },
+          { "text": "💹 Stock Market Fundamentals", "link": "/wealth/stock-market-fundamentals" },
+          { "text": "💸 Tax Planning", "link": "/wealth/tax-planning" }
         ]
       },
       {
