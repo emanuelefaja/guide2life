@@ -142,6 +142,18 @@ export default defineConfig({
         ]
       },
       {
+        "text": "💼 Work",
+        "collapsed": true,
+        "items": [
+          { "text": "🛠️ Career Planning", "link": "/work/career-planning" },
+          { "text": "🔍 Job Search Strategies", "link": "/work/job-search-strategies" },
+          { "text": "📝 Resume and Cover Letter Writing", "link": "/work/resume-writing" },
+          { "text": "🤝 Networking Techniques", "link": "/work/networking" },
+          { "text": "📈 Skill Development", "link": "/work/skill-development" },
+          { "text": "🔄 Career Transitions", "link": "/work/career-transitions" }
+        ]
+      }
+      {
       text: '⏳ Manage Time',
         collapsed: true,
         items: [
@@ -163,6 +175,7 @@ export default defineConfig({
         "items": [
           { "text": "💼 What is Wealth?", "link": "/wealth/what-is-wealth" },
           { "text": "🛍 Avoid Materialism", "link": "/wealth/avoid-materialism" },
+          { "text": "📚 Financial Literacy", "link": "/wealth/financial-literacy" },
           {
             "text": "🏢 On Business",
             "collapsed": true,
