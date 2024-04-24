@@ -1,5 +1,7 @@
 # How To Use This. 
-There is a lot of information in Guide2Life. However, life is not school, and you are not going to be tested on trying to memorize everything about the role of Insulin on body fat or the effects of meditation on your mental state.
+There is a lot of information in Guide2Life. 
+
+However, life is not school.  You are not going to be tested on the role of Insulin on body fat or the effects of meditation on your mental state.
 
 **The most important thing is behavior change — changing your identity to take on new behavioral patterns that serve you.[^1]** 
 
