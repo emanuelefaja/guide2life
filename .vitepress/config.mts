@@ -111,6 +111,13 @@ export default defineConfig({
               { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
               { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
               { "text": "🕔 Fasting", "link": "/health/nutrition/fasting" },
+              { "text": "🥦 Vegetables", "link": "/health/nutrition/vegetables" },
+              { "text": "🍇 Antioxidants", "link": "/health/nutrition/antioxidants" },
+              { "text": "🥛 Dairy", "link": "/health/nutrition/dairy" },
+              { "text": "🍹 Hydration", "link": "/health/nutrition/hydration" },
+              { "text": "🌾 Whole Grains", "link": "/health/nutrition/whole-grains" }, 
+              { "text": "🍴 Dietary Supplements", "link": "/health/nutrition/supplements" },
+              { "text": "🍽 Meal Planning", "link": "/health/nutrition/meal-planning" }
             ]
           },
           { text: '🏋️‍♂️ Exercise', link: '/markdown-exples' },
