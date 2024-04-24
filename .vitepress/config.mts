@@ -142,7 +142,7 @@ export default defineConfig({
         ]
       },
       {
-        "text": "💼 Work",
+        "text": "💼 Work Effectively",
         "collapsed": true,
         "items": [
           { "text": "🛠️ Career Planning", "link": "/work/career-planning" },
@@ -152,7 +152,7 @@ export default defineConfig({
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
           { "text": "🔄 Career Transitions", "link": "/work/career-transitions" }
         ]
-      }
+      },
       {
       text: '⏳ Manage Time',
         collapsed: true,
@@ -213,7 +213,7 @@ export default defineConfig({
       ]
       },
       {
-      text: '🔧 Tools',
+      text: '🔧 Reliable Tools',
       collapsed: true,
       items: [
       { text: '🛠️ Introduction to Tools', link: '/tools/introduction-to-tools' },
