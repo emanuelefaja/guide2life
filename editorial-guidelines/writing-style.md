@@ -10,3 +10,20 @@ Avoid jargon and technical language whenever possible. When specific terms are n
 
 Eliminate unnecessary words and phrases that don't serve the guide's purpose. Every word should count and contribute to conveying the message as directly as possible.
 
+When there is a detailed explanation that is useful, but not absolutely required, place it in a dropdown block using
+
+```markdown 
+::: details 
+This is a details block.
+:::
+```
+
+Which will give you the following:
+
+::: details 
+This is a details block where you can put a lot more information about a specific subtopic that is useful, but not absolutely required to understand the topic.
+:::
+
+
+
+
