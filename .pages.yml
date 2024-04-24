@@ -1,0 +1,7 @@
+media:
+  input: /public
+  output: /public
+content:
+  - name: posts
+    label: Posts
+    path: src
