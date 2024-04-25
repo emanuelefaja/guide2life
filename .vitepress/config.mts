@@ -68,10 +68,11 @@ export default defineConfig({
           { text: '📚 Continuous Education', link: '/markwn-examples' },
           { text: '📢 Socratic Reasoning', link: '/markd-examples' },
           { text: '🚧 Things Will Go Wrong', link: '/api-examps' },
-          {text: '🪞 Cultivating Self-Awareness', link: '/api-examps' },
+          { text: '🪞 Cultivating Self-Awareness', link: '/api-examps' },
           { text: '🧠 Emotional Intelligence', link: '/api-examps' },
           { text: '❤️ Conquering Desire', link: '/api-examps' },
           { text: '✍️ Keep a Journal', link: '/api-exples' },
+          { text: '✍️ Instincts vs Reason', link: 'wisdom/instincts-vs-reason' },
           { text: '✈️ Travel', link: 'wisdom/travel' },
           { text: "🚫 Don't Lie", link: 'wisdom/dont-lie' },
           { text: '🎮 On Control', link: 'wisdom/on-control' },
@@ -189,6 +190,7 @@ export default defineConfig({
           { text: '🧠 Your Attention is Your Life', link: 'mindfulness/attention' },
           { text: '🧠 Neuroplasticity', link: 'mindfulness/neuroplasticity' },
           { text: '🤸 Yoga', link: 'mindfulness/yoga' },
+          { text: '🎶 Music', link: 'mindfulness/music' },
           { text: '🧭 Free Will', link: 'mindfulness/free-will' }
         ]
       },
@@ -226,6 +228,7 @@ export default defineConfig({
       { text: '🍽 Eating Disorders', link: '/problems/eating-disorders' },
       { text: '💸 Financial Struggles', link: '/problems/financial-struggles' },
       { text: '😢 Grief and Loss', link: '/problems/grief-and-loss' },
+      { text: '🐶 Losing a Pet', link: '/problems/losing-a-pet' },
       { text: '🤯 Imposter Syndrome', link: '/problems/imposter-syndrome' },
       { text: '🚶 Loneliness', link: '/problems/loneliness' },
       { text: '🔽 Low Self-Esteem', link: '/problems/low-self-esteem' },
