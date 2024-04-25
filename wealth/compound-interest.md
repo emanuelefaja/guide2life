@@ -8,6 +8,7 @@ It is often referred to as the "eighth wonder of the world," a quote famously at
 
 The power of compound interest lies in its ability to exponentially grow your money over time. Unlike simple interest, which is calculated solely on the principal amount, compound interest is earned on both the initial principal and the accumulated interest from previous periods. This compounding effect allows your wealth to grow at an increasingly faster rate as time progresses.
 
+![](/compound-interest.webp)
 Understanding and harnessing the power of compound interest is essential for anyone seeking to build a solid financial foundation and achieve long-term financial success. Whether you are saving for retirement, a child's education, or aiming to build generational wealth, compound interest can be a powerful ally in reaching your goals.
 
 In this guide, we will explore the mechanics of compound interest, demonstrate its potential through illustrative examples, and provide practical strategies for maximizing its benefits in your own financial journey. By mastering the concept of compound interest and consistently applying its principles, you can unlock the door to long-term financial growth and security.
