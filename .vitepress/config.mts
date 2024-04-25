@@ -35,11 +35,14 @@ export default defineConfig({
         items: [
           { text: '👋 Introduction', link: '/start/introduction' },
           { text: '📖 How To Use This', link: '/start/how-to-use-this' },
+          { text: '🧠 Brain Meets World', link: '/start/brain-meets-world' },
           { text: '🔍 Life Audit', link: '/start/life-audit' },
-          { text: '❓ FAQ', link: '/start/faq' },
+          { text: '📘 A Philosophy Of Life', link: '/start/philosophy-of-life' },
+          { text: '🎲 Playing The Odds', link: '/start/playing-the-odds' },
           { text: '📈 Growth Mindset', link: 'start/growth-mindset' },
           { text: '📚 Recommended Books', link: '/start/books' },
-          { text: '📺 Recommended Videos', link: '/start/videos' }
+          { text: '📺 Recommended Videos', link: '/start/videos' },
+          { text: '❓ FAQ', link: '/start/faq' }
         ]
       },
       {
