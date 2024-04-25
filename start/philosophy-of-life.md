@@ -6,6 +6,8 @@ It involves the study of fundamental questions about existence, knowledge, value
 
 **A philosophy of life** is a coherent set of beliefs and principles that informs and guides an individual's choices, priorities, and actions throughout life, providing a framework for understanding and interacting with the world.
 
+![](../images/lifereflections.webp)
+
 ## Universal, Inevitable, Essential.
 **Having a philosophy of life is not optional —  everyone has a 'philosophy' by which they live, consciously or not, making a philosophy of life universal, inevitable and essential. [^hadot]**
 
@@ -16,9 +18,6 @@ Having a meaningful life requires having a grand goal for living.  The definitio
 This grand goal serves as the foundation of a well-developed philosophy of life, guiding our choices, actions, and priorities.
 
 So a philosophy of life defines what we want _out_ of life, rather than merely what we want _in_ life. [^irvine]
-
-![](../images/lifereflections.webp)
-
 ## What We Want Out of Life
 In other words, a philosophy of life is not just about accumulating possessions, achievements, or experiences. These are things we want *in* life, not *out* of life. 
 
