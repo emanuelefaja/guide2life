@@ -36,9 +36,9 @@ export default defineConfig({
         items: [
           { text: '👋 Introduction', link: '/start/introduction' },
           { text: '📖 How To Use This', link: '/start/how-to-use-this' },
+          { text: '📘 A Philosophy Of Life', link: '/start/philosophy-of-life' },
           { text: '🧠 Brain Meets World', link: '/start/brain-meets-world' },
           { text: '🔍 Life Audit', link: '/start/life-audit' },
-          { text: '📘 A Philosophy Of Life', link: '/start/philosophy-of-life' },
           { text: '🎲 Playing The Odds', link: '/start/playing-the-odds' },
           { text: '📈 Growth Mindset', link: 'start/growth-mindset' },
           { text: '📚 Recommended Books', link: '/start/books' },
@@ -186,7 +186,10 @@ export default defineConfig({
         items: [
           { text: '🧘 Meditation', link: '/mindfulness/meditation' },
           { text: '📚 Work Deeply', link: '/mindfulness/deep-work' },
-          { text: '🧠 Your Attention is Your Life', link: 'mindfulness/attention' }
+          { text: '🧠 Your Attention is Your Life', link: 'mindfulness/attention' },
+          { text: '🧠 Neuroplasticity', link: 'mindfulness/neuroplasticity' },
+          { text: '🤸 Yoga', link: 'mindfulness/yoga' },
+          { text: '🧭 Free Will', link: 'mindfulness/free-will' }
         ]
       },
       {
