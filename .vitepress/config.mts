@@ -4,6 +4,7 @@ import footnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   markdown: {
+      math: true,
       config: (md) => {
         md.use(footnote)
       }
@@ -101,7 +102,7 @@ export default defineConfig({
             "items": [
               { "text": "🧬 Non-Communicable Diseases", "link": "/health/non-communicable-diseases" },
               { "text": '🏥 Preventive Healthcare', link: '/api-exames' },,
-              { "text": '🍏 Metabolic Syndrome', link: '/health/non-communicable-diseases'},
+              { "text": '🍏 Metabolic Syndrome', link: '/health/metabolic-syndrome'},
               { "text": '🔥 Inflammation', link: '/health/inflammation'},
               { "text": '🧘‍♂️ Autophagy', link: '/health/autophagy'},
             ]
