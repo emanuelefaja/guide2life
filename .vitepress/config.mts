@@ -117,6 +117,7 @@ export default defineConfig({
               { "text": "🍳 Protein", "link": "/health/nutrition/protein" },
               { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
               { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
+              { "text": "☕️ Coffee", "link": "/health/nutrition/coffee" },
               { "text": "🕔 Fasting", "link": "/health/nutrition/fasting" },
               { "text": "🥦 Vegetables", "link": "/health/nutrition/vegetables" },
               { "text": "🍇 Antioxidants", "link": "/health/nutrition/antioxidants" },
