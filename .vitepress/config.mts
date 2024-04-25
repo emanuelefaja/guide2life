@@ -154,10 +154,11 @@ export default defineConfig({
         text: '🤝 Cultivate Relationships',
         collapsed: true,
         items: [
-          { text: '👂 Learn to Listen', link: '/markdown-amples' },
-          { text: '🎁 Be Charitable', link: '/api-exples' },
+          { text: '👂 Learn to Listen', link: '/relationships/listening' },
+          { text: '🗣️ Difficult Conversations', link: 'relationships/difficult-conversations' },
+          { text: '🎁 Be Charitable', link: 'relationships/be-charitable' },
           { text: '👥 How To Make Friends', link: '/relationships/how-to-make-friends' },
-          { text: '💬 Communicate Clearly', link: '/api-exples' }
+          { text: '💬 Communicate Clearly', link: 'relationships/communicate-clearly' }
         ]
       },
       {
