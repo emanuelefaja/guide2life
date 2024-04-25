@@ -37,9 +37,9 @@ export default defineConfig({
           { text: '📖 How To Use This', link: '/start/how-to-use-this' },
           { text: '🔍 Life Audit', link: '/start/life-audit' },
           { text: '❓ FAQ', link: '/start/faq' },
-          { text: '🧠 Your Attention is Your Life', link: '/start/faq' },
           { text: '📈 Growth Mindset', link: 'start/growth-mindset' },
-          { text: '📚 Recommended Books', link: '/start/books' }
+          { text: '📚 Recommended Books', link: '/start/books' },
+          { text: '📺 Recommended Videos', link: '/start/videos' }
         ]
       },
       {
@@ -179,8 +179,9 @@ export default defineConfig({
       text: '🧘 Practice Mindfulness',
         collapsed: true,
         items: [
-          { text: '🧘 Meditation', link: '/markdown-amples' },
-          { text: '📚 Work Deeply', link: '/api-exples' }
+          { text: '🧘 Meditation', link: '/mindfulness/meditation' },
+          { text: '📚 Work Deeply', link: '/mindfulness/deep-work' },
+          { text: '🧠 Your Attention is Your Life', link: 'mindfulness/attention' }
         ]
       },
       {
