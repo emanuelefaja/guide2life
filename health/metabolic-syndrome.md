@@ -3,7 +3,7 @@
 > 
 > **Mohammad G. Saklayen** [^saklayen]
 
-Metabolic syndrome is a cluster of conditions that include abdominal obesity, high blood pressure, high blood sugar, high triglycerides, and low HDL cholesterol, which together increase the risk of heart disease, stroke, and type 2 diabetes.
+Metabolic syndrome is a cluster of conditions that include abdominal obesity, high blood pressure, high blood sugar, high triglycerides , and low [HDL cholesterol](./nutrition/fats#understanding-cholesterol), which together increase the risk of heart disease, stroke, and type 2 diabetes.
 
 Understanding metabolic syndrome is crucial because it is a significant risk factor for several serious and potentially life-threatening health conditions. By recognizing the cluster of conditions that make up metabolic syndrome, you can take actions to reduce your risk of developing heart disease, stroke, and type 2 diabetes. 
 
@@ -11,7 +11,9 @@ These conditions not only impact your quality of life but also place a substanti
 
 ![](/metabolic-syndrome.webp)
 
-Abdominal obesity is a significant risk factor for metabolic syndrome, it is not the only determining factor.
+Most of the disorders associated with metabolic syndrome don't have obvious signs or symptoms. One sign that is visible is a large waist circumference.
+
+Abdominal obesity is a significant risk factor for metabolic syndrome, it is not the only determining factor. 
 
 To be diagnosed with metabolic syndrome, you typically need to have at least three of the following five conditions:
 
