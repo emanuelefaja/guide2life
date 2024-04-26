@@ -153,7 +153,7 @@ These adaptations include:
 
 - **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy. [^rosenbaum2010]
 - **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings. [^suminthran] 
-- **Reduced non-exercise activity thermogenesis ([NEAT](/health/neat)):** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements. [^rosenbaum2003] 
+- **Reduced non-exercise activity thermogenesis NEAT:** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements. [^rosenbaum2003] 
 
 As a result of these adaptations, you may experience a stop in weight loss despite maintaining what was previously a calorie deficit. 
 
