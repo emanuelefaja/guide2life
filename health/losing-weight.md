@@ -30,7 +30,7 @@ However, [BMI](/health/bmi) does not directly measure body fat percentage and ma
 
 The picture for modern society is grim.
 
-As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people).
+As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people). [^who]
 
 Obesity is now a bigger problem than malnutrition in many parts of the world, highlighting a shift in global health concerns from traditional undernutrition to excessive nutrition-related chronic conditions like cardiovascular disease and diabetes. ​ 
 
@@ -38,41 +38,53 @@ Obesity is now a bigger problem than malnutrition in many parts of the world, hi
 
 That said, you do not have to be part of these statistics. 
 
+## What Causes Weight Gain?
+
+
 ## Understanding Weight Loss
 
 When we say "losing weight," we specifically mean *losing excess body fat* while preserving lean muscle mass. 
 
-This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run (Cava et al., 2017). 
+This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run. [^cava] 
 
 Therefore, the focus should be on adopting evidence-based strategies that promote fat loss while maintaining or even building lean muscle mass for sustainable, healthy weight management.
 
+**You can only lose weight if you have a consistent calorie deficit. You must burn more calories than you eat — period.** 
+
+::: details The First Law of Thermodynamics
+The First Law of Thermodynamics states that energy cannot be created or destroyed; it can only be transformed or transferred from one form to another. 
+
+In the context of weight loss, this means that the energy (calories) you consume through food and drinks must be either used by your body for various functions (such as maintaining body temperature, powering physical activity, and supporting cellular processes) or stored (primarily as body fat).
+
+If you consume more energy than your body expends, the excess energy will be stored, leading to weight gain. Conversely, if you expend more energy than you consume, your body will need to tap into its stored energy reserves (body fat) to make up for the deficit, resulting in weight loss.
+:::
 ## The Problem with Diets
 
 >[!CAUTION] ❌ Beware of Fad Diets
 > A fad diet is a weight loss plan that promises fast, dramatic results through unsustainable and unbalanced eating. These diets, often involving restrictive or unusual food choices, focus on quick weight loss rather than long-term health. [^dulloo]
 > 
-> **Dieters almost always regain the weight and often gain more.**
+> 
+> **95% of diets fail — most people regain the weight they lost and more. [^mann]**
 
-Research suggests that 95% of diets fail, with most people regaining the weight they lost within a few years or months. [^mann]  
 
-The reason is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss. [^fung]
+The problem with diets is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss. [^fung]
 
 When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy. [^muller] 
 
 These adaptations include:
 
-- **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy (Rosenbaum & Leibel, 2010).
-- **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings (Sumithran et al., 2011).
-- **Reduced non-exercise activity thermogenesis (NEAT):** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements (Rosenbaum et al., 2003).
+- **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy. [^rosenbaum2010]
+- **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings. [^suminthran] 
+- **Reduced non-exercise activity thermogenesis ([NEAT](/health/neat)):** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements. [^rosenbaum2003] 
 
 As a result of these adaptations, you may experience a stop in weight loss despite maintaining what was previously a calorie deficit. 
 
 To continue losing weight, you would need to further reduce your calorie intake, which can lead to feelings of deprivation, fatigue, and frustration. This cycle of constantly cutting calories and battling hunger is one of the main reasons why many people find it challenging to sustain long-term weight loss through calorie restriction alone.
 
-Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits (Cava et al., 2017).
+Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits. [^cava] 
 
 >[!CAUTION] ⛔️  The Universality of Human Biology
-> Humans share the vast majority  (99.9%) of their DNA (Rosenberg et al., 2002). This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches (Ioannidis, 2013). For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
+> Humans share the vast majority  (99.9%) of their DNA. [citation?]This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches (Ioannidis, 2013). For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
 >
 > While individual preferences and sustainability should be considered when choosing a fat loss approach, it is equally important to focus on strategies that work with the fundamental biological mechanisms we all share. Understanding and leveraging these universal principles we can ensure we're on the right track.
 > 
@@ -81,12 +93,12 @@ Moreover, severe calorie restriction can lead to the loss of lean muscle mass, w
 ## How the Body Burns Fat
 ### Calories In vs. Calories Out
 
-The "calories in, calories out" (CICO) model has long been the standard way to think about weight loss. According to this model, losing weight simply involves consuming fewer calories than you burn. This principle underlies many traditional dieting strategies and emphasizes caloric deficit as the key to weight loss (Hall et al., 2012).
+The "calories in, calories out" (CICO) model has long been the standard way to think about weight loss. According to this model, losing weight simply involves consuming fewer calories than you burn. This principle underlies many traditional dieting strategies and emphasizes caloric deficit as the key to weight loss. [^hall] 
 
 Recent scrutiny reveals that the CICO model might be too simplistic. It overlooks complex hormonal and metabolic factors that also play crucial roles in how our bodies regulate weight. Notably, it fails to account for how different types of calories are metabolized differently by the body:
 
-- **Hormonal Impact of Macronutrients:** Different foods can trigger varied hormonal responses that directly affect our metabolism and fat storage. For instance, sugars and refined carbohydrates tend to raise insulin levels, which in turn promotes fat storage. This effect is less pronounced with calories from proteins or fats (Fung, 2016).
-- **Adaptive Metabolism:** The body adapts to calorie restriction by adjusting metabolic rates. Decreases in metabolism and increases in hunger hormones like ghrelin make sustained weight loss challenging and can lead to a weight loss plateau (Rosenbaum & Leibel, 2010; Sumithran et al., 2011).
+- **Hormonal Impact of Macronutrients:** Different foods can trigger varied hormonal responses that directly affect our metabolism and fat storage. For instance, sugars and refined carbohydrates tend to raise insulin levels, which in turn promotes fat storage. This effect is less pronounced with calories from proteins or fats. [^fung]
+- **Adaptive Metabolism:** The body adapts to calorie restriction by adjusting metabolic rates. Decreases in metabolism and increases in hunger hormones like ghrelin make sustained weight loss challenging and can lead to a weight loss plateau. [^rosenbaum2010]  [^sumithran] 
 - **Quality of Calories:** The source and quality of calories consumed can influence satiety, metabolic rate, and overall health. Calories from whole, nutrient-dense foods affect the body differently than calories from processed foods, which are often less satisfying and more prone to cause overeating.
 
 
@@ -111,7 +123,7 @@ For further information, we suggest you watch [this video on the hormonal model 
 ### The Role of Insulin
 Insulin is a hormone produced by the pancreas that regulates blood sugar levels and plays a crucial role in fat storage. When you eat, especially carbohydrates, your blood sugar levels rise, and insulin is released to shuttle the glucose into your cells for energy or storage (Petersen & Shulman, 2018).
 
-Insulin is often referred to as the "gatekeeper" of fat storage. High levels of insulin promote fat storage, while low levels of insulin allow for fat burning (Dimitriadis et al., 2011). This is why individuals with Type 1 Diabetes, who cannot produce insulin, can lose weight rapidly and face life-threatening complications if not treated with insulin injections, regardless of how much they eat (Frandsen & Svensson, 2021).
+Insulin is often referred to as the "gatekeeper" of fat storage. High levels of insulin promote fat storage, while low levels of insulin allow for fat burning. [^dimitriadis] This is why individuals with Type 1 Diabetes, who cannot produce insulin, can lose weight rapidly and face life-threatening complications if not treated with insulin injections, regardless of how much they eat (Frandsen & Svensson, 2021).
 
 ### Fat Burning & Glycogen Stores
 
@@ -156,7 +168,7 @@ The body has a built-in system called the "satiety mechanism," which relies on s
 
 Modern processed foods, which are often high in calories but low in fiber and nutrients, can override the satiety mechanism, leading to overconsumption and weight gain. These foods are often designed to be highly palatable and easy to eat in large quantities, making it difficult for the body to accurately gauge calorie intake (Moss, 2013).
 
-In their natural habitat, monkeys and other animals rarely become obese or undernourished, as their bodies are able to accurately regulate food intake based on their energy needs (Lisle & Goldhamer, 2006). This is because their diets consist primarily of whole, unprocessed foods that are in line with their evolutionary history.
+In their natural habitat, monkeys and other animals rarely become obese or undernourished, as their bodies are able to accurately regulate food intake based on their energy needs. [^goldhamer] This is because their diets consist primarily of whole, unprocessed foods that are in line with their evolutionary history.
 
 In contrast, when animals (including humans) are exposed to processed, calorie-dense foods that are out of sync with their natural diets, their satiety mechanisms can be disrupted, leading to overconsumption and weight gain (Erlanson-Albertsson, 2005).
 
@@ -245,6 +257,7 @@ Therefore, rather than vilifying all carbohydrates, it's more helpful to focus o
 While eating breakfast can be part of a healthy lifestyle, it is not a requirement for weight loss. Studies have shown that skipping breakfast does not necessarily lead to weight gain or hinder weight loss efforts (Dhurandhar et al., 2014).
 
 ### You Can't Lose Weight Without Exercise
+> "Diet is Batman and exercise is Robin. Diet does 95 percent of the work and deserves all the attention; so, logically, it would be sensible to focus on diet. Exercise is still healthy and important—just not equally important. It has many benefits, but weight loss is not among them." **Jason Fung.**
 While exercise is important for overall health and can support weight loss efforts, it is not strictly necessary for weight loss. Creating a calorie deficit through dietary changes alone can lead to weight loss (Swift et al., 2014).
 
 
@@ -264,33 +277,37 @@ While exercise is important for overall health and can support weight loss effor
 
 [^muller]: Müller, M. J., & Bosy-Westphal, A. (2013). Adaptive thermogenesis with weight loss in humans. Obesity, 21(2), 218-228.
 
+[^rosenbaum2010]: Rosenbaum, M., & Leibel, R. L. (2010). Adaptive thermogenesis in humans. International Journal of Obesity, 34(1), S47-S55.
+
+[^rosenbaum2003]: Rosenbaum, M., Murphy, E. M., Heymsfield, S. B., Matthews, D. E., & Leibel, R. L. (2003). Low dose leptin administration reverses effects of sustained weight-reduction on energy expenditure and circulating concentrations of thyroid hormones. The Journal of Clinical Endocrinology & Metabolism, 87(5), 2391-2394.
+
+[^cava]: Cava, E., Yeat, N. C., & Mittendorfer, B. (2017). Preserving healthy muscle during weight loss. Advances in Nutrition, 8(3), 511-519.
+
+[^sumithran]: Sumithran, P., Prendergast, L. A., Delbridge, E., Purcell, K., Shulkes, A., Kriketos, A., & Proietto, J. (2011). Long-term persistence of hormonal adaptations to weight loss. New England Journal of Medicine, 365(17), 1597-1604.
+
+[^hall]: Hall, K.D., Heymsfield, S.B., Kemnitz, J.W., Klein, S., Schoeller, D.A. and Speakman, J.R., 2012. Energy balance and its components: Implications for body weight regulation. The American Journal of Clinical Nutrition, 95(4), pp.989-994.
+
+[^dimitriadis]: Dimitriadis, G., Mitrou, P., Lambadiari, V., Maratou, E. and Raptis, S.A., 2011. Insulin effects in muscle and adipose tissue. Diabetes Research and Clinical Practice, 93(S1), pp.S52-S59.
+
+[^goldhamer]: Lisle, D. J., & Goldhamer, A. (2006). The pleasure trap: Mastering the hidden force that undermines health and happiness. Healthy Living Publications.
+
 Anton, S.D., Moehl, K., Donahoo, W.T., Marosi, K., Lee, S.A., Mainous, A.G., Leeuwenburgh, C. and Mattson, M.P., 2017. Flipping the metabolic switch: Understanding and applying the health benefits of fasting. Obesity, 26(2), pp.254-268.
 
 Bird, S.R. and Hawley, J.A., 2017. Update on the effects of physical activity on insulin sensitivity in humans. BMJ Open Sport & Exercise Medicine, 2(1), p.e000143.
 
 Buchholz, A. C., & Schoeller, D. A. (2004). Is a calorie a calorie? The American Journal of Clinical Nutrition, 79(5), 899S-906S.
 
-Cava, E., Yeat, N. C., & Mittendorfer, B. (2017). Preserving healthy muscle during weight loss. Advances in Nutrition, 8(3), 511-519.
-
 Dhurandhar, E. J., Dawson, J., Alcorn, A., Larsen, L. H., Thomas, E. A., Cardel, M., ... & Allison, D. B. (2014). The effectiveness of breakfast recommendations on weight loss: A randomized controlled trial. The American Journal of Clinical Nutrition, 100(2), 507-513.
-
-Dimitriadis, G., Mitrou, P., Lambadiari, V., Maratou, E. and Raptis, S.A., 2011. Insulin effects in muscle and adipose tissue. Diabetes Research and Clinical Practice, 93(S1), pp.S52-S59.
-
-
 
 Erlanson-Albertsson, C. (2005). How palatable food disrupts appetite regulation. Basic & Clinical Pharmacology & Toxicology, 97(2), 61-73.
 
 Frandsen, C.S. and Svensson, B., 2021. 100 years after the discovery of insulin: Clinical implications of diabetes treatment. Endocrinology and Metabolism Clinics of North America, 50(2), pp.331-346.
 
-
-
-Hall, K.D., Heymsfield, S.B., Kemnitz, J.W., Klein, S., Schoeller, D.A. and Speakman, J.R., 2012. Energy balance and its components: Implications for body weight regulation. The American Journal of Clinical Nutrition, 95(4), pp.989-994.
-
 Hu, T., Mills, K. T., Yao, L., Demanelis, K., Eloustaz, M., Yancy, W. S., ... & Bazzano, L. A. (2012). Effects of low-carbohydrate diets versus low-fat diets on metabolic risk factors: A meta-analysis of randomized controlled clinical trials. American Journal of Epidemiology, 176(suppl_7), S44-S54.
 
 Ioannidis, J.P., 2013. Implausible results in human nutrition research. BMJ, 347, p.f6698.
 
-Lisle, D. J., & Goldhamer, A. (2006). The pleasure trap: Mastering the hidden force that undermines health and happiness. Healthy Living Publications.
+
 
 Ludwig, D. S., Hu, F. B., Tappy, L., & Brand-Miller, J. (2018). Dietary carbohydrates: Role of quality and quantity in chronic disease. BMJ, 361, k2340.
 
@@ -314,15 +331,15 @@ Rolls, B. J. (2009). The relationship between dietary energy density and energy 
 
 Rolls, B. J., Ello-Martin, J. A., & Tohill, B. C. (2004). What can intervention studies tell us about the relationship between fruit and vegetable consumption and weight management? Nutrition Reviews, 62(1), 1-17.
 
-Rosenbaum, M., & Leibel, R. L. (2010). Adaptive thermogenesis in humans. International Journal of Obesity, 34(1), S47-S55.
 
-Rosenbaum, M., Murphy, E. M., Heymsfield, S. B., Matthews, D. E., & Leibel, R. L. (2003). Low dose leptin administration reverses effects of sustained weight-reduction on energy expenditure and circulating concentrations of thyroid hormones. The Journal of Clinical Endocrinology & Metabolism, 87(5), 2391-2394.
+
+
 
 Schoenfeld, B. J., Aragon, A. A., & Krieger, J. W. (2015). Effects of meal frequency on weight loss and body composition: A meta-analysis. Nutrition Reviews, 73(2), 69-82.
 
 Slavin, J., & Lloyd, B. (2012). Health benefits of fruits and vegetables. Advances in Nutrition, 3(4), 506-516.
 
-Sumithran, P., Prendergast, L. A., Delbridge, E., Purcell, K., Shulkes, A., Kriketos, A., & Proietto, J. (2011). Long-term persistence of hormonal adaptations to weight loss. New England Journal of Medicine, 365(17), 1597-1604.
+
 
 Swift, D. L., Johannsen, N. M., Lavie, C. J., Earnest, C. P., & Church, T. S. (2014). The role of exercise and physical activity in weight loss and maintenance. Progress in Cardiovascular Diseases, 56(4), 441-447.
 
