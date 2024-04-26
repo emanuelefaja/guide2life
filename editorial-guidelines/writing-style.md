@@ -45,6 +45,8 @@ It should be impossible to tell that Guide2Life is a contributor-driven project.
 
 Facing a wall of text can be daunting for any reader. 
 
+![](/walloftext.webp)
+
 Headings and subheadings break down long text, making content more approachable and easier to navigate. [^lemarie] They guide readers through a logical progression of ideas and help them quickly find information that interests them.
 
 You can use H2 and H3 like this:
