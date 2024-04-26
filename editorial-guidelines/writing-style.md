@@ -1,8 +1,55 @@
 # Writing Style
+> "I didn't have time to write a short letter, so I wrote a long one instead." **Mark Twain.**
 
-Our primary goal is to turn knowledge into action.
+These are the Guide2Life writing guidelines. In a world overflowing with information[^carr], the ability to communicate clearly and simply is crucial. 
 
-We must present complex ideas using simple, concise language. So clarity should be at the forefront of every writing decision we make. This makes it easy for readers to understand complicated concepts and apply them their own lives. 
+While we [uphold academic rigor](https://chat.openai.com/editorial-guidelines/referencing) to ensure reliability and accuracy, we avoid the dense style of traditional academic writing. This approach makes our content more accessible and engaging for a wider audience.
+
+## Simple & Concise
+
+**Our primary goal is to turn knowledge into action.**
+
+This means that readers must be able to understand complicated concepts and apply them to their own lives. 
+
+Our writing must prioritize clarity by presenting complex ideas in simple, concise language.
+
+### Simplicity
+
+- Use plain language that can be easily understood by a wide audience. 
+- Avoid technical jargon unless it is necessary. 
+- When specialized terms are essential, define them upon first use. 
+
+> [!CAUTION] Oversimplification
+Remember, simplicity does not mean oversimplification; it means conveying your message with clarity and precision without *unnecessary* complexity.
+
+
+### Conciseness
+
+- Every word must serve a purpose.
+- Be ruthless in cutting ~~fluff and~~ redundancies. 
+-  This doesn’t mean your writing should be dry. Aim for richness in content but conciseness in expression.
+ - Use active voice and strong verbs to create clear and direct sentences.
+- Keep paragraphs short to maintain reader interest and comprehension.
+
+**By combining simplicity with conciseness, your writing will not only be understood but also remembered.**
+
+## Consistency 
+
+
+
+
+## Structural Elements
+
+### Headings
+
+### Quotations
+
+### Lists
+
+### Blocks
+
+### Details
+
 
 To achieve this clarity, we must write in a friendly, conversational tone that directly addresses the reader. Use the second person ("you") to create a connection with the audience and make the content feel more personal and relevant. When referring to the authors or the team behind the guide, use the first-person plural perspective ("we").
 
@@ -25,5 +72,7 @@ This is a details block where you can put a lot more information about a specifi
 :::
 
 
+## References
 
+[^carr]: Carr, Nicholas. _The Shallows: What the Internet Is Doing to Our Brains_. New York: W.W. Norton & Company, 2010.
 
