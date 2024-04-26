@@ -107,7 +107,7 @@ export default defineConfig({
               { "text": '🍏 Metabolic Syndrome', link: '/health/metabolic-syndrome'},
               { "text": '🔥 Inflammation', link: '/health/inflammation'},
               { "text": '🧘‍♂️ Autophagy', link: '/health/autophagy'},
-              { "text": '⚖️ BMI', link: '/health/bmi'}
+              { "text": '⚖️ BMI', link: '/health/bmi'},
               { "text": '🏃‍♂️ NEAT', link: '/health/neat'}
             ]
           },
