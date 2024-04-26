@@ -1,6 +1,6 @@
 # Carbohydrates.
 
-Carbohydrates are a vital part of a balanced diet, serving as the body's main source of energy. They are found in various forms, each with a different impact on health and well-being. Let’s explore the different types of carbohydrates and their roles.
+Carbohydrates are a vital part of a balanced diet, serving as the body's main source of energy. They are found in various forms, each with a different impact on health and well-being. 
 
 ## Types of Carbohydrates
 
