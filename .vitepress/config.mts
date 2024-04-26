@@ -5,6 +5,7 @@ import footnote from 'markdown-it-footnote'
 export default defineConfig({
   markdown: {
       math: true,
+      lazyLoading: true,
       config: (md) => {
         md.use(footnote)
       }
