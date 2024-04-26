@@ -3,23 +3,18 @@
 ::: details Key Takeaways
 
 - **Understanding Weight Loss:** True weight loss involves losing excess body fat while preserving lean muscle mass, not just reducing the number on the scale.
-> - **The Problem with Diets:** Most diets fail due to their unsustainable nature and the body's adaptive responses, such as decreased metabolism and increased hunger.
-> - **Calories and Hormones Matter:** Not all calories are the same. The type of calories consumed significantly impacts hormonal responses and fat storage. Insulin plays a crucial role as it regulates fat storage and influences weight loss.
-> - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
-> - **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
+ - **The Problem with Diets:** Most diets fail due to their unsustainable nature and the body's adaptive responses, such as decreased metabolism and increased hunger.
+ - **Calories and Hormones Matter:** Not all calories are the same. The type of calories consumed significantly impacts hormonal responses and fat storage. Insulin plays a crucial role as it regulates fat storage and influences weight loss.
+ - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
+- **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
 
 :::
-
->[!TIP] Key Takeaways
-> - **Understanding Weight Loss:** True weight loss involves losing excess body fat while preserving lean muscle mass, not just reducing the number on the scale.
-> - **The Problem with Diets:** Most diets fail due to their unsustainable nature and the body's adaptive responses, such as decreased metabolism and increased hunger.
-> - **Calories and Hormones Matter:** Not all calories are the same. The type of calories consumed significantly impacts hormonal responses and fat storage. Insulin plays a crucial role as it regulates fat storage and influences weight loss.
-> - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
-> - **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
 
 Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. 
 
 Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
+
+![](/fatloss.png)
 
 The WHO (World Health Organization) defines[^who] overweight and obese as:
 
@@ -38,9 +33,6 @@ Obesity is now a bigger problem than malnutrition in many parts of the world, hi
 [You can check where your country ranks in obesity here.](https://data.worldobesity.org/rankings/)
 
 That said, you do not have to be part of these statistics. 
-
-![](../images/fatloss.png)
-
 
 Let's start by clarifying that when we say "losing weight," we specifically mean losing excess body fat while preserving lean muscle mass. 
 
@@ -105,17 +97,28 @@ Insulin is a hormone produced by the pancreas that regulates blood sugar levels 
 
 Insulin is often referred to as the "gatekeeper" of fat storage. High levels of insulin promote fat storage, while low levels of insulin allow for fat burning (Dimitriadis et al., 2011). This is why individuals with Type 1 Diabetes, who cannot produce insulin, can lose weight rapidly and face life-threatening complications if not treated with insulin injections, regardless of how much they eat (Frandsen & Svensson, 2021).
 
-## Understanding Fat Burning and the Role of Glycogen
+## Fat Burning & Glycogen Stores
 
 To effectively lose body fat, it's essential to understand the underlying biological processes involved in fat burning and the role of glycogen stores in this process.
 
 ### Glycogen: The Body's Stored Carbohydrates
 
-When you consume carbohydrates, your body breaks them down into glucose, which is then used for immediate energy needs or stored in the liver and muscles as glycogen (Jensen et al., 2011). Glycogen is the body's primary source of stored energy and is readily accessible for quick energy release when needed (Acheson et al., 1988).
+When you consume carbohydrates, your body breaks them down into glucose, which is then used for immediate energy needs or stored in the liver and muscles as glycogen (Jensen et al., 2011). 
+
+Your liver can store around 100g of Glycogen, and your muscles a further 400-500g. In total, you have around 1,600 to 2,000 calories of Glycogen available.  These stores are used differently: liver glycogen helps maintain blood sugar levels, while muscle glycogen is primarily used to fuel muscle activity.
+
+Glycogen is the body's primary source of stored energy and is readily accessible for quick energy release when needed (Acheson et al., 1988).
 
 ### Prioritizing Glycogen for Energy
 
-When your body requires energy, it first turns to available glucose in the bloodstream and then to stored glycogen. As long as there are sufficient glycogen stores, your body will preferentially use these stores for energy rather than tapping into stored fat (Acheson et al., 1988).
+When your body requires energy, there is a priority order based on how easy it is for the body to access the energy:
+
+1. 1. **Glucose in the Bloodstream**: Glucose is the body’s primary and most accessible energy source, utilized first due to its immediate availability in the bloodstream.
+2. **Glycogen in Liver and Muscles**: As glucose levels drop, the body taps into glycogen stores. The liver converts its glycogen to glucose for the bloodstream, supporting overall energy needs and brain function. Muscles use their glycogen locally during physical activity. As long as there are sufficient glycogen stores, your body will preferentially use these stores for energy rather than tapping into stored fat. [^acheson] 
+3. **Fat Stores**: When glycogen is depleted, typically after hours of fasting or intense exercise, the body shifts to fat. It breaks down fat into fatty acids and glycerol for energy, a process that is slower and more involved than using glucose or glycogen.
+4. **Protein from Lean Muscle Mass**: In extreme cases of energy shortage, the body resorts to muscle protein, converting it into amino acids. Some are transformed into glucose via gluconeogenesis to support vital functions when other energy sources are scarce.
+
+
 
 ### Depleting Glycogen Stores for Fat Burning
 
@@ -162,6 +165,8 @@ So what is the optimal fat loss strategy?
 
 The optimal fat loss strategy is one that prioritizes diet over exercise, is relatively easy to follow, and focuses on hormonal changes rather than solely relying on the simplified "calories in vs. calories out" model. By understanding the fundamental biological mechanisms that regulate weight, we can develop an effective and sustainable approach to fat loss.
 
+![](/fatlossrange.svg)
+
 ### Diet Over Exercise
 
 While exercise can support fat loss efforts, it is not the primary driver of weight loss. The math simply doesn't work out – it's much easier to consume excess calories than it is to burn them off through exercise (Malhotra et al., 2015). Therefore, the optimal fat loss strategy must focus primarily on dietary changes.
@@ -194,19 +199,22 @@ Therefore, while it's important to consider individual preferences and sustainab
 
 ## Common Myths
 
+### Rapid Weight Loss is Sustainable
+Crash diets and rapid weight loss techniques may lead to initial weight loss, but they are often difficult to maintain long-term and can lead to weight regain. Slow, gradual weight loss through sustainable lifestyle changes is more likely to result in lasting success (Purcell et al., 2014).
+
 ### Spot Reduction
 The belief that you can target fat loss in specific areas of the body through exercises that focus on those areas (e.g., doing crunches to lose belly fat). In reality, fat loss occurs throughout the body and cannot be targeted to specific regions (Ramírez-Campillo et al., 2013).
 
 ### Low-Fat Diets are Best for Weight Loss
-While reducing dietary fat can lead to a reduction in overall calorie intake, low-fat diets are not inherently superior for weight loss. In fact, low-carbohydrate, high-fat diets have been shown to be effective for weight loss and improving various health markers (Hu et al., 2012).
+While reducing [dietary fat](/health/nutrition/fats) can lead to a reduction in overall calorie intake, low-fat diets are not inherently superior for weight loss. In fact, low-carbohydrate, high-fat diets have been shown to be effective for weight loss and improving various health markers (Hu et al., 2012).
 
 ### Eating Small, Frequent Meals Boosts Metabolism
 The idea that eating multiple small meals throughout the day can boost metabolism and promote weight loss is not supported by scientific evidence. Meal frequency does not appear to have a significant impact on weight loss (Schoenfeld et al., 2015).
 
 ### Carbohydrates Make You Fat
-While carbohydrates have been vilified in recent years, they are not inherently fattening. However, it's important to distinguish between different types of carbohydrates. Whole, unprocessed carbohydrates such as fruits, vegetables, and whole grains are generally nutrient-dense and can be part of a healthy diet.
+While [carbohydrates](/health/nutrition/carbohydrates) have been vilified in recent years, they are not inherently fattening. However, it's important to distinguish between different types of carbohydrates. [Whole, unprocessed carbohydrates](/health/nutrition/carbohydrates#complex-carbohydrates) such as fruits, vegetables, and whole grains are generally nutrient-dense and can be part of a healthy diet.
 
-On the other hand, highly refined carbohydrates, such as those found in sugary beverages, candy, and processed snacks, can contribute to weight gain when consumed in excess. These types of carbohydrates are often high in calories but low in nutrients, and they can quickly raise blood sugar levels, leading to increased insulin production and potential fat storage (Ludwig et al., 2018).
+On the other hand, [highly refined carbohydrates](/health/nutrition/carbohydrates#simple-carbohydrates), such as those found in sugary beverages, candy, and processed snacks, can contribute to weight gain when consumed in excess. These types of carbohydrates are often high in calories but low in nutrients, and they can quickly raise blood sugar levels, leading to increased insulin production and potential fat storage (Ludwig et al., 2018).
 
 However, it's important to note that excessive calorie intake, regardless of the macronutrient source, is still the main driver of weight gain (Buchholz & Schoeller, 2004). Consuming more calories than your body needs will lead to weight gain, whether those calories come from carbohydrates, fats, or proteins.
 
@@ -217,13 +225,14 @@ While eating breakfast can be part of a healthy lifestyle, it is not a requireme
 ### You Can't Lose Weight Without Exercise
 While exercise is important for overall health and can support weight loss efforts, it is not strictly necessary for weight loss. Creating a calorie deficit through dietary changes alone can lead to weight loss (Swift et al., 2014).
 
-### Rapid Weight Loss is Sustainable
-Crash diets and rapid weight loss techniques may lead to initial weight loss, but they are often difficult to maintain long-term and can lead to weight regain. Slow, gradual weight loss through sustainable lifestyle changes is more likely to result in lasting success (Purcell et al., 2014).
-
 
 ## References
 
+[^acheson]: Acheson, K. J., Schutz, Y., Bessard, T., Anantharaman, K., Flatt, J. P., & Jéquier, E. (1988). Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man. The American Journal of Clinical Nutrition, 48(2), 240-247.
+
 [^who]: World Health Organization. "Obesity and Overweight." Last modified March 1, 2024. [https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight).
+
+
 
 Anton, S.D., Moehl, K., Donahoo, W.T., Marosi, K., Lee, S.A., Mainous, A.G., Leeuwenburgh, C. and Mattson, M.P., 2017. Flipping the metabolic switch: Understanding and applying the health benefits of fasting. Obesity, 26(2), pp.254-268.
 
@@ -295,7 +304,7 @@ Westman, E.C., Feinman, R.D., Mavropoulos, J.C., Vernon, M.C., Volek, J.S., Wort
 
 Westerterp-Plantenga, M. S., Nieuwenhuizen, A., Tome, D., Soenen, S., & Westerterp, K. R. (2009). Dietary protein, weight loss, and weight maintenance. Annual Review of Nutrition, 29(1), 21-41.
 
-Acheson, K. J., Schutz, Y., Bessard, T., Anantharaman, K., Flatt, J. P., & Jéquier, E. (1988). Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man. The American Journal of Clinical Nutrition, 48(2), 240-247.
+
 
 Duncan, R. E., Ahmadian, M., Jaworski, K., Sarkadi-Nagy, E., & Sul, H. S. (2007). Regulation of lipolysis in adipocytes. Annual Review of Nutrition, 27, 79-101.
 
