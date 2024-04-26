@@ -12,9 +12,11 @@
 
 Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. 
 
-Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
+Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases) which are the leading cause of death worldwide. [^who-ncd]
 
 ![](/fatloss.png)
+
+## Introduction to Obesity
 
 The WHO (World Health Organization) defines[^who] overweight and obese as:
 
@@ -23,6 +25,8 @@ The WHO (World Health Organization) defines[^who] overweight and obese as:
 [BMI (Body Mass Index)](/health/bmi) is a calculation used to assess body fat levels based on an individual's weight and height. It is calculated by dividing a person's weight in kilograms by their height in meters squared (kg/m²). 
 
 However, [BMI](/health/bmi) does not directly measure body fat percentage and may not accurately reflect the body composition of those with high muscle mass.
+
+### A Global Problem
 
 The picture for modern society is grim.
 
@@ -34,18 +38,28 @@ Obesity is now a bigger problem than malnutrition in many parts of the world, hi
 
 That said, you do not have to be part of these statistics. 
 
-Let's start by clarifying that when we say "losing weight," we specifically mean losing excess body fat while preserving lean muscle mass. 
+## Understanding Weight Loss
+
+When we say "losing weight," we specifically mean *losing excess body fat* while preserving lean muscle mass. 
 
 This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run (Cava et al., 2017). 
 
 Therefore, the focus should be on adopting evidence-based strategies that promote fat loss while maintaining or even building lean muscle mass for sustainable, healthy weight management.
 
 ## The Problem with Diets
-Research suggests that 95% of diets fail, with most people regaining the weight they lost within a few years or months (Mann et al., 2007). Fad diets often promise rapid weight loss through strict rules and limited food choices, but these diets are difficult to maintain long-term and can lead to feelings of deprivation, frustration, and eventual abandonment (Dulloo & Montani, 2015).
 
-The reason is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss (Fung, 2016).
+>[!CAUTION] ❌ Beware of Fad Diets
+> A fad diet is a weight loss plan that promises fast, dramatic results through unsustainable and unbalanced eating. These diets, often involving restrictive or unusual food choices, focus on quick weight loss rather than long-term health. [^dulloo]
+> 
+> **Dieters almost always regain the weight and often gain more.**
 
-When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy (Müller & Bosy-Westphal, 2013). These adaptations include:
+Research suggests that 95% of diets fail, with most people regaining the weight they lost within a few years or months. [^mann]  
+
+The reason is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss. [^fung]
+
+When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy. [^muller] 
+
+These adaptations include:
 
 - **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy (Rosenbaum & Leibel, 2010).
 - **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings (Sumithran et al., 2011).
@@ -64,8 +78,8 @@ Moreover, severe calorie restriction can lead to the loss of lean muscle mass, w
 > 
 > **In other words, don't overoptimize — focus on getting the basic right.**
 
-
-## Calories In vs. Calories Out
+## How the Body Burns Fat
+### Calories In vs. Calories Out
 
 The "calories in, calories out" (CICO) model has long been the standard way to think about weight loss. According to this model, losing weight simply involves consuming fewer calories than you burn. This principle underlies many traditional dieting strategies and emphasizes caloric deficit as the key to weight loss (Hall et al., 2012).
 
@@ -91,17 +105,19 @@ The following graph, showing how rates of obesity in various countries are highl
 
 While the fundamental physics of the CICO model—that you must burn more calories than you consume to lose fat—remains valid, this model does not capture the full complexity of human metabolism. Effective weight management requires considering not just the quantity of calories but also their quality and the timing of consumption.
 
+For further information, we suggest you watch [this video on the hormonal model vs the CICO model by Dr. Jason Fung.](https://www.youtube.com/watch?v=ZKC3hiyLeRc)
 
-## The Role of Insulin
+
+### The Role of Insulin
 Insulin is a hormone produced by the pancreas that regulates blood sugar levels and plays a crucial role in fat storage. When you eat, especially carbohydrates, your blood sugar levels rise, and insulin is released to shuttle the glucose into your cells for energy or storage (Petersen & Shulman, 2018).
 
 Insulin is often referred to as the "gatekeeper" of fat storage. High levels of insulin promote fat storage, while low levels of insulin allow for fat burning (Dimitriadis et al., 2011). This is why individuals with Type 1 Diabetes, who cannot produce insulin, can lose weight rapidly and face life-threatening complications if not treated with insulin injections, regardless of how much they eat (Frandsen & Svensson, 2021).
 
-## Fat Burning & Glycogen Stores
+### Fat Burning & Glycogen Stores
 
 To effectively lose body fat, it's essential to understand the underlying biological processes involved in fat burning and the role of glycogen stores in this process.
 
-### Glycogen: The Body's Stored Carbohydrates
+#### Glycogen: The Body's Stored Carbohydrates
 
 When you consume carbohydrates, your body breaks them down into glucose, which is then used for immediate energy needs or stored in the liver and muscles as glycogen (Jensen et al., 2011). 
 
@@ -113,7 +129,7 @@ Glycogen is the body's primary source of stored energy and is readily accessible
 
 When your body requires energy, there is a priority order based on how easy it is for the body to access the energy:
 
-1. 1. **Glucose in the Bloodstream**: Glucose is the body’s primary and most accessible energy source, utilized first due to its immediate availability in the bloodstream.
+1. **Glucose in the Bloodstream**: Glucose is the body’s primary and most accessible energy source, utilized first due to its immediate availability in the bloodstream.
 2. **Glycogen in Liver and Muscles**: As glucose levels drop, the body taps into glycogen stores. The liver converts its glycogen to glucose for the bloodstream, supporting overall energy needs and brain function. Muscles use their glycogen locally during physical activity. As long as there are sufficient glycogen stores, your body will preferentially use these stores for energy rather than tapping into stored fat. [^acheson] 
 3. **Fat Stores**: When glycogen is depleted, typically after hours of fasting or intense exercise, the body shifts to fat. It breaks down fat into fatty acids and glycerol for energy, a process that is slower and more involved than using glucose or glycogen.
 4. **Protein from Lean Muscle Mass**: In extreme cases of energy shortage, the body resorts to muscle protein, converting it into amino acids. Some are transformed into glucose via gluconeogenesis to support vital functions when other energy sources are scarce.
@@ -134,7 +150,7 @@ In the absence of sufficient glucose and glycogen, your liver produces ketones f
 
 By understanding the role of glycogen stores and the fat-burning process, you can make informed decisions about your diet and exercise routines to optimize fat loss. Strategies such as reducing carbohydrate intake, increasing physical activity, and considering low-carbohydrate or ketogenic diets can help deplete glycogen stores and promote fat burning.
 
-## The Satiety Mechanism
+### The Satiety Mechanism
 
 The body has a built-in system called the "satiety mechanism," which relies on stretch receptors in the stomach and nutrient receptors in the small intestine to signal when we've eaten enough (Lisle & Goldhamer, 2006). When we eat whole, unprocessed foods that are high in fiber and nutrients but relatively low in calorie density, this mechanism works effectively to prevent overeating and maintain a healthy weight.
 
@@ -154,16 +170,22 @@ Similarly, bananas are a nutritious fruit that contains fiber, potassium, and va
 
 ## Optimal Fat Loss Strategy
 
->[!DANGER] ⚠️ A Note on Misinformation
+>[!DANGER]  ⛔️ A Note on Misinformation
 > Weight loss is plagued by widespread misinformation. There are fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that make weight loss a confusing and frustrating journey. 
 > 
-> **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** 
+> To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources. 
 > 
-> You are encouraged to approach weight loss information with a critical eye. Prioritize evidence-based strategies over popular trends or anecdotal advice.  
+> **You are encouraged to approach weight loss information with a critical eye. Prioritize evidence-based strategies over popular trends or anecdotal advice.**  
 
 So what is the optimal fat loss strategy? 
 
-The optimal fat loss strategy is one that prioritizes diet over exercise, is relatively easy to follow, and focuses on hormonal changes rather than solely relying on the simplified "calories in vs. calories out" model. By understanding the fundamental biological mechanisms that regulate weight, we can develop an effective and sustainable approach to fat loss.
+The optimal fat loss strategy is one that:
+
+- Easy to follow
+- Focuses on hormonal changes
+- Focuses on Nutrition vs Exercise
+
+prioritizes diet over exercise, is relatively easy to follow, and focuses on hormonal changes rather than solely relying on the simplified "calories in vs. calories out" model. By understanding the fundamental biological mechanisms that regulate weight, we can develop an effective and sustainable approach to fat loss.
 
 ![](/fatlossrange.svg)
 
@@ -232,7 +254,15 @@ While exercise is important for overall health and can support weight loss effor
 
 [^who]: World Health Organization. "Obesity and Overweight." Last modified March 1, 2024. [https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight).
 
+[^who-ncd]: World Health Organization, "Noncommunicable diseases," World Health Organization, last modified September 16, 2023, [https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases).
 
+[^mann]: Mann, Traci, A. Janet Tomiyama, Erika Westling, Ann-Marie Lew, Barbra Samuels, and Jason Chatman. "Medicare's Search for Effective Obesity Treatments: Diets Are Not the Answer." American Psychologist 62, no. 3 (2007): 220-233.
+
+[^dulloo]: Dulloo, A.G. and Montani, J.P., 2015. Pathways from dieting to weight regain, to obesity and to the metabolic syndrome: An overview. Obesity Reviews, 16(S1), pp.1-6.
+
+[^fung]: Fung, J. (2016). The obesity code: Unlocking the secrets of weight loss. Greystone Books.
+
+[^muller]: Müller, M. J., & Bosy-Westphal, A. (2013). Adaptive thermogenesis with weight loss in humans. Obesity, 21(2), 218-228.
 
 Anton, S.D., Moehl, K., Donahoo, W.T., Marosi, K., Lee, S.A., Mainous, A.G., Leeuwenburgh, C. and Mattson, M.P., 2017. Flipping the metabolic switch: Understanding and applying the health benefits of fasting. Obesity, 26(2), pp.254-268.
 
@@ -246,13 +276,13 @@ Dhurandhar, E. J., Dawson, J., Alcorn, A., Larsen, L. H., Thomas, E. A., Cardel,
 
 Dimitriadis, G., Mitrou, P., Lambadiari, V., Maratou, E. and Raptis, S.A., 2011. Insulin effects in muscle and adipose tissue. Diabetes Research and Clinical Practice, 93(S1), pp.S52-S59.
 
-Dulloo, A.G. and Montani, J.P., 2015. Pathways from dieting to weight regain, to obesity and to the metabolic syndrome: An overview. Obesity Reviews, 16(S1), pp.1-6.
+
 
 Erlanson-Albertsson, C. (2005). How palatable food disrupts appetite regulation. Basic & Clinical Pharmacology & Toxicology, 97(2), 61-73.
 
 Frandsen, C.S. and Svensson, B., 2021. 100 years after the discovery of insulin: Clinical implications of diabetes treatment. Endocrinology and Metabolism Clinics of North America, 50(2), pp.331-346.
 
-Fung, J. (2016). The obesity code: Unlocking the secrets of weight loss. Greystone Books.
+
 
 Hall, K.D., Heymsfield, S.B., Kemnitz, J.W., Klein, S., Schoeller, D.A. and Speakman, J.R., 2012. Energy balance and its components: Implications for body weight regulation. The American Journal of Clinical Nutrition, 95(4), pp.989-994.
 
@@ -266,13 +296,13 @@ Ludwig, D. S., Hu, F. B., Tappy, L., & Brand-Miller, J. (2018). Dietary carbohyd
 
 Malhotra, A., Noakes, T., & Phinney, S. (2015). It is time to bust the myth of physical inactivity and obesity: You cannot outrun a bad diet. British Journal of Sports Medicine, 49(15), 967-968.
 
-Mann, T., Tomiyama, A.J., Westling, E., Lew, A.M., Samuels, B. and Chatman, J., 2007. Medicare's search for effective obesity treatments: Diets are not the answer. American Psychologist, 62(3), pp.220-233.
+
 
 Mattson, M.P., Longo, V.D. and Harvie, M., 2017. Impact of intermittent fasting on health and disease processes. Ageing Research Reviews, 39, pp.46-58.
 
 Moss, M. (2013). Salt sugar fat: How the food giants hooked us. Random House.
 
-Müller, M. J., & Bosy-Westphal, A. (2013). Adaptive thermogenesis with weight loss in humans. Obesity, 21(2), 218-228.
+
 
 Petersen, M.C. and Shulman, G.I., 2018. Mechanisms of insulin action and insulin resistance. Physiological Reviews, 98(4), pp.2133-2223.
 

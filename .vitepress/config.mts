@@ -108,6 +108,7 @@ export default defineConfig({
               { "text": '🔥 Inflammation', link: '/health/inflammation'},
               { "text": '🧘‍♂️ Autophagy', link: '/health/autophagy'},
               { "text": '⚖️ BMI', link: '/health/bmi'}
+              { "text": '🏃‍♂️ NEAT', link: '/health/neat'}
             ]
           },
           { text: '⚖️ Losing Weight', link: '/health/losing-weight'},
