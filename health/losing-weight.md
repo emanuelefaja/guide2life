@@ -1,26 +1,14 @@
 # Losing Weight.
 
->[!WARNING] ⚠️ A Note on Misinformation
-> Weight loss is plagued by widespread misinformation, often perpetuated by fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that can make weight loss a confusing and frustrating endeavor. **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** We encourage readers to approach weight loss information with a critical eye and to prioritize evidence-based strategies over popular trends or anecdotal advice.  
+::: details Key Takeaways
 
-Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
+- **Understanding Weight Loss:** True weight loss involves losing excess body fat while preserving lean muscle mass, not just reducing the number on the scale.
+> - **The Problem with Diets:** Most diets fail due to their unsustainable nature and the body's adaptive responses, such as decreased metabolism and increased hunger.
+> - **Calories and Hormones Matter:** Not all calories are the same. The type of calories consumed significantly impacts hormonal responses and fat storage. Insulin plays a crucial role as it regulates fat storage and influences weight loss.
+> - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
+> - **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
 
-[The WHO definition](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight) overweight and obese as:
-
-> The diagnosis of overweight and obesity is made by measuring people’s weight and height and by calculating the body mass index (BMI): weight (kg)/height² (m²). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity. For adults, WHO defines overweight and obesity as follows:
-> - Overweight is a BMI greater than or equal to 25; and
-> - Obesity is a BMI greater than or equal to 30.
-
-
-The picture for modern society is grim.
-
-As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people).
-
-Obesity is now a bigger problem than malnutrition in many parts of the world, highlighting a shift in global health concerns from traditional undernutrition to excessive nutrition-related chronic conditions like cardiovascular disease and diabetes. ​ [You can check where you country ranks in obesity here.](https://data.worldobesity.org/rankings/)
-
-That said, you do not have to be part of these statistics. 
-
-![](../images/fatloss.png)
+:::
 
 >[!TIP] Key Takeaways
 > - **Understanding Weight Loss:** True weight loss involves losing excess body fat while preserving lean muscle mass, not just reducing the number on the scale.
@@ -28,6 +16,31 @@ That said, you do not have to be part of these statistics.
 > - **Calories and Hormones Matter:** Not all calories are the same. The type of calories consumed significantly impacts hormonal responses and fat storage. Insulin plays a crucial role as it regulates fat storage and influences weight loss.
 > - **Sustainable Strategies:** Effective weight management should focus on diet quality, hormonal balance, and lifestyle adjustments, not just calorie counting. Strategies like reducing processed foods and combining low-carb diets with intermittent fasting are often effective.
 > - **Universal Biological Principles:** Despite individual differences, fundamental biological mechanisms like insulin response are consistent among humans and significantly influence how dietary changes affect us.
+
+Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life. 
+
+Being overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases).
+
+The WHO (World Health Organization) defines[^who] overweight and obese as:
+
+> The diagnosis of overweight and obesity is made by measuring people’s weight and height and by calculating the [body mass index (BMI)](/health/bmi): weight (kg)/height² (m²). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity. For adults, WHO defines overweight and obesity as follows: **Overweight is a BMI greater than or equal to 25**; and **Obesity is a BMI greater than or equal to 30.**
+
+[BMI (Body Mass Index)](/health/bmi) is a calculation used to assess body fat levels based on an individual's weight and height. It is calculated by dividing a person's weight in kilograms by their height in meters squared (kg/m²). 
+
+However, [BMI](/health/bmi) does not directly measure body fat percentage and may not accurately reflect the body composition of those with high muscle mass.
+
+The picture for modern society is grim.
+
+As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people).
+
+Obesity is now a bigger problem than malnutrition in many parts of the world, highlighting a shift in global health concerns from traditional undernutrition to excessive nutrition-related chronic conditions like cardiovascular disease and diabetes. ​ 
+
+[You can check where your country ranks in obesity here.](https://data.worldobesity.org/rankings/)
+
+That said, you do not have to be part of these statistics. 
+
+![](../images/fatloss.png)
+
 
 Let's start by clarifying that when we say "losing weight," we specifically mean losing excess body fat while preserving lean muscle mass. 
 
@@ -138,6 +151,13 @@ Similarly, bananas are a nutritious fruit that contains fiber, potassium, and va
 
 ## Optimal Fat Loss Strategy
 
+>[!DANGER] ⚠️ A Note on Misinformation
+> Weight loss is plagued by widespread misinformation. There are fad diets, misleading marketing claims, and unsubstantiated and conflicting advice that make weight loss a confusing and frustrating journey. 
+> 
+> **To ensure the accuracy and reliability of the information presented here, this page includes a _significant number of references_ to peer-reviewed scientific studies and reputable sources.** 
+> 
+> You are encouraged to approach weight loss information with a critical eye. Prioritize evidence-based strategies over popular trends or anecdotal advice.  
+
 So what is the optimal fat loss strategy? 
 
 The optimal fat loss strategy is one that prioritizes diet over exercise, is relatively easy to follow, and focuses on hormonal changes rather than solely relying on the simplified "calories in vs. calories out" model. By understanding the fundamental biological mechanisms that regulate weight, we can develop an effective and sustainable approach to fat loss.
@@ -202,6 +222,8 @@ Crash diets and rapid weight loss techniques may lead to initial weight loss, bu
 
 
 ## References
+
+[^who]: World Health Organization. "Obesity and Overweight." Last modified March 1, 2024. [https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight).
 
 Anton, S.D., Moehl, K., Donahoo, W.T., Marosi, K., Lee, S.A., Mainous, A.G., Leeuwenburgh, C. and Mattson, M.P., 2017. Flipping the metabolic switch: Understanding and applying the health benefits of fasting. Obesity, 26(2), pp.254-268.
 
