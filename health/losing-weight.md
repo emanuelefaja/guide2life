@@ -45,7 +45,7 @@ That said, you do not have to be part of these statistics.
 
 When we say "losing weight," we specifically mean *losing excess body fat* while preserving lean muscle mass. 
 
-This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run. [^cava] 
+This distinction is crucial because many fad diets and quick-fix solutions often lead to rapid weight loss, but this weight loss can come from a combination of fat, muscle, and water. Losing lean muscle mass can be detrimental to overall health and can slow down metabolism, making it harder to maintain weight loss in the long run. [^cava]  
 
 Therefore, the focus should be on adopting evidence-based strategies that promote fat loss while maintaining or even building lean muscle mass for sustainable, healthy weight management.
 
@@ -84,7 +84,7 @@ To continue losing weight, you would need to further reduce your calorie intake,
 Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits. [^cava] 
 
 >[!CAUTION] ⛔️  The Universality of Human Biology
-> Humans share the vast majority  (99.9%) of their DNA. [citation?]This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches (Ioannidis, 2013). For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
+> Humans share the vast majority  (99.9%) of their DNA. [citation?]This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches. [^loannidis] For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
 >
 > While individual preferences and sustainability should be considered when choosing a fat loss approach, it is equally important to focus on strategies that work with the fundamental biological mechanisms we all share. Understanding and leveraging these universal principles we can ensure we're on the right track.
 > 
@@ -211,7 +211,7 @@ To avoid falling into the 95% of diets that fail (Mann et al., 2007), the optima
 
 While a calorie deficit is necessary for weight loss, the optimal fat loss strategy must also consider the hormonal impact of food choices, particularly the role of insulin. Insulin is a key regulator of fat storage and fat burning, with high levels promoting fat storage and low levels enabling fat burning (Dimitriadis et al., 2011).
 
-Despite individual differences, the fundamental role of insulin in weight regulation remains consistent across all humans (Ioannidis, 2013). Strategies that lower insulin levels, such as low-carbohydrate diets and intermittent fasting, have been shown to promote fat loss in the majority of people (Westman et al., 2007; Mattson et al., 2017).
+Despite individual differences, the fundamental role of insulin in weight regulation remains consistent across all humans. [^loannidis] Strategies that lower insulin levels, such as low-carbohydrate diets and intermittent fasting, have been shown to promote fat loss in the majority of people (Westman et al., 2007; Mattson et al., 2017).
 
 ### Putting It All Together
 
@@ -223,7 +223,7 @@ The optimal fat loss strategy should include the following components:
 - The incorporation of intermittent fasting, if appropriate and sustainable for the individual, to further reduce insulin levels and enhance fat loss (Mattson et al., 2017).
 - Regular physical activity, primarily for its health benefits and to support the maintenance of lean muscle mass during weight loss (Swift et al., 2018).
 
-While individual differences can play a role in weight loss, it's essential not to overemphasize their importance. Despite the current trend of highly personalized diets, the reality is that we are all human, sharing the vast majority of our DNA, and our bodies react in remarkably similar ways to the same dietary approaches (Ioannidis, 2013).
+While individual differences can play a role in weight loss, it's essential not to overemphasize their importance. Despite the current trend of highly personalized diets, the reality is that we are all human, sharing the vast majority of our DNA, and our bodies react in remarkably similar ways to the same dietary approaches. [^loannidis] 
 
 This is particularly evident when considering the role of insulin in weight regulation. Insulin is a fundamental hormone that operates consistently across the human species. If we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021). This demonstrates the universal importance of insulin in fat storage and fat burning.
 
@@ -291,6 +291,8 @@ While exercise is important for overall health and can support weight loss effor
 
 [^goldhamer]: Lisle, D. J., & Goldhamer, A. (2006). The pleasure trap: Mastering the hidden force that undermines health and happiness. Healthy Living Publications.
 
+[^loannidis]: Ioannidis, J.P., 2013. Implausible results in human nutrition research. BMJ, 347, p.f6698.
+
 Anton, S.D., Moehl, K., Donahoo, W.T., Marosi, K., Lee, S.A., Mainous, A.G., Leeuwenburgh, C. and Mattson, M.P., 2017. Flipping the metabolic switch: Understanding and applying the health benefits of fasting. Obesity, 26(2), pp.254-268.
 
 Bird, S.R. and Hawley, J.A., 2017. Update on the effects of physical activity on insulin sensitivity in humans. BMJ Open Sport & Exercise Medicine, 2(1), p.e000143.
@@ -305,7 +307,6 @@ Frandsen, C.S. and Svensson, B., 2021. 100 years after the discovery of insulin:
 
 Hu, T., Mills, K. T., Yao, L., Demanelis, K., Eloustaz, M., Yancy, W. S., ... & Bazzano, L. A. (2012). Effects of low-carbohydrate diets versus low-fat diets on metabolic risk factors: A meta-analysis of randomized controlled clinical trials. American Journal of Epidemiology, 176(suppl_7), S44-S54.
 
-Ioannidis, J.P., 2013. Implausible results in human nutrition research. BMJ, 347, p.f6698.
 
 
 
