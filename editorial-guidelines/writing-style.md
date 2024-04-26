@@ -1,5 +1,5 @@
 # Writing Style
-> "I didn't have time to write a short letter, so I wrote a long one instead." **Mark Twain.**
+
 
 These are the Guide2Life writing guidelines. In a world overflowing with information[^carr], the ability to communicate clearly and simply is crucial. 
 
@@ -24,6 +24,7 @@ Remember, simplicity does not mean oversimplification; it means conveying your m
 
 
 ### Conciseness
+> "I didn't have time to write a short letter, so I wrote a long one instead." **Mark Twain.**
 
 - Every word must serve a purpose.
 - Be ruthless in cutting ~~fluff and~~ redundancies. 
@@ -35,14 +36,33 @@ Remember, simplicity does not mean oversimplification; it means conveying your m
 
 ## Consistency 
 
-
+It should be impossible to tell that Guide2Life is a contributor-driven project. 
 
 
 ## Structural Elements
 
 ### Headings
 
+Facing a wall of text can be daunting for any reader. 
+
+Headings and subheadings break down long text, making content more approachable and easier to navigate. [^lemarie] They guide readers through a logical progression of ideas and help them quickly find information that interests them.
+
+You can use H2 and H3 like this:
+
+```markdown
+## This is an H2 heading
+
+### This is an H3 heading
+```
+
+H2 headings will also be shown in the right side navigation bar.
+
 ### Quotations
+> "A quotation is a handy thing to have about, saving one the trouble of thinking for oneself, always a laborious business." **A.A. Milne.**
+
+Joking aside, quotations can help readers remember important points. Use them.
+
+### Links 
 
 ### Lists
 
@@ -76,3 +96,4 @@ This is a details block where you can put a lot more information about a specifi
 
 [^carr]: Carr, Nicholas. _The Shallows: What the Internet Is Doing to Our Brains_. New York: W.W. Norton & Company, 2010.
 
+[^lemarie]: Lemarié, Julie, Robert F. Lorch Jr., and Marie-Paule Péry-Woodley. "Understanding How Headings Influence Text Processing." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 10 (2012). [https://doi.org/10.4000/discours.8600](https://doi.org/10.4000/discours.8600).
