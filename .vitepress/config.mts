@@ -120,6 +120,7 @@ export default defineConfig({
               { "text": "🍬 Sugar", "link": "/health/nutrition/sugar" },
               { "text": "🧂 Salt", "link": "/health/nutrition/salt" },
               { "text": "☕️ Coffee", "link": "/health/nutrition/coffee" },
+              { "text": "🫖 Tea", "link": "/health/nutrition/tea" },
               { "text": "🕔 Fasting", "link": "/health/nutrition/fasting" },
               { "text": "🥦 Vegetables", "link": "/health/nutrition/vegetables" },
               { "text": "🍇 Antioxidants", "link": "/health/nutrition/antioxidants" },
