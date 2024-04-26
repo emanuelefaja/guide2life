@@ -2,9 +2,9 @@
 
 > **Philosophy**, from the Ancient Greek words '*philos'* (love) and *'sophia'* (wisdom), means *"love of wisdom."* 
 
-It involves the study of fundamental questions about existence, knowledge, values, reason, mind, and language. In its most practical form, philosophy is a tool that shapes how one understands the world and guides one’s actions.
+It's the study of fundamental questions about existence, knowledge, values, reason, mind, and language. In its most practical form, philosophy is a tool that shapes how one understands the world and guides one’s actions.
 
-**A philosophy of life** is a coherent set of beliefs and principles that informs and guides an individual's choices, priorities, and actions throughout life, providing a framework for understanding and interacting with the world.
+**A philosophy of life** is a coherent set of beliefs and principles that guide an individual's decisions and actions, providing a way to understand and interact with the world.
 
 ![](../images/lifereflections.webp)
 
