@@ -28,14 +28,16 @@ Inline citations are small, numbered footnotes, such as [^apa].
 ```
 
 In the above example, we use apa as the descriptor as the reference is from the American Psychological Association (APA). You can use any description you want, as long as there are no duplicates within the same page. 
-## Harvard Style
+## Chicago Style
 
 > [!TIP] Strike a Balance in Referencing
 > While referencing is essential, avoid over-referencing to maintain readability for non-academic audiences. Aim to use references strategically to support key points and ideas without overwhelming the reader.
 
 Throughout the guide, we use the Harvard style of referencing style, specifically the *Cite Them Right* style. [The Open University has a comprehensive guide on this.](https://www5.open.ac.uk/library/referencing-and-plagiarism/quick-guide-to-harvard-referencing-cite-them-right)
 
-At the end of each page or section, include a "References" heading with an H2 tag (##References). Under this heading, you can list the references, with a line break between each source. You can use this style as per the [Markdown Footnotes Guide.](https://www.markdownguide.org/extended-syntax/#footnotes)
+At the end of each page or section, include a "References" heading with an H2 tag (##References). Under this heading, you can list the references, with a line break between each source.  The order of the sources does not matter, the Guide2Life system will automatically sort and number the sources based on the order that they are cited in the text. 
+
+You can use this style as per the [Markdown Footnotes Guide.](https://www.markdownguide.org/extended-syntax/#footnotes)
 
 ```markdown 
 [^apa]: American Psychological Association, 2020. _Publication manual of the American Psychological Association_. 7th ed. Washington, DC: American Psychological Association.
