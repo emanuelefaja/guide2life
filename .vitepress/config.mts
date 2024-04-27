@@ -177,15 +177,10 @@ export default defineConfig({
           { "text": "🤝 Networking Techniques", "link": "/work/networking" },
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
           { "text": "🔄 Career Transitions", "link": "/work/career-transitions"},
-          { "text": "🌍 Remote Work", "link": "/work/remote-work" }
-        ]
-      },
-      {
-      text: '⏳ Manage Time',
-        collapsed: true,
-        items: [
           { text: '🔗 Mono Task', link: '/markdown-amples' },
-          { text: '🍅 Pomodoro Technique', link: '/time/pomodoro' }
+          { text: '⏳ Manage Time', link: '/time/manage-time' },
+          { text: '🍅 Pomodoro Technique', link: '/time/pomodoro' },
+          { "text": "🌍 Remote Work", "link": "/work/remote-work" }
         ]
       },
       {
