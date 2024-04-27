@@ -10,12 +10,22 @@ Welcome to the Guide2Life, a structured evidence-based approach to get the most 
 
 ![](/intro.webp)
 
-Drawing from a wide range of disciplines, including philosophy, [evolutionary psychology](/start/brain-meets-world), health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to improve your physical health, build stronger relationships, make better decisions, or [find a deeper sense of purpose](/start/philosophy-of-life), this guide will provide you with practical strategies and insights to help you along the way.
+Drawing from a wide range of disciplines, including philosophy, [evolutionary psychology](/start/brain-meets-world), health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to [lose weight](/health/losing-weight), build stronger relationships, make better decisions, or [find a deeper sense of purpose](/start/philosophy-of-life), this guide will provide you with practical strategies and insights to help you along the way.
 
 ## Rationale
 > "The unexamined life is not worth living." **Socrates.**
 
-Many individuals struggle to find proper guidance, relying on trial and error to navigate personal and professional challenges. Schools teach us maths and geography, but not the art of conversation, how to make critical decisions, or cook a healthy meal. The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion, speculation, and click-bait.
+Guide2Life was created to fill a significant gap: **a well-organized, trustworthy resource for living well.**
+
+Many individuals struggle to find proper guidance, relying on trial and error to navigate personal and professional challenges.
+
+The information found here is widely available, but fragmented across various sources and lacks structure, which complicates the search for dependable advice. For instance, you can check out how recommended books, blogs, and videos for other excellent content online. 
+
+However, there are a lot of actors with misaligned incentives that want to profit from the various struggles that individuals face in their lives.  The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion, speculation, and click-bait.
+
+School has not filled the gap. Traditional education systems focus on academic subjects like math and geography but but not the art of conversation, how to make critical decisions, or cook a healthy meal. 
+
+Finally, our  founder has [explored these topics extensively on his blog for over a decade.](https://emanuele.cc) His insights, though valuable, were sporadic and not always evidence-based. His frustration in seeking a structured manual for how to live well led to the creation of Guide2Life.
 
 **Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines.** 
 
