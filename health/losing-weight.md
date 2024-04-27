@@ -16,6 +16,8 @@
 
 Achieving and maintaining a healthy weight is a common goal, with benefits for physical health, self-confidence, and overall quality of life.  
 
+> "Let food be thy medicine and medicine be thy food." **Hippocrates.**
+
 If you're overweight, reducing your weight should be *the* priority of your life. You will get the most investment back for your attention, as a health body makes everything else in this guide easier. 
 
 ![](/fatloss.png)
@@ -26,17 +28,19 @@ They follow the typical advice of *"eat less, move more"*. They get some initial
 
 *They feel like shit* — no energy, cold, hungry, and full of cravings. 
 
-And on top of it all, they appear to lack the discipline or will power to actually stick through it all. In other words, it is *their fault.*
+And on top of it all, they appear to lack the discipline or will power to actually stick through it all. In other words, it is *their fault.* So not only are they fat, but also morally reprehensible! 
 
 It's no surprise that they gain back all the weight and some more. [^mann]
+
+In today's food environment, filled with highly processed, calorie-dense foods, it's more important than ever to be intentional about what we eat. Without a clear understanding of how different foods affect our bodies, it's easy to consume excess calories without realizing it.
 
 **This guide is designed to give you all the knowledge you need to make the lifestyle changes required to *permanently* lose fat and maintain a healthy weight, *without relying on short-term diets or extreme measures.***
 
 By the end of this, you will know what causes weight gain, precisely how the body burns fat, and the optimal strategy for fat loss. 
 
+Remember, this is under your control. You can choose what you put into your body.
 
-
-
+> "Hunger is the first element of self-discipline. If you can control what you eat and drink, you can control everything else.” **Dr. Umar Faruq Abd-Allah.**
 
 ## Introduction to Obesity
 
@@ -60,6 +64,8 @@ EXPAND THIS SECTION
 The picture for modern society is grim.
 
 As of 2023, 16% of adults are obese and 43% overweight across the world. **The worldwide prevalence of obesity more than doubled between 1990 and 2022.** For children and adolescents, the picture is even worse. In 1990 there was a 2% obesity rate (31M young people) and this has grown to 8% (160M young people). [^who]
+
+GOOD TO PUT A GRAPH HERE OF HISTORICAL OBESITY RATES
 
 Obesity is now a bigger problem than malnutrition in many parts of the world, highlighting a shift in global health concerns from traditional undernutrition to excessive nutrition-related chronic conditions like cardiovascular disease and diabetes. ​ 
 
@@ -119,7 +125,7 @@ Similarly, bananas are a nutritious fruit that contains fiber, potassium, and va
 In particular, processed foods high in refined carbohydrates and added sugars have been shown to disrupt the hormones that regulate hunger, fullness and fat storage - especially insulin. When we eat refined carbs and sugar, we get a rapid spike in blood glucose. The body responds by releasing large amounts of insulin to shuttle the glucose out of the bloodstream. Over time, a diet consistently high in processed carbs can lead to chronically elevated insulin levels.
 
 > [!TIP] 🧠 Brain Meet World
-> Guide2Life covers in-depth the mismatch between our evolutionary psychology, powered by our 200,000 year old brains and modern lifestyle in our section [Brain Meet World. ](/start/brain-meet-world)
+> Guide2Life covers in-depth the mismatch between our evolutionary psychology, powered by our 200,000 year old brains and modern lifestyle in our section [Brain Meets World. ](/start/brain-meets-world)
 > 
 > Modern diets are another example where the environment has changed much faster than the rate of evolution and our ability to adapt.
 
@@ -162,38 +168,6 @@ In the context of weight loss, this means that the energy (calories) you consume
 If you consume more energy than your body expends, the excess energy will be stored, leading to weight gain. Conversely, if you expend more energy than you consume, your body will need to tap into its stored energy reserves (body fat) to make up for the deficit, resulting in weight loss.
 :::
 
-
-## The Problem with Diets
-
->[!CAUTION] ❌ Beware of Fad Diets
-> A fad diet is a weight loss plan that promises fast, dramatic results through unsustainable and unbalanced eating. These diets, often involving restrictive or unusual food choices, focus on quick weight loss rather than long-term health. [^dulloo]
-> 
-> 
-> **95% of diets fail — most people regain the weight they lost and more. [^mann]**
-
-
-The problem with diets is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss. [^fung]
-
-When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy. [^muller] 
-
-These adaptations include:
-
-- **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy. [^rosenbaum2010]
-- **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings. [^suminthran] 
-- **Reduced non-exercise activity thermogenesis NEAT:** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements. [^rosenbaum2003] 
-
-As a result of these adaptations, you may experience a stop in weight loss despite maintaining what was previously a calorie deficit. 
-
-To continue losing weight, you would need to further reduce your calorie intake, which can lead to feelings of deprivation, fatigue, and frustration. This cycle of constantly cutting calories and battling hunger is one of the main reasons why many people find it challenging to sustain long-term weight loss through calorie restriction alone.
-
-Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits. [^cava] 
-
->[!CAUTION] ⛔️  The Universality of Human Biology
-> Humans share the vast majority  (99.9%) of their DNA. [citation?]This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches. [^loannidis] For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
->
-> While individual preferences and sustainability should be considered when choosing a fat loss approach, it is equally important to focus on strategies that work with the fundamental biological mechanisms we all share. Understanding and leveraging these universal principles we can ensure we're on the right track.
-> 
-> **In other words, don't overoptimize — focus on getting the basic right.**
 
 ## How the Body Burns Fat
 ### Calories In vs. Calories Out
@@ -266,6 +240,38 @@ When glycogen stores are low, your body releases fatty acids from adipose tissue
 In the absence of sufficient glucose and glycogen, your liver produces ketones from fatty acids. This metabolic state, known as ketosis, is an efficient way for your body to use stored fat for energy (Paoli et al., 2015). Very low-carbohydrate diets, such as the ketogenic diet, aim to induce and maintain a state of ketosis to promote fat burning (Volek & Phinney, 2011).
 
 By understanding the role of glycogen stores and the fat-burning process, you can make informed decisions about your diet and exercise routines to optimize fat loss. Strategies such as reducing carbohydrate intake, increasing physical activity, and considering low-carbohydrate or ketogenic diets can help deplete glycogen stores and promote fat burning.
+
+## The Problem with Diets
+
+>[!CAUTION] ❌ Beware of Fad Diets
+> A fad diet is a weight loss plan that promises fast, dramatic results through unsustainable and unbalanced eating. These diets, often involving restrictive or unusual food choices, focus on quick weight loss rather than long-term health. [^dulloo]
+> 
+> 
+> **95% of diets fail — most people regain the weight they lost and more. [^mann]**
+
+
+The problem with diets is that the body adapts to calorie restriction by slowing down metabolism and increasing feelings of hunger, making it difficult to sustain the calorie deficit necessary for continued weight loss. [^fung]
+
+When you drastically reduce your calorie intake, your body perceives this as a potential threat to survival and activates a series of adaptive mechanisms to conserve energy. [^muller] 
+
+These adaptations include:
+
+- **Decreased resting metabolic rate:** Your body starts burning fewer calories at rest to conserve energy. [^rosenbaum2010]
+- **Increased hunger and appetite:** Hormonal changes, such as increased levels of ghrelin (the "hunger hormone") and decreased levels of leptin (the "satiety hormone"), lead to increased feelings of hunger and cravings. [^suminthran] 
+- **Reduced non-exercise activity thermogenesis NEAT:** Your body unconsciously reduces energy expenditure through fidgeting, postural changes, and other small movements. [^rosenbaum2003] 
+
+As a result of these adaptations, you may experience a stop in weight loss despite maintaining what was previously a calorie deficit. 
+
+To continue losing weight, you would need to further reduce your calorie intake, which can lead to feelings of deprivation, fatigue, and frustration. This cycle of constantly cutting calories and battling hunger is one of the main reasons why many people find it challenging to sustain long-term weight loss through calorie restriction alone.
+
+Moreover, severe calorie restriction can lead to the loss of lean muscle mass, which further slows down metabolism and makes it easier to regain weight once you return to your normal eating habits. [^cava] 
+
+>[!CAUTION] ⛔️  The Universality of Human Biology
+> Humans share the vast majority  (99.9%) of their DNA. [citation?]This means that, despite the trend of personalized diets, our bodies react in remarkably consistent ways to similar dietary approaches. [^loannidis] For example, if we were to hypothetically give any person a pill that stops their body from producing insulin, they would experience rapid weight loss, regardless of their individual characteristics (Frandsen & Svensson, 2021).
+>
+> While individual preferences and sustainability should be considered when choosing a fat loss approach, it is equally important to focus on strategies that work with the fundamental biological mechanisms we all share. Understanding and leveraging these universal principles we can ensure we're on the right track.
+> 
+> **In other words, don't overoptimize — focus on getting the basic right.**
 
 ## Optimal Fat Loss Strategy
 
