@@ -44,6 +44,7 @@ export default defineConfig({
           { text: '🎲 Playing The Odds', link: '/start/playing-the-odds' },
           { text: '📈 Growth Mindset', link: 'start/growth-mindset' },
           { text: '📚 Recommended Books', link: '/start/books' },
+          { text: '🗞️ Recommended Blogs', link: '/start/blogs' },
           { text: '📺 Recommended Videos', link: '/start/videos' },
           { text: '❓ FAQ', link: '/start/faq' }
         ]
