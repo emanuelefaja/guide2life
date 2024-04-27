@@ -1,6 +1,8 @@
 # BMI
 
-BMI stands for Body Mass Index and was first introduced July 1972[^keys].  . It's a calculation used  to assess body fat levels based on an individual's weight and height. It can be a preliminary indicator on whether an individual should consider [losing weight. ](/health/losing-weight)
+BMI stands for Body Mass Index and was first introduced July 1972[^keys] . It's a calculation used  to assess body fat levels based on an individual's weight and height. 
+
+It can be a preliminary indicator on whether an individual should consider [losing weight](/health/losing-weight) which is important because overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases) — the leading cause of death worldwide. [^who-ncd]
 
  BMI is not perfect, it is a reliable measure of relative obesity.
 
@@ -75,8 +77,10 @@ A person with a "normal" BMI can still have an unhealthy body composition or poo
 
 ## References
 
-[^who-ncd]: World Health Organization, "Noncommunicable diseases," World Health Organization, last modified September 16, 2023, [https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases).
+[^who]: World Health Organization. "Obesity and Overweight." Last modified March 1, 2024. [https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight).
 
 [^nhs]: NHS. "Obesity." February 15, 2023. [https://www.nhs.uk/conditions/obesity/](https://www.nhs.uk/conditions/obesity/).
 
 [^keys]: Keys, Ancel, Flaminio Fidanza, Martti J. Karvonen, Noboru Kimura, and Henry L. Taylor. "Indices of Relative Weight and Obesity." _Journal of Chronic Diseases_ 25, no. 6 (July 1972): 329-343. doi:10.1016/0021-9681(72)90027-6.
+
+[^who-ncd]: World Health Organization, "Noncommunicable diseases," World Health Organization, last modified September 16, 2023, [https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases).
