@@ -19,6 +19,13 @@ export default defineConfig({
   description: "Structured guide to living well.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    lastUpdated: {
+          text: 'Last Updated',
+          formatOptions: {
+            dateStyle: 'long',
+            timeStyle: 'short'
+          },
+        },
     search: {
           provider: 'local'
         },
