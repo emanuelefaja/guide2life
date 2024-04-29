@@ -68,11 +68,12 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '🤔 What is Wisdom?', link: 'wisdom/what-is-wisdom' },
+          { text: '🧠 How The Brain Works', link: '/wisdom/how-the-brain-works' },
           { text: '📚 Continuous Education', link: '/markwn-examples' },
           { text: '📢 Socratic Reasoning', link: '/markd-examples' },
           { text: '🚧 Things Will Go Wrong', link: '/api-examps' },
           { text: '🪞 Cultivating Self-Awareness', link: '/api-examps' },
-          { text: '🧠 Emotional Intelligence', link: '/api-examps' },
+          { text: '🤔 Emotional Intelligence', link: '/api-examps' },
           { text: '❤️ Conquering Desire', link: '/api-examps' },
           { text: '✍️ Keep a Journal', link: '/api-exples' },
           { text: '✍️ Instincts vs Reason', link: 'wisdom/instincts-vs-reason' },
@@ -216,6 +217,7 @@ export default defineConfig({
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
           { "text": "🔄 Career Transitions", "link": "/work/career-transitions"},
           { text: '🔗 Mono Task', link: '/markdown-amples' },
+          { text: '⌨️ Touch Typing', link: '/work/touch-typing' },
           { text: '⏳ Manage Time', link: '/time/manage-time' },
           { text: '🍅 Pomodoro Technique', link: '/time/pomodoro' },
           { "text": "🌍 Remote Work", "link": "/work/remote-work" }
