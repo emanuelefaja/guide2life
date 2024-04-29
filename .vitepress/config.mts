@@ -16,7 +16,7 @@ export default defineConfig({
     },
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   title: "Guide2Life",
-  description: "Structured guide to living well.",
+  description: "A structured evidence-based approach to get the most out of life.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     lastUpdated: {
@@ -217,12 +217,19 @@ export default defineConfig({
         "text": "💼 Work Effectively",
         "collapsed": true,
         "items": [
-          { "text": "🛠️ Career Planning", "link": "/work/career-planning" },
-          { "text": "🔍 Job Search Strategies", "link": "/work/job-search-strategies" },
-          { "text": "📝 Resume and Cover Letter Writing", "link": "/work/resume-writing" },
-          { "text": "🤝 Networking Techniques", "link": "/work/networking" },
+          { "text": "📊 Managing Workload", "link": "/work/managing-workload" },
+          {
+            "text": "👩🏽‍💻 Career Development",
+            "collapsed": true,
+            "items": [
+            { "text": "🔍 Job Search Strategies", "link": "/work/job-search-strategies" },
+            { "text": "📝 Resume/CV Writing", "link": "/work/resume-cv-writing" },
+            { "text": "🤝 Networking Techniques", "link": "/work/networking" },
+            { "text": "🔄 Career Transitions", "link": "/work/career-transitions"},
+            { "text": "🛠️ Career Planning", "link": "/work/career-planning" }
+            ]
+          },
           { "text": "📈 Skill Development", "link": "/work/skill-development" },
-          { "text": "🔄 Career Transitions", "link": "/work/career-transitions"},
           { text: '🔗 Mono Task', link: '/markdown-amples' },
           { text: '⌨️ Touch Typing', link: '/work/touch-typing' },
           { text: '⏳ Manage Time', link: '/time/manage-time' },
