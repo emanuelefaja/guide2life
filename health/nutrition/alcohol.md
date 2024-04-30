@@ -48,6 +48,10 @@ During the Middle Ages, monasteries became centers for beer and wine production 
 
 The distillation of alcohol, which concentrates its potency, is believed to have originated in the Middle East or China, with early records of distillation dating back to the 12th century. The technique spread to Europe in the 13th century and gave rise to spirits such as whiskey, gin, and vodka.
 
+Today, alcohol is drunk pretty much everywhere[^ourworldindata] in the world:
+
+![](/alcoholmap.svg)
+
 ::: details Famous Drinkers in History
 
 - **Ernest Hemingway:** The celebrated American author was known for his heavy drinking, which he often incorporated into his writing. He famously said, "Write drunk, edit sober."
@@ -469,3 +473,4 @@ Chronic drinking can lead to a range of health problems over time, including liv
 [^Gronbaek]: Gronbaek, M. (2009). The positive and negative health effects of alcohol- and the public health implications. Journal of internal medicine, 265(4), 407-420. [https://doi.org/10.1111/j.1365-2796.2009.02082.x](https://doi.org/10.1111/j.1365-2796.2009.02082.x)
 [^beveridge]: Beveridge, Allan, and Graeme Yorston. "I Drink, Therefore I Am: Alcohol and Creativity." Journal of the Royal Society of Medicine 92, no. 12 (December 1999): 646-648. [https://doi.org/10.1177/014107689909201213](https://doi.org/10.1177/014107689909201213).
 [^amburn]: Amburn, Ellis. _Subterranean Kerouac: The Hidden Life of Jack Kerouac_. New York: St. Martin's Press, 1998.
+[^ourworldindata]: Ritchie, H., and M. Roser. "Alcohol Consumption." _Our World in Data._ Last modified January 2024. [https://ourworldindata.org/alcohol-consumption](https://ourworldindata.org/alcohol-consumption).
