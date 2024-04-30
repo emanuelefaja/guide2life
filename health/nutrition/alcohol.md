@@ -81,7 +81,13 @@ You can see a list of common drink formats and their equivalent units below:
 
 Alcohol is water and fat-soluble, allowing it to easily enter all cells and tissues in the body. When ingested, it is converted to the toxic substance *acetaldehyde* before being metabolized into *acetate*.
 
+Once alcohol is absorbed into the bloodstream, it quickly travels throughout the body, affecting various organs and systems. The liver is the primary organ responsible for metabolizing alcohol, but it can only process a limited amount at a time. On average, the liver can metabolize about one standard drink per hour. When alcohol consumption exceeds this rate, the excess alcohol continues to circulate in the bloodstream, leading to intoxication.
 
+Alcohol's effects on the brain are particularly significant. It interferes with the brain's communication pathways, disrupting the delicate balance of neurotransmitters. Initially, alcohol enhances the effects of GABA, a neurotransmitter that reduces brain activity, leading to feelings of relaxation and lowered inhibitions. Simultaneously, it inhibits glutamate, a neurotransmitter that stimulates brain activity. As alcohol consumption continues, it triggers the release of dopamine, creating feelings of pleasure and reward. However, as blood alcohol levels rise, the depressant effects become more prominent, causing slurred speech, impaired coordination, and slowed reaction times.
+
+Chronic alcohol consumption can lead to long-term changes in brain structure and function. Over time, the brain adapts to the presence of alcohol, developing tolerance and requiring larger amounts to achieve the desired effects. This can lead to alcohol dependence and addiction. 
+
+Long-term alcohol abuse can also cause damage to brain cells and lead to neurological problems such as memory loss, cognitive impairment, and an increased risk of dementia. Additionally, alcohol's effects on other organs, such as the liver, heart, and pancreas, can indirectly impact brain function by causing systemic health problems that affect the entire body.
 
 ### What alcohol does to a person
 
@@ -125,10 +131,6 @@ https://en.wikipedia.org/wiki/Short-term_effects_of_alcohol_consumption_
 | >0.50               | >108.5            | >500    | High possibility of death                |                                            |
 
 :::
-## Health Risks of Alcohol
-
-> Drinking heavily, you abandon people, and they abandon you and you abandon yourself. It's a form of partial self-murder' **Jack Kerouac.** [^amburn]
-
 
 
 Each daily drink (10-12 g alcohol) is associated with a 4-13% increase in breast cancer risk in women, likely due to effects on estrogen.
@@ -168,26 +170,96 @@ The podcast emphasizes that even this level of habitual drinking can lead to neg
 - Medication interactions: Alcohol can interact with many prescription and over-the-counter medications, altering their effectiveness or causing dangerous side effects.
 - Nutritional deficiencies: Alcohol can interfere with the absorption and metabolism of essential nutrients, leading to deficiencies that can impact various aspects of health.
 
-## Alcoholism
+## Types of Drinking
 
-- Definition of alcoholism 
-- What % of the world does this effect?
+### Chronic Drinking
+
+Chronic drinking is defined as consuming alcohol regularly and consistently over an extended period, even if the amount consumed per occasion is relatively low.
+
+>[!DANGER]⛔️ Even moderate drinking is harmful
+>This definition challenges the common belief that only heavy binge drinking is harmful and suggests that regular consumption of alcohol, even in moderate amounts, can have cumulative effects on health and behavior over time.
+
+More specifically,]  chronic drinking is charactertized as consuming on average 1-2 drinks per day, or 7-14 drinks per week. This pattern of drinking might manifest in various ways, such as:
+
+1. Having one drink with dinner each night
+2. Having 2-3 drinks every Friday and Saturday night
+3. Drinking 4-5 drinks in one sitting once a week and one other lighter drinking session
+
+It's important to note that while these drinking patterns may not lead to obvious intoxication or acute alcohol-related problems, they still qualify as chronic alcohol intake due to the regularity and consistency of consumption over time.
+
+Even this level of habitual drinking can lead to negative health consequences, such as:
+
+- Changes in brain structure and function
+- Increased impulsivity and decreased cognitive control
+- Disrupted sleep and circadian rhythms
+- Altered stress response and mood regulation
+- Increased cancer risk and other long-term health problems
+
+
+[I REQUIRED REFERENCES FOR THE ABOVE]
+
+
+### Binge Drinking
+> Drinking heavily, you abandon people, and they abandon you and you abandon yourself. It's a form of partial self-murder' **Jack Kerouac.** [^amburn]
+### Alcoholism
+
+Alcoholism is also known as AUD (Alcohol Use Disorder).
+
+It's when someone can't stop or control their drinking despite negative impacts on their social life, work, and health.
+
+AUD progressively worsens, ranging from occasional binge drinking to the need for alcohol daily from morning to night. The worst cases are where an alcoholic has a drink at breakfast.
+
+ It affects more than just the stereotypical "down-and-out" individual on the streets.  Globally, around 5.1% of the population aged 15 and over is estimated to suffer from AUD. [^who]
 
 ## Hangovers
 
-Different types of alcoholic beverages can lead to varying hangover severity, and that this seems to be more related to the "congeners" in the drink rather than the sugar content.
+A hangover is a collection of unpleasant physical and mental symptoms that occur after a session of heavy alcohol consumption. These symptoms typically begin when the blood alcohol concentration (BAC) drops significantly, often the morning after drinking, and can last for several hours or even days.
 
+Different types of alcoholic beverages can lead to varying hangover severity, and that this seems to be more related to the congeners in the drink rather than the sugar content.
+
+> [!TIP] What are Congeners?
 Congeners are substances other than ethanol that are produced during fermentation, and they contribute to the unique taste, aroma, and color of alcoholic beverages. Different drinks have different amounts and types of congeners.
 
-According to the podcast, drinks like vodka, which has fewer congeners, tend to cause less severe hangovers compared to drinks like whiskey or red wine, which have more congeners. This is contrary to the popular belief that sugary drinks (or mixers) are the main culprit behind harsh hangovers.
+Drinks like vodka, which has fewer congeners, tend to cause less severe hangovers compared to drinks like whiskey or red wine, which have more congeners. This is contrary to the popular belief that sugary drinks (or mixers) are the main culprit behind harsh hangovers.
 
-The podcast also provided a ranked list of drinks based on their likelihood to cause severe hangovers:
+This needs a citation!
+
+This is a ranked list of drinks based on their likelihood to cause severe hangovers:
 
 1. Vodka and beer cause the least severe hangovers
 2. Gin causes slightly more severe hangovers
 3. White wine and whiskey cause moderately severe hangovers
 4. Rum and red wine cause even more severe hangovers
 5. Brandy is most likely to cause the most severe hangovers
+### Symptoms of a Hangover
+
+Common symptoms of a hangover include:
+
+1. Headache
+2. Fatigue
+3. Thirst and dry mouth
+4. Nausea and vomiting
+5. Dizziness
+6. Sensitivity to light and sound
+7. Rapid heartbeat
+8. Decreased ability to concentrate
+9. Mood disturbances, such as anxiety, irritability, or depression
+
+### Scientific Explanation for Hangovers
+
+The exact mechanisms behind hangovers are not fully understood, but several factors are thought to contribute to the development of hangover symptoms:
+
+1. **Dehydration:** Alcohol is a diuretic, meaning it increases urine production and leads to dehydration. This can cause symptoms like thirst, dry mouth, and headaches.
+2. **Inflammation:** Alcohol triggers an inflammatory response in the body, which can lead to symptoms such as headaches and fatigue.
+3. **Acetaldehyde accumulation:** When the body breaks down alcohol, it first converts it to acetaldehyde, a toxic substance. If acetaldehyde accumulates faster than it can be metabolized, it can contribute to hangover symptoms.
+4. **Disrupted sleep:** Although alcohol may help people fall asleep initially, it can disrupt sleep patterns and lead to poor sleep quality, exacerbating fatigue and cognitive impairment.
+5. **Gastrointestinal distress:** Alcohol can irritate the lining of the stomach and increase acid production, leading to nausea and vomiting.
+6. **Congeners:** These are byproducts of alcohol fermentation that are found in varying amounts in different alcoholic beverages. Congeners are thought to contribute to the severity of hangovers, with drinks high in congeners (such as whiskey and red wine) often causing worse hangovers than those with lower levels (like vodka and gin).
+7. **Vitamin and electrolyte imbalances:** Alcohol consumption can deplete the body's stores of essential vitamins and minerals, such as vitamin B12, folate, and potassium, which may contribute to hangover symptoms.
+
+### Curing Hangovers
+
+While there is no guaranteed cure for a hangover, staying hydrated, getting plenty of rest, and allowing time for the body to process the alcohol can help alleviate symptoms. The most effective way to prevent a hangover is to moderate alcohol consumption or avoid drinking altogether.
 
 ## Why Drink Alcohol?
 
