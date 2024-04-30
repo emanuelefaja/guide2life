@@ -1,18 +1,14 @@
 # Alcohol.
 
---- 
-
-[[toc]]
-
-## Introducton
-
 Alcohol is a poison, and one of the most widely consumed recreational substances on the planet. Even *surprisingly* low alcohol consumption has negative impact on the brain and body. 
 
 That said, drinking clearly has an appeal, otherwise not so many people would do it. 
 
 > Because no great story ever started with someone eating a salad.
 
-This part of Guide2Life is designed to help you understand alcohol and its affects on your health. Then you make an informed decision if you do or do want to drink alcohol as part of your life that fits with your life and health goals. The structure is as follows:
+This part of Guide2Life is designed to help you understand alcohol and its affects on your health. Then you can make an informed decision if you want to drink alcohol. 
+
+Ask yourself: how does alcohol fit into my life and health goals?
 
 You may decide that the [social benefits of alcohol](#why-drink-alcohol) are worth the health downsides, especially when you drink in moderation. 
 
@@ -38,15 +34,35 @@ At a chemical level, ethanol consists of two carbon atoms, six hydrogen atoms, a
 $$C_2H_5OH$$
 
 
-Alcohol is depressant that slows down brain function and affects coordination. 
+Alcohol is a depressant that slows down brain function and impairs coordination. However, during the first few drinks, alcohol's effect on the brain's reward system can create a temporary "buzz," causing increased energy and lowered inhibitions. As drinking continues, the depressant effects become more noticeable, leading to slurred speech, impaired judgment, and slowed reactions.
 
-The exact date of alcohol discovery is uncertain, but evidence suggests it has been produced and consumed by humans for thousands of years, with some of the earliest evidence dating back to around 7000 to 6600 BCE in China. 
+### Brief History 
 
+The exact date of alcohol discovery is uncertain, but evidence suggests it has been produced and consumed by humans for thousands of years. Some of the earliest known evidence of alcohol consumption dates back to around 7000 to 6600 BCE in China, where residues of a fermented rice, honey, and fruit beverage were found in pottery jars from the Neolithic village of Jiahu.
 
-- chemical description
-- History of alcohol
-- 
+In ancient Egypt, beer and wine were important components of religious ceremonies and were also used for medicinal purposes. The Egyptians believed that beer was invented by the god Osiris, and it was a staple drink among the working class.
 
+The ancient Greeks and Romans also had a significant role in the development and spread of alcohol production. They worshipped Dionysus (Greeks) or Bacchus (Romans), the god of wine, and held festivals in his honor. The Romans played a crucial role in spreading wine production techniques throughout their vast empire.
+
+During the Middle Ages, monasteries became centers for beer and wine production in Europe. Monks would often brew beer as a means of providing safe drinking water to the local population, as the alcohol content helped kill harmful bacteria.
+
+The distillation of alcohol, which concentrates its potency, is believed to have originated in the Middle East or China, with early records of distillation dating back to the 12th century. The technique spread to Europe in the 13th century and gave rise to spirits such as whiskey, gin, and vodka.
+
+::: details Famous Drinkers in History
+
+- **Ernest Hemingway:** The celebrated American author was known for his heavy drinking, which he often incorporated into his writing. He famously said, "Write drunk, edit sober."
+- **Winston Churchill:** The British Prime Minister was known for his love of whiskey and champagne. He reportedly drank throughout the day, but managed to maintain his productivity and leadership.
+- **Edgar Allan Poe:** The renowned writer battled alcohol addiction throughout his life, which some believe contributed to his untimely death at age 40.
+- **Vincent van Gogh:** The Dutch post-impressionist painter struggled with mental health issues and alcoholism. His heavy drinking was thought to have exacerbated his psychological problems.
+- **Charles Bukowski:** The American writer and poet was famous for his gritty, realistic depictions of life on the margins of society, often fueled by his excessive alcohol consumption.
+- **Janis Joplin:** The rock and roll icon struggled with drug and alcohol addiction throughout her short life, ultimately leading to her death by heroin overdose at age 27.
+- **Jack Kerouac:** The celebrated Beat Generation author, famous for his novel "On the Road," had a tumultuous relationship with alcohol that contributed to his declining health and death at age 47.
+- **Stephen King:** The prolific horror author struggled with alcohol and drug addiction early in his career, but managed to overcome his substance abuse issues and maintain his successful writing career.
+- **Alexander the Great:** The ancient Macedonian king, renowned for his military conquests, was also known for his excessive drinking and sometimes violent behavior when under the influence.
+
+:::
+
+### Units of Alcohol
 A unit of alcohol is a standardized measure used to quantify the amount of pure alcohol in a drink. The concept of a "unit" of alcohol was introduced by the British government as a means of promoting responsible drinking and providing clear guidelines for alcohol consumption.
 
 In the UK, one unit of alcohol is defined as 10 milliliters (ml) or 8 grams of pure alcohol. Other countries have other definitions, but they broadly align. 
@@ -63,7 +79,9 @@ You can see a list of common drink formats and their equivalent units below:
 
 ## How Alcohol Works
 
-Alcohol is water and fat-soluble, allowing it to easily enter all cells and tissues in the body. When ingested, it is converted to the toxic substance acetaldehyde before being metabolized into acetate.
+Alcohol is water and fat-soluble, allowing it to easily enter all cells and tissues in the body. When ingested, it is converted to the toxic substance *acetaldehyde* before being metabolized into *acetate*.
+
+
 
 ### What alcohol does to a person
 
@@ -109,6 +127,8 @@ https://en.wikipedia.org/wiki/Short-term_effects_of_alcohol_consumption_
 :::
 ## Health Risks of Alcohol
 
+> Drinking heavily, you abandon people, and they abandon you and you abandon yourself. It's a form of partial self-murder' **Jack Kerouac.** [^amburn]
+
 
 
 Each daily drink (10-12 g alcohol) is associated with a 4-13% increase in breast cancer risk in women, likely due to effects on estrogen.
@@ -150,6 +170,9 @@ The podcast emphasizes that even this level of habitual drinking can lead to neg
 
 ## Alcoholism
 
+- Definition of alcoholism 
+- What % of the world does this effect?
+
 ## Hangovers
 
 Different types of alcoholic beverages can lead to varying hangover severity, and that this seems to be more related to the "congeners" in the drink rather than the sugar content.
@@ -168,38 +191,136 @@ The podcast also provided a ranked list of drinks based on their likelihood to c
 
 ## Why Drink Alcohol?
 
-- Social pressure -> Does not have to be negative for sure
-- It can fun -> You have fun nights out
-- You enjoy it — then this can be a decent reason
-- 
+While we have documented the risks of excessive alcohol consumption, there are some potential benefits to moderate drinking. Note that none of them are *health* related reasons.
+
+### Social Bonding
+
+Drinking alcohol can be a social activity that facilitates bonding with friends, family, or colleagues. Sharing a drink can help break the ice, create a sense of camaraderie, and promote social interaction. However, it's important to note that ***social pressure to drink should never be the primary reason for consuming alcohol.***
+
+### Enhancing creativity
+
+>“Be always drunken.  
+Nothing else matters:  
+that is the only question.  
+If you would not feel  
+the horrible burden of Time  
+weighing on your shoulders  
+and crushing you to the earth,  
+be drunken continually.  
+Drunken with what?  
+With wine, with poetry, or with virtue, as you will.  
+But be drunken.  
+And if sometimes,  
+on the stairs of a palace,  
+or on the green side of a ditch,  
+or in the dreary solitude of your own room,  
+you should awaken  
+and the drunkenness be half or wholly slipped away from you,  
+ask of the wind,  
+or of the wave,  
+or of the star,  
+or of the bird,  
+or of the clock,  
+of whatever flies,  
+or sighs,  
+or rocks,  
+or sings,  
+or speaks,  
+ask what hour it is;  
+and the wind,  
+wave,  
+star,  
+bird,  
+clock will answer you:  
+"It is the hour to be drunken!”
+>
+> **Charles Baudelaire (Paris Spleen)**
+
+The relationship between alcohol and creativity is a topic of ongoing debate. While some people find that moderate alcohol consumption can help them relax and tap into their creative side, the scientific evidence supporting this claim is limited. However, the perception that alcohol enhances creativity is widespread, particularly among artists and writers.
+
+An interesting paper titled "[I Drink, Therefor I Am: Alcohol and Creativity](https://journals.sagepub.com/doi/epdf/10.1177/014107689909201213)" discusses this at length:
+
+> Heavy drinking is seen as a self-destructive activity that wreaks immense social and physical havoc. Individuals are exhorted to shun the attractions of alcohol and to lead a life of moderation. Clinicians who deal with the human consequences of excessive drinking - the broken homes, the victims of violence, the multiple physical and mental ills - feel justified in their condemnation of the drunkard. 
+> 
+> 
+> However, this view does not enjoy an untroubled consensus with the lay public. In particular, many writers and artists take a quite different view. Here alcohol is prized for its ability to reveal new creative insights, and heroic drinking has long been part of the artistic persona. Rather than being seen as a sign of personal failing, alcoholism is taken as evidence of artistic integrity. [^beveridge]
+
+### Enjoyment and relaxation
+
+Many people find that they enjoy the taste of alcoholic beverages or the relaxing effects of moderate alcohol consumption. Having a drink can help you unwind after a stressful day or enhance your enjoyment of a meal or celebration. If you genuinely enjoy drinking alcohol in moderation, this can be a valid reason to include it in your life.
+
+[THIS SECTION IS WEAK]
 
 ## The "Best Way" to Drink
 
-- Do not drink regularlly
-- Limit the amount of drinks per session
-- Eat a heavy meal beforehand with a mix of carbs, fat, 
-- Drink water in between drinks 
-- Drink a safe environment
-- For good reasons/responsibly: Choose occasions for drinking that enhance social interaction and enjoyment rather than using alcohol to cope with negative emotions.
-- Don't drink and drive. 
-- How to say no:
-	- On antibiotics
-	- General health reason: trying to stay healthy, or not feeling great
-	- you are driving
-	- For example, a soda with lime can resemble a gin and tonic.
-	- Work commitment
-	- Or just be direct: this is not a bad way to live. If people still pressure you, you may want to consider if you need a new set of friends. 
+
+While the healthiest approach to alcohol is abstinence, if you choose to drink, there are ways to minimize the risks and enhance the social benefits. 
+
+Here are some guidelines for the "best way" to drink:
+
+- **Don't drink regularly:** Frequent alcohol consumption, even in moderate amounts, can lead to health problems and increased tolerance. Limit your drinking to special occasions — make it count. 
+- **Limit the number of drinks per session:** Stick to a maximum of 1-2 drinks per occasion to avoid the negative effects of binge drinking. This is especially important if you a woman or are not a heavy person. 
+- **Eat a balanced meal beforehand:** Having food in your stomach slows down alcohol absorption. Opt for a meal with a mix of carbs, fat, and protein before drinking.
+- **Stay hydrated:** Alternate between alcoholic drinks and water to reduce dehydration and hangover severity. This will provide distance between your drinks, making it less likely that you will drink too much. 
+- **Drink in a safe environment:** Always consume alcohol in a secure setting, surrounded by people you trust.
+- **Drink for the right reasons:** Choose to drink to enhance social interaction and enjoyment,  not as a coping mechanism for negative emotions. Think of pairing wine with a good meal, rather than sobbing into your gin and tonic alone in a bar. 
+- **Never drink and drive:** Alcohol impairs judgment and reaction time. Always designate a sober driver or use a ride-sharing service.
+- **Avoid mixing alcohol with other substances:** Combining alcohol with caffeine, energy drinks, or drugs can mask alcohol's effects and lead to risky behavior or adverse health consequences.
+
+
+Sometimes, you may feel pressured to drink even when you don't want to. Here are some ways to say no:
+
+- Mention that you're on antibiotics or other medication that interacts with alcohol.
+- Give a general health reason, such as trying to stay healthy or not feeling great.
+- Explain that you're the designated driver.
+- Order a non-alcoholic drink that resembles a cocktail, like a soda with lime.
+- Cite work commitments that require you to be sharp and focused.
+
+Remember, being direct about not wanting to drink is perfectly acceptable. True friends will respect your decision. 
+
+If you face persistent pressure, it may be time to reevaluate your social circle.
+
+## How To Give Up Drinking
+
 ## Common Myths
 
-Alcohol increases stress levels, does not decrease
-	- It does not warm you up
-	- Drinking more after a hangover?
-	- "Coffee sobers you up."Coffee or caffeine cannot sober someone up; it might make a person more alert but does not decrease blood alcohol levels or eliminate impairment.
-	- "You can 'sweat out' alcohol to sober up faster.". Exercise doesn't speed up the elimination of alcohol from the body. The liver metabolizes alcohol at a consistent rate regardless of physical activity.
-	- "Alcohol improves sleep." While alcohol might help someone fall asleep quicker, it actually disrupts the sleep cycle, particularly REM sleep, leading to poorer quality sleep.
-	- "Alcohol is not as harmful if you only drink beer or wine."Alcohol's effect on the body is determined by the total amount of ethanol consumed, not the type of drink. Beer and wine can be just as harmful as spirits if consumed in large quantities.
-	- "Eating before bed will absorb alcohol." Eating food can help slow the absorption of alcohol if done before or while drinking, but eating after you've already consumed alcohol won't affect the absorption much.
-	- popular belief that sugary drinks (or mixers) are the main culprit behind harsh hangovers.
+### Alcohol Reduces Stress
+
+Many people believe that alcohol can help them relax and reduce stress. However, while alcohol may provide temporary relaxation, it actually increases stress levels in the long run by interfering with the body's natural stress response systems.
+
+### Alcohol Warms You Up
+
+Contrary to popular belief, alcohol does not actually warm you up. While it may create a temporary sensation of warmth due to dilated blood vessels, it ultimately lowers your core body temperature, which can be dangerous in cold environments. [^granberg]
+
+### Drinking More Alcohol Cures a Hangover
+
+Drinking more alcohol to cure a hangover, also known as "hair of the dog," is a common myth. In reality, this practice only delays the inevitable and can lead to a cycle of alcohol dependence. [^vester] The best way to cure a hangover is to stay hydrated, get rest, and allow your body to process the alcohol.[^penning]
+
+
+
+
+### Coffee Sobers You Up
+
+Coffee or caffeine cannot sober someone up; it might make a person more alert but does not decrease blood alcohol levels or eliminate impairment. The only thing that can sober you up is time, as your liver needs to process the alcohol in your system.
+
+### You Can "Sweat Out" Alcohol to Sober Up Faster
+
+Exercise doesn't speed up the elimination of alcohol from the body. The liver metabolizes alcohol at a consistent rate regardless of physical activity. Attempting to "sweat out" alcohol can actually be dangerous, as it can lead to dehydration and other health risks.
+
+### Alcohol Improves Sleep
+
+While alcohol might help someone fall asleep quicker, it actually disrupts the sleep cycle, particularly the important REM ((Rapid Eye Movement) sleep, leading to poorer quality sleep overall. [^ebrahim] This can result in daytime fatigue, irritability, and difficulty concentrating.
+
+### Beer and Wine Are Less Harmful Than Spirits
+
+Alcohol's effect on the body is determined by the total amount of ethanol consumed, not the type of drink. Beer and wine can be just as harmful as spirits if consumed in large quantities. What matters is the alcohol content and the volume consumed, not the type of alcoholic beverage. [^Gronbaek]
+### Eating Before Bed Absorbs Alcohol
+
+Eating food can help slow the absorption of alcohol if done before or while drinking, but eating after you've already consumed alcohol won't affect the absorption much. Once alcohol is in your system, food has little effect on how your body processes it.
+
+### Sugary Drinks Cause Worse Hangovers
+
+Contrary to the popular belief that sugary drinks (or mixers) are the main culprit behind harsh hangovers, the severity of a hangover is more closely related to the amount of alcohol consumed and the presence of congeners (byproducts of fermentation) in the drink. Drinks with high congener content, such as whiskey and red wine, tend to cause worse hangovers than drinks with low congener content, like vodka and gin.
 
 
 ## notes 
@@ -269,3 +390,10 @@ Chronic drinking can lead to a range of health problems over time, including liv
 [^schwartz]: Schwartz RH, Milteer R, LeBeau MA (June 2000). "Drug-facilitated sexual assault ('date rape')". _Southern Medical Journal_. **93** (6): 558–61. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1097/00007611-200093060-00002](https://doi.org/10.1097%2F00007611-200093060-00002). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier) "PMID (identifier)") [10881768](https://pubmed.ncbi.nlm.nih.gov/10881768).
 [^who]: World Health Organization. "Alcohol." World Health Organization, May 9, 2022. [https://www.who.int/news-room/fact-sheets/detail/alcohol](https://www.who.int/news-room/fact-sheets/detail/alcohol).
 [^nhs]: "Alcohol Misuse." NHS Choices. NHS, October 4, 2022. [https://www.nhs.uk/conditions/alcohol-misuse/](https://www.nhs.uk/conditions/alcohol-misuse/).
+[^granberg]: Granberg, P. O. "Alcohol and Cold." Arctic Medical Research 50, suppl. 6 (1991): 43-47.
+[^vester]: Verster, Joris C. "Editorial: The 'Hair of the Dog': A Useful Hangover Remedy or a Predictor of Future Problem Drinking?" Current Drug Abuse Reviews 2, no. 1 (February 2009): 1-4. [https://doi.org/10.2174/1874473710902010001](https://doi.org/10.2174/1874473710902010001).
+[^penning]: Penning, R., van Nuland, M., Fliervoet, L. A., Olivier, B., & Verster, J. C. (2010). The pathology of alcohol hangover. Current drug abuse reviews, 3(2), 68–75. [https://doi.org/10.2174/1874473711003020068](https://doi.org/10.2174/1874473711003020068)
+[^ebrahim]: Ebrahim, I. O., Shapiro, C. M., Williams, A. J., & Fenwick, P. B. (2013). Alcohol and sleep I: effects on normal sleep. Alcoholism, clinical and experimental research, 37(4), 539–549. [https://doi.org/10.1111/acer.12006](https://doi.org/10.1111/acer.12006)
+[^Gronbaek]: Gronbaek, M. (2009). The positive and negative health effects of alcohol- and the public health implications. Journal of internal medicine, 265(4), 407-420. [https://doi.org/10.1111/j.1365-2796.2009.02082.x](https://doi.org/10.1111/j.1365-2796.2009.02082.x)
+[^beveridge]: Beveridge, Allan, and Graeme Yorston. "I Drink, Therefore I Am: Alcohol and Creativity." Journal of the Royal Society of Medicine 92, no. 12 (December 1999): 646-648. [https://doi.org/10.1177/014107689909201213](https://doi.org/10.1177/014107689909201213).
+[^amburn]: Amburn, Ellis. _Subterranean Kerouac: The Hidden Life of Jack Kerouac_. New York: St. Martin's Press, 1998.
