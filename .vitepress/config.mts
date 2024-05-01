@@ -47,7 +47,7 @@ export default defineConfig({
           { text: '📘 A Philosophy Of Life', link: '/start/philosophy-of-life' },
           { text: '🧠 Brain Meets World', link: '/start/brain-meets-world' },
           { text: '🔍 Life Audit', link: '/start/life-audit' },
-          { text: '☝️ Simple, Not Easy', link: '/start/simple-not-easy },
+          { text: '☝️ Simple, Not Easy', link: '/start/simple-not-easy' },
           { text: '🎲 Playing The Odds', link: '/start/playing-the-odds' },
           { text: '📈 Growth Mindset', link: 'start/growth-mindset' },
           { text: '📚 Recommended Books', link: '/start/books' },
