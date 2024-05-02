@@ -29,19 +29,6 @@ export default defineConfig({
     search: {
           provider: 'local'
         },
-    // Add the transformPageData function here
-      transformPageData(pageData) {
-        const canonicalUrl = `https://guide2life.org/${pageData.relativePath}`
-          .replace(/index\.md$/, '')
-          .replace(/\.md$/, '.html')
-          
-        pageData.frontmatter.head ??= []
-        pageData.frontmatter.head.push([
-          'link',
-          { rel: 'canonical', href: canonicalUrl }
-        ])
-        return pageData
-      },
     footer: {
           message: 'Made with ❤️ from around the 🌍',
           copyright: 'No Rights Reserved'
