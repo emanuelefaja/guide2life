@@ -18,7 +18,7 @@ export default defineConfig({
   transformPageData(pageData) {
       const canonicalUrl = `https://guide2life.org/${pageData.relativePath}`
         .replace(/index\.md$/, '')
-        .replace(/\.md$/, '.html')
+        .replace(/\.md$/, '')
         
       pageData.frontmatter.head ??= []
       pageData.frontmatter.head.push([
