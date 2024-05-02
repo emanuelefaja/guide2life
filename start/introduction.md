@@ -25,9 +25,12 @@ However, there are a lot of actors with misaligned incentives that want to profi
 
 School has not filled the gap. Traditional education systems focus on academic subjects like math and geography but but not the art of conversation, how to make critical decisions, or cook a healthy meal. 
 
-Finally, our  founder has [explored these topics extensively on his blog for over a decade.](https://emanuele.cc) His insights, though valuable, were sporadic and not always evidence-based. His frustration in seeking a structured manual for how to live well led to the creation of Guide2Life.
-
 **Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines.** 
+
+>[!TIP] Guide2Life was made because we needed it!
+Our  founder has [explored these topics extensively on his blog for over a decade.](https://emanuele.cc) His insights, though valuable, were sporadic and not always evidence-based. His frustration in seeking a structured manual for how to live well led to the creation of Guide2Life.
+
+
 
 The goal is not to prescribe a singular path to a live well lived, but rather to provide a reliable resource for those seeking to live a more intentional, fulfilling, and well-rounded life.
 
@@ -45,6 +48,12 @@ The content blends scientific research, practical real-world advice, and philoso
 ## Open Source
 **All Guide2Life information and systems are freely available for anyone to use, modify, and distribute.** 
 
+[Guide2Life is also version controlled.](https://guide2life.org) This means that every change, no matter how small, is logged. 
+
+Text on a documentation-style website is the perfect format. Traditional media like YouTube videos, podcasts, books, or PDF reports only show the final product. Updating them with new evidence is often impractical, leading to outdated references. A documentation-style website allows for easy updates, ensuring the information remains accurate and current with the latest research.
+
+This is not to say that Guide2Life is a replacement for all other information sources. We provide recommended videos, podcasts, books, and blogs where you can explore topics further in a more engaging format. 
+
 This approach encourages a collaborative environment where experts and enthusiasts from around the world contribute their knowledge and experiences, enriching the content and ensuring it remains up-to-date and relevant. 
 
 ![](/open-source.webp)
@@ -56,14 +65,16 @@ This level of customization and flexibility is fundamental to the guide’s miss
 ## Free
 **All resources are completely free of charge.**
 
-Guide2Life is committed to eliminating financial barriers to personal development. We believe that high-quality, life-improving knowledge should be accessible to everyone, regardless of their economic situation. By removing the cost element, Guide2Life ensures that anyone with the desire to grow and improve can do so without the burden of expense. This inclusivity fosters a broader reach and can make a significant impact on communities worldwide.
+We believe that high-quality, life-improving knowledge should be accessible to everyone, regardless of their economic situation.
 
 The free access to Guide2Life supports the principle that personal growth and educational opportunities should not be commodified. It aligns with our core belief that empowering individuals to lead better lives leads to a better world. As users benefit from the guide without financial constraints, they are more likely to contribute back to the platform or help others in their journey, creating a virtuous cycle of learning and sharing.
 
 ## Personal Responsibility
 **Ultimately, you are responsible for your life.**  
 
-Guide2Life provides guidance and evidence-based recommendations, but you should do what’s best for you and take responsibility for your choices and actions. Adapt the advice to your unique situations and make decisions based on your personal values and goals.
+Guide2Life provides guidance and evidence-based recommendations, but you should do what’s best for you and take responsibility for your choices and actions. Adapt the advice to your unique situations and make decisions based on your personal values and goals. 
+
+When in doubt, speak to an expert. 
 
 
 
