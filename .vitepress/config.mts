@@ -15,6 +15,17 @@ export default defineConfig({
       hostname: 'https://guide2life.org'
     },
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+  transformPageData(pageData) {
+      const canonicalUrl = `https://guide2life.org/${pageData.relativePath}`
+        .replace(/index\.md$/, '')
+        .replace(/\.md$/, '.html')
+        
+      pageData.frontmatter.head ??= []
+      pageData.frontmatter.head.push([
+        'link',
+        { rel: 'canonical', href: canonicalUrl }
+      ])
+    },
   title: "Guide2Life",
   description: "A structured evidence-based approach to get the most out of life.",
   themeConfig: {
