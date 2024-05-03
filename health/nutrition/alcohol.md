@@ -2,20 +2,28 @@
 
 Alcohol is a poison, and one of the most widely consumed recreational substances on the planet. Even *surprisingly* low alcohol consumption has negative impact on the brain and body. 
 
-That said, drinking clearly has an appeal, otherwise not so many people would do it. 
+That said, drinking clearly has an appeal, otherwise not so many people would do it. Often, the reason why people drink can be summed up as:
 
 > Because no great story ever started with someone eating a salad.
 
-This part of Guide2Life is designed to help you understand alcohol and its affects on your health. Then you can make an informed decision if you want to drink alcohol. 
+This part of Guide2Life is designed to help you understand alcohol and its affects on your health. Then you can make an informed decision if you want to drink alcohol.  
 
-Ask yourself: how does alcohol fit into my life and health goals?
+This is important because many of us do not make a "decision" to drink or not to drink alcohol. 
 
-You may decide that the [social benefits of alcohol](#why-drink-alcohol) are worth the health downsides, especially when you drink in moderation. 
+We simply follow the default mode of the society we find ourselves in. If you're reading this from Europe, you are likely to drink, if you're from Saudi Arabia, you are likely to abstain. 
 
-Guide2Life is not here to tell you precisely how to live, we purely provide information so you can make the best decisions possible using evidence-based reasoning. 
+The key question to ask yourself is: *How does alcohol fit into my life and health goals?*
 
-**However, it is clear in the data and studies that large and regular consumption of alcohol (i.e. "binge drinking") is incompatible with living a good life.**  
+You may decide that the [social benefits of alcohol](#why-drink-alcohol) are worth the health downsides, especially when you drink in moderation. Or, you may decide that you can still enjoy your social life without alcohol, and your health will improve. 
 
+Guide2Life is not here to tell you *precisely* how to live — we showcase information so you can make the best decisions possible using evidence-based reasoning. 
+
+However, this is what is clear in the data and studies:
+
+1. The optimum amount of alcohol to drink for health is zero.
+2. Below two drinks per week, you are probably fine. More than this, you start to run into problems. 
+3. Regular low doses of alcohol (i..e "[chronic drinking](#chronic-drinking)") is much worse for your health than most people assume.
+4. Large and regular consumption of alcohol (i.e. "[binge drinking](#binge-drinking)") is *absolutely* incompatible with living a good life. 
 
 
 ## What is Alcohol?
@@ -373,7 +381,7 @@ Contrary to popular belief, alcohol does not actually warm you up. While it may 
 Drinking more alcohol to cure a hangover, also known as "hair of the dog," is a common myth. In reality, this practice only delays the inevitable and can lead to a cycle of alcohol dependence. [^vester] The best way to cure a hangover is to stay hydrated, get rest, and allow your body to process the alcohol.[^penning]
 
 
-
+### Small Amounts of Red Wine is Healthy
 
 ### Coffee Sobers You Up
 
