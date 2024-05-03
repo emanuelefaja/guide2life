@@ -2,30 +2,38 @@
 
 Understanding dopamine is *essential* for living a well-lived life. 
 
+Unfortunately, the internet is filled with misinformation and oversimplifications about this crucial neurotransmitter, making it difficult to separate fact from fiction. This is where Guide2Life comes in. Our mission is to provide you with a comprehensive, evidence-based understanding of dopamine and its far-reaching impact on your health, happiness, and overall success.
+
 Ancient philosophers like Socrates, Aristotle, and the Stoics intuitively grasped the impact of inner drives on well-being based purely on reflection and observation. They advocated for moderating desires and practicing delayed gratification to achieve a balanced life. 
 
 > "Moderation in all things" **Aristotle.**
 
-Modern science now validates these insights, confirming dopamine's role in experiencing pleasure, setting goals, and engaging in meaningful activities. Research shows that dopamine overstimulation can lead to addiction and decreased well-being, echoing ancient warnings against excess. Contemporary approaches that adjust dopamine levels to enhance long-term contentment and reduce dependency on external rewards reflect these timeless wisdoms.
+Modern science now validates these insights, confirming Dopamine's role in experiencing pleasure, setting goals, and engaging in meaningful activities. Research shows that dopamine overstimulation can lead to addiction and decreased well-being, echoing ancient warnings against excess. Contemporary approaches that adjust dopamine levels to enhance long-term contentment and reduce dependency on external rewards reflect these timeless wisdoms.
 
-Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. By understanding its function, we can better manage our health, psychological well-being, and overall life satisfaction.
+By delving into the latest research and expert insights, we'll demystify Dopamine and give you the tools you need to optimize your brain function, enhance your motivation, and achieve your goals.
+
+Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. 
 
 This understanding isn't just academic; it has practical implications. 
 
-Knowing how to regulate dopamine levels can help us make deliberate choices that enhance our daily life and long-term fulfillment.
+By understanding its function, we can better manage our health, psychological well-being, and overall life satisfaction.
 
+Whether you're seeking to improve your focus, break free from addiction, or simply live a more balanced life, this definitive guide to dopamine will be your roadmap. By exploring dopamine's fascinating world, from its evolutionary origins to its practical applications, you'll gain a clear understanding of how this powerful molecule shapes your experiences and how to harness its potential to create the life you desire.
 ## What is Dopamine?
+> "Dopamine is the molecule that makes us look at things outside the boundaries of our skin, to be in pursuit of things." **Andrew Huberman.**
 
 Dopamine is a neurotransmitter, a chemical messenger in the brain that plays a crucial role regulating movement, motivation, drive, craving, time-perception, and reward mechanisms. 
 
-It was first discovered in 1957 by Arvid Carlsson and Nils-Åke Hillarp at the National Heart Institute of Sweden.
+It is an ancient molecule that has been present in living organisms for hundreds of millions of years. It is found not only in humans but also in many other animals, including vertebrates and invertebrates. It was discovered in 1957 by Arvid Carlsson and Nils-Åke Hillarp at the National Heart Institute of Sweden.
 
-In fact, dopamine is playing a key role in driving you to read this very sentence right now! It's one of the neurochemicals that fuels your curiosity, motivation, and desire to learn new information.
+Dopamine is believed to have first appeared in ancient invertebrates, possibly as early as 600 million years ago. Its widespread presence across the animal kingdom, from worms and insects to fish and mammals, highlights its evolutionary significance. The fact that dopamine has been conserved throughout the evolution of such diverse life forms suggests that it plays a critical role in the survival and fitness of organisms. Its ancient origins and ubiquity underscore its importance in shaping behavior, facilitating learning, and promoting adaptability in the face of changing environments.
+
+In fact, dopamine is playing a key role in driving you to read this very sentence right now! 
 
 Without dopamine, we would struggle to:
 
 1. **Move:** Dopamine is essential for controlling movement. Without it, we would have difficulty initiating and executing actions, similar to the symptoms seen in Parkinson's disease.
-2. **Feel motivated:** Dopamine drives us to pursue rewards and engage in goal-directed behavior. Without it, we would lack the motivation to seek out pleasurable experiences or work towards our goals.
+2. **Feel motivated:** Dopamine drives us to pursue rewards and engage in goal-directed behavior. Without it, we would lack the motivation to even get out of bed in the morning.
 3. **Experience pleasure:** Dopamine is involved in the experience of pleasure and satisfaction. Without it, we may find it difficult to enjoy activities that we once found rewarding.
 4. **Learn from experiences:** Dopamine plays a key role in associative learning, helping us connect our actions to their outcomes. Without it, we would struggle to learn from our successes and failures.
 
@@ -37,21 +45,27 @@ It looks like this:
 
 Despite its importance, only a *tiny* fraction  (0.0000002%) of the brain's neurons — around 20,000 out of 100 billion — produce dopamine. 
 
-To put this in perspective, if the world's population were represented by the brain's neurons, *only 1,600 people out of 8 billion would be capable of generating dopamine!* 
+To put this in perspective, if the world's population were neurons, *only 1,600 people out of 8 billion would be capable of generating dopamine!* 
 
-From an evolutionary perspective, dopamine played a key role in survival by motivating our ancestors to seek out resources and avoid threats. Today, it still drives us to pursue things we desire, whether it's a delicious meal, a new gadget, or a promotion at work.
+From an evolutionary perspective, dopamine played a key role in survival by motivating our ancestors to seek out resources and avoid threats. 
 
-However, this powerful motivational system can also be hijacked by addictive substances and behaviors, leading to compulsive pursuit of rewards despite negative consequences.
+Today, it still drives us to pursue things we desire, whether it's a delicious meal, a new gadget, a promotion at work, or learning how to improve our lives
+
+However, this powerful motivational system can also be hijacked by addictive substances and behaviors, leading to compulsive pursuit of rewards despite negative consequences. 
+
+> "Often we’re more about the anticipation and pursuit of pleasure than about the experience of it." **Robert M. Sapolsky.**
 
 It's crucial to understand that addiction is not about the specific drugs or behaviors, but rather the dopamine surge they trigger in the brain. All addictive substances and behaviors, despite their differences, share a common mechanism: they cause a rapid and intense increase in dopamine levels in the brain's reward system.
 
 In essence, dopamine is a double-edged sword.
 
-It's essential for healthy functioning and goal-directed behavior, but its dysregulation can contribute to a host of problems, from addiction to attention deficits.
+It's essential for healthy functioning and goal-directed behavior but it can also contribute to a host of problems, from addiction to attention deficits.
 
 By understanding how dopamine works, we can gain insight into our own motivations and behaviors, and learn strategies for harnessing its power while avoiding its pitfalls.
 
 ## How Dopamine Works
+
+[should also add here about local and global tranmission]
 
 To understand how dopamine functions in the brain, it's important to recognize that it is released in two distinct patterns: 
 
@@ -61,9 +75,23 @@ To understand how dopamine functions in the brain, it's important to recognize t
 Let's dive in. 
 
 #### Tonic
-Tonic refers to the baseline or steady-state level of dopamine in the brain. 
+Tonic refers to the baseline or steady-state level of dopamine in the brain when we're not actively engaged in rewarding or motivating activities.
 
 This baseline level varies between individuals and can influence overall motivation, energy levels, and even personality traits. For example, people with naturally higher tonic dopamine levels may be more motivated, energetic, and outgoing, while those with lower baseline levels may be more prone to apathy or low energy.
+
+Think of your dopamine baseline as the foundation upon which your motivational and reward-seeking experiences are built. If you have a naturally higher dopamine baseline, you may generally feel more motivated, energetic, and driven to pursue goals and rewards. People with high dopamine baselines often describe themselves as "go-getters" or "thrill-seekers," always ready for the next challenge or exciting experience.
+
+On the other hand, if you have a lower dopamine baseline, you may tend to feel less motivated or enthusiastic about pursuing rewards. Lower dopamine baselines have been associated with a higher risk of apathy, low energy, and even depression. People with low dopamine baselines may find it harder to get excited about new experiences or to stay committed to long-term goals.
+
+It's important to note that having a low dopamine baseline doesn't necessarily mean you'll experience these negative outcomes, just as having a high baseline doesn't guarantee success or happiness. Many factors, including genetics, environment, and lifestyle, can influence your dopamine function and overall well-being.
+
+One key concept related to dopamine baselines is the idea of "peaks" or phasic dopamine release. When we experience rewards or engage in motivating activities, dopamine levels temporarily spike above the baseline. The height and duration of these peaks can vary depending on the intensity and novelty of the reward.
+
+What's interesting is that the relative difference between your baseline and these peaks may be more important than the absolute levels of dopamine. If you have a low dopamine baseline, even a small increase in dopamine can feel rewarding and motivating. In contrast, if you have a high baseline, you may need a bigger spike to feel the same level of reward or motivation.
+
+This concept has important implications for how we structure our lives and pursue our goals. By understanding our own dopamine baselines and how different activities affect our dopamine levels, we can make informed choices about how to optimize our motivation and well-being. This might involve strategies like setting ambitious but achievable goals, seeking out novel experiences, or practicing mindfulness and gratitude to appreciate small rewards along the way.
+
+Ultimately, while we can't directly control our dopamine baselines, we can work with them by creating lifestyles and habits that support healthy dopamine function. By doing so, we can tap into the power of this neurotransmitter to drive us towards the things that matter most, while also maintaining a sense of balance and well-being.
 
 ### Phasic
 
@@ -105,53 +133,63 @@ These two pathways work closely together to shape our behaviors, habits, and emo
 
 Other dopamine pathways, like the nigrostriatal pathway (involved in motor control) and the tuberoinfundibular pathway (involved in hormone regulation), also play important roles in brain function. However, the mesolimbic and mesocortical pathways are the most directly relevant to understanding how dopamine influences our day-to-day behaviors and well-being.
 
-### Baselines & Homeostatis 
-
-Dopamine baselines refer to the steady-state or background levels of dopamine in the brain when we're not actively engaged in rewarding or motivating activities. These baselines vary from person to person and can have a significant impact on our overall mood, energy levels, and even personality traits.
-
-Think of your dopamine baseline as the foundation upon which your motivational and reward-seeking experiences are built. If you have a naturally higher dopamine baseline, you may generally feel more motivated, energetic, and driven to pursue goals and rewards. People with high dopamine baselines often describe themselves as "go-getters" or "thrill-seekers," always ready for the next challenge or exciting experience.
-
-On the other hand, if you have a lower dopamine baseline, you may tend to feel less motivated or enthusiastic about pursuing rewards. Lower dopamine baselines have been associated with a higher risk of apathy, low energy, and even depression. People with low dopamine baselines may find it harder to get excited about new experiences or to stay committed to long-term goals.
-
-It's important to note that having a low dopamine baseline doesn't necessarily mean you'll experience these negative outcomes, just as having a high baseline doesn't guarantee success or happiness. Many factors, including genetics, environment, and lifestyle, can influence your dopamine function and overall well-being.
-
-One key concept related to dopamine baselines is the idea of "peaks" or phasic dopamine release. When we experience rewards or engage in motivating activities, dopamine levels temporarily spike above the baseline. The height and duration of these peaks can vary depending on the intensity and novelty of the reward.
-
-What's interesting is that the relative difference between your baseline and these peaks may be more important than the absolute levels of dopamine. If you have a low dopamine baseline, even a small increase in dopamine can feel rewarding and motivating. In contrast, if you have a high baseline, you may need a bigger spike to feel the same level of reward or motivation.
-
-This concept has important implications for how we structure our lives and pursue our goals. By understanding our own dopamine baselines and how different activities affect our dopamine levels, we can make informed choices about how to optimize our motivation and well-being. This might involve strategies like setting ambitious but achievable goals, seeking out novel experiences, or practicing mindfulness and gratitude to appreciate small rewards along the way.
-
-Ultimately, while we can't directly control our dopamine baselines, we can work with them by creating lifestyles and habits that support healthy dopamine function. By doing so, we can tap into the power of this neurotransmitter to drive us towards the things that matter most, while also maintaining a sense of balance and well-being.
 
 ### Common Dopamine Triggers
 
 The table below presents estimates of how various activities and substances can increase dopamine levels above an individual's baseline.
 
-| Action                     | % Increase in Dopamine Baseline |
-| -------------------------- | ------------------------------- |
-| Sex                        | 100-200%                        |
-| Nicotine (from smoking)    | 150-200%                        |
-| Cocaine                    | 300-800%                        |
-| Amphetamines               | 1000%+                          |
-| Caffeine (from coffee)     | 30-50%                          |
-| Alcohol                    | 40-80%                          |
-| Eating (pleasurable foods) | 50-100%                         |
-| Exercise                   | 50-100%                         |
-| Listening to music         | 10-20%                          |
-| Meditation                 | 10-20%                          |
+| Action                  | % Increase in Dopamine Baseline |
+| ----------------------- | ------------------------------- |
+| Sex                     | 100-200%                        |
+| Nicotine (from smoking) | 150-200%                        |
+| Cocaine                 | 300-800%                        |
+| Amphetamines            | 1000%+                          |
+| Caffeine (from coffee)  | 30-50%                          |
+| Alcohol                 | 40-80%                          |
+| Chocolate               | 100%                            |
+| Exercise                | 50-100%                         |
+| Listening to music      | 10-20%                          |
+| Meditation              | 10-20%                          |
 
 ### Likes vs Wants
-
 ### Reward Prediction Error
+
+Reward Prediction Error (RPE) is a concept in neuroscience and psychology that refers to the difference between the expected reward and the actual reward received. It is a key component of reinforcement learning, which is the process by which organisms learn to modify their behavior based on the consequences of their actions.
+
+In the context of the brain's reward system, RPE is thought to be encoded by dopamine neurons in the ventral tegmental area (VTA) and substantia nigra pars compacta (SNc). These neurons fire in response to unexpected rewards or cues that predict rewards, and their activity is thought to drive learning and decision-making.
+
+Here's how RPE works:
+
+1. If an outcome is better than expected (positive RPE), dopamine neurons increase their firing rate, signaling a positive prediction error. This reinforces the behavior that led to the reward, making it more likely to be repeated in the future.
+2. If an outcome is worse than expected (negative RPE), dopamine neurons decrease their firing rate, signaling a negative prediction error. This weakens the behavior that led to the disappointing outcome, making it less likely to be repeated.
+3. If an outcome is exactly as expected (zero RPE), there is no change in dopamine firing, as the prediction matches the actual outcome.
+
+RPE is thought to be a fundamental mechanism by which the brain learns from experience and adapts behavior to maximize rewards and minimize punishments. It has been studied extensively in the context of decision-making, addiction, and various neurological and psychiatric disorders.
+
+
+
+
+
+
+
 
 ### Dopamine & Neuroplasticity
 
-### Interactions with Other Neurotranmitters
+### Interactions with Other Neurotransmitters
 
+Dopamine and Other Neurotransmitters
+
+- Relationship between dopamine and other neurotransmitters
+    - Serotonin
+    - Norepinephrine
+    - Glutamate
+- How these interactions influence brain function and behavior
 
 ## How To Use Dopamine
 
 - Water (Huberman mentions European Journal of Physiology)
+- - Improving Baseline Dopamine
+- Leveraging Dopamine to Overcome Procrastination & Optimize Effort
 
 ### Personal Growth
 
@@ -182,6 +220,54 @@ The table below presents estimates of how various activities and substances can 
 
 
 ## Dopamine-Related Problems
+
+While dopamine plays a crucial role in motivation, reward processing, and overall well-being, imbalances or dysregulation in the dopamine system can lead to various problems. This section will explore some of the most common issues related to dopamine function and how they tie into the broader discussion of dopamine's impact on our lives.
+
+One unfortunate issue, is that you cannot easily monitor your even levels of dopamine, but may be able to recognize the symptoms which can help you lead a further investigation. 
+
+### Low Baseline
+
+Individuals with naturally low dopamine baselines may struggle with:
+
+- Lack of motivation and drive
+- Apathy and low energy levels
+- Difficulty initiating tasks or pursuing goals
+- Increased risk of depression and anhedonia (inability to feel pleasure)
+
+Low dopamine baselines can make it harder to engage with rewarding activities and may require more significant or frequent dopamine spikes to maintain motivation.
+
+### High Baseline
+
+On the other hand, excessively high dopamine baselines can also be problematic, potentially leading to:
+
+- Impulsivity and risk-taking behavior
+- Difficulty with delayed gratification
+- Increased susceptibility to addiction
+- Agitation or anxiety in some cases
+
+People with high dopamine baselines may constantly seek out new and exciting experiences to maintain their elevated dopamine levels.
+
+### Too Many Spikes
+
+Frequent, intense spikes in dopamine, often caused by drugs, excessive rewards, or behavioral addictions, can lead to:
+
+- Desensitization of dopamine receptors over time
+- Difficulty deriving pleasure from everyday activities
+- Increased tolerance, requiring larger or more frequent dopamine spikes to achieve the same effect
+- Heightened risk of addiction and compulsive behavior
+
+### Dopamine Deficiency 
+### Dopamine & Addiction
+
+- We've explored the crucial role that dopamine plays in motivation, reward processing, and learning. However, these same mechanisms that drive us towards healthy rewards can also be hijacked by addictive substances and behaviors, leading to the development of addiction.
+
+- Addictive drugs, such as cocaine, amphetamines, and opioids, directly target the brain's dopamine system. They cause massive, rapid spikes in dopamine levels, far beyond what natural rewards can elicit. Referring back to the table of dopamine increases, we can see that drugs like cocaine and amphetamines can increase dopamine levels by hundreds or even thousands of percent above baseline, whereas natural rewards like food or sex typically increase dopamine by a much smaller amount.
+
+- These intense dopamine spikes are what drive the initial "high" or euphoria associated with drug use. However, as drug use continues, the brain's dopamine system begins to adapt. Dopamine receptors may become less sensitive, requiring larger doses of the drug to achieve the same effect. This is known as tolerance.
+
+- Over time, the brain may also start to produce less dopamine naturally, as it relies on the artificial stimulation provided by the drug. This can lead to a decrease in baseline dopamine levels, making it harder for the individual to experience pleasure or motivation from everyday activities. This is one reason why addiction is often characterized by a loss of interest in hobbies, relationships, or responsibilities that were once important.
+
+- In essence, addiction creates a vicious cycle. The individual needs to take more and more of the drug to overcome tolerance and achieve the desired dopamine spike, but this further dysregulates the dopamine system, making it harder to find pleasure or motivation in anything else. This cycle can be incredibly difficult to break, as the individual may experience intense cravings and withdrawal symptoms when attempting to quit.
 ## Common Myths
 
 ### Dopamine is the "pleasure chemical"
@@ -215,7 +301,7 @@ Although dopamine is a key player in motivation and goal-directed behavior, it w
 While certain foods and nutrients (like tyrosine, an amino acid precursor to dopamine) are necessary for dopamine production, the relationship between diet and dopamine levels is not straightforward. The brain tightly regulates dopamine levels, and simply consuming "dopamine-boosting" foods or supplements does not necessarily lead to increased dopamine activity in the brain. Maintaining a balanced diet and healthy lifestyle is important, but there's no magic formula for directly manipulating dopamine levels through diet alone.
 
 
-## Conclusions
+
 
 ## References 
 
@@ -289,66 +375,10 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 
 
 
-### Dopamine and Other Neurotransmitters
-
-Dopamine and Other Neurotransmitters
-
-- Relationship between dopamine and other neurotransmitters
-    - Serotonin
-    - Norepinephrine
-    - Glutamate
-- How these interactions influence brain function and behavior
-### Likes vs Wants
-
-### Reward Prediction Error
-
-Reward Prediction Error (RPE) is a concept in neuroscience and psychology that refers to the difference between the expected reward and the actual reward received. It is a key component of reinforcement learning, which is the process by which organisms learn to modify their behavior based on the consequences of their actions.
-
-In the context of the brain's reward system, RPE is thought to be encoded by dopamine neurons in the ventral tegmental area (VTA) and substantia nigra pars compacta (SNc). These neurons fire in response to unexpected rewards or cues that predict rewards, and their activity is thought to drive learning and decision-making.
-
-Here's how RPE works:
-
-1. If an outcome is better than expected (positive RPE), dopamine neurons increase their firing rate, signaling a positive prediction error. This reinforces the behavior that led to the reward, making it more likely to be repeated in the future.
-2. If an outcome is worse than expected (negative RPE), dopamine neurons decrease their firing rate, signaling a negative prediction error. This weakens the behavior that led to the disappointing outcome, making it less likely to be repeated.
-3. If an outcome is exactly as expected (zero RPE), there is no change in dopamine firing, as the prediction matches the actual outcome.
-
-RPE is thought to be a fundamental mechanism by which the brain learns from experience and adapts behavior to maximize rewards and minimize punishments. It has been studied extensively in the context of decision-making, addiction, and various neurological and psychiatric disorders.
-
-### Common Actions & Dopamine
-
-
-## How To Use Dopamine
-## Dopamine Problems
-
-### Low Baseline
-
-### High Baseline
-
-### Too Many Spikes
-
-### Dopamine Deficiency 
-## Dopamine & Addiction
-
-## Common Myths
-
-## Outline
-
-- Introduction
-- Problems of Dopamine Deficianice
-	- Lack of motivation, fatigue, addictions, mood issues, resting tremor, depression.
-	- Causes: caffeine , alcohol, drugs, sugar/insulin, stress, low stomach acid, adrennal stress
-- Addiction 
-- Improving Baseline Dopamine
-- Leveraging Dopamine to Overcome Procrastination & Optimize Effort
-- Common Myths
-	- Dopamine Detox?
-	- 
-
 ## Notes![[To7R5vco@2x.png]]
 
 
 
-- Discuss that I have struggled to find a clear meaning of Dopamine
 - Dopamine bridges the gap between expectaitons and expereince. If experience exceeds expectaitons, we get dopamine, if not, it doesn't
 - With certain addictions, you can constantly get something going, and with technology designers do thsi on pourpouse. Link this to Tristian Harris stuff as well.
 - 24 hour dopamine detox is not going to do too much.
@@ -490,6 +520,8 @@ RPE is thought to be a fundamental mechanism by which the brain learns from expe
 	- Liking and wanting are two different things. It's not a moral failing, it's a biological.
 	- Addicts want their drugs far more than we could ever imagine. It is not because they like the drug, its because the drugs are teaching the brain to seek more and more drugs —  no matter the cost. 
 	- Also should include some research on cold water exposure and baseline dopamine going up?
+
+
 
 
 ## Papers
