@@ -1,8 +1,12 @@
 # Dopamine
 
-Understanding dopamine is *essential* for living a well-lived life. 
+Understanding dopamine is *essential* for living a well-lived life.  
 
-Unfortunately, the internet is filled with misinformation and oversimplifications about this crucial neurotransmitter, making it difficult to separate fact from fiction. This is where Guide2Life comes in. Our mission is to provide you with a comprehensive, evidence-based understanding of dopamine and its far-reaching impact on your health, happiness, and overall success.
+Your brain, and more specifically the chemicals inside of it, can be your best friend, or your worst enemy. The electrical signals firing off in there are, quite literally, your conscious experience. There could be no higher stakes. 
+
+So this may be one of the most important guides in Guide2Life.  
+
+Unfortunately, the internet is filled with misinformation and oversimplifications about this crucial neurotransmitter, making it difficult to separate fact from fiction. This is where Guide2Life comes in. Our mission is to provide you with a comprehensive, evidence-based understanding of dopamine and its far-reaching impact on your health, happiness, and overall success. 
 
 Ancient philosophers like Socrates, Aristotle, and the Stoics intuitively grasped the impact of inner drives on well-being based purely on reflection and observation. They advocated for moderating desires and practicing delayed gratification to achieve a balanced life. 
 
@@ -10,9 +14,7 @@ Ancient philosophers like Socrates, Aristotle, and the Stoics intuitively graspe
 
 Modern science now validates these insights, confirming Dopamine's role in experiencing pleasure, setting goals, and engaging in meaningful activities. Research shows that dopamine overstimulation can lead to addiction and decreased well-being, echoing ancient warnings against excess. Contemporary approaches that adjust dopamine levels to enhance long-term contentment and reduce dependency on external rewards reflect these timeless wisdoms.
 
-By delving into the latest research and expert insights, we'll demystify Dopamine and give you the tools you need to optimize your brain function, enhance your motivation, and achieve your goals.
-
-Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. 
+By delving into the latest research and expert insights, we'll demystify Dopamine and give you the tools you need to optimize your brain function, enhance your motivation, and achieve your goals. 
 
 This understanding isn't just academic; it has practical implications. 
 
@@ -23,6 +25,9 @@ Whether you're seeking to improve your focus, break free from addiction, or simp
 > "Dopamine is the molecule that makes us look at things outside the boundaries of our skin, to be in pursuit of things." **Andrew Huberman.**
 
 Dopamine is a neurotransmitter, a chemical messenger in the brain that plays a crucial role regulating movement, motivation, drive, craving, time-perception, and reward mechanisms. 
+
+Dopamine is often called the "molecule of more" because it drives us to seek out rewards and motivates us to pursue our goals. It helps us learn from past experiences and shapes our future behavior. 
+
 
 It is an ancient molecule that has been present in living organisms for hundreds of millions of years. It is found not only in humans but also in many other animals, including vertebrates and invertebrates. It was discovered in 1957 by Arvid Carlsson and Nils-Åke Hillarp at the National Heart Institute of Sweden.
 
@@ -119,7 +124,7 @@ By understanding the interplay between tonic and phasic dopamine, as well as the
 
 ### Dopamine Pathways
 
-Dopamine works through several pathways in the brain, each associated with different functions. 
+Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. 
 
 >[!TIP] What is a pathway?
 >A dopamine pathway is a series of connected brain regions that use dopamine to communicate with each other, like a network of roads that dopamine travels along to send signals and influence specific functions, such as motivation, reward processing, or decision-making.
@@ -152,6 +157,10 @@ The table below presents estimates of how various activities and substances can 
 | Meditation              | 10-20%                          |
 
 ### Likes vs Wants
+
+### Time Perception
+
+Modulation of time perception: Dopamine has been shown to influence the perception of time. Increased dopamine levels can lead to an overestimation of time intervals, while decreased levels may cause an underestimation. This unique property has implications for temporal decision-making, impulsivity, and the subjective experience of time.
 ### Reward Prediction Error
 
 Reward Prediction Error (RPE) is a concept in neuroscience and psychology that refers to the difference between the expected reward and the actual reward received. It is a key component of reinforcement learning, which is the process by which organisms learn to modify their behavior based on the consequences of their actions.
@@ -187,9 +196,35 @@ Dopamine and Other Neurotransmitters
 
 ## How To Use Dopamine
 
+Not sure what to call this section! 
+
 - Water (Huberman mentions European Journal of Physiology)
 - - Improving Baseline Dopamine
 - Leveraging Dopamine to Overcome Procrastination & Optimize Effort
+
+1. To get started, break up high dopamine activities. **Don't layer high dopamine activities**. Spread them out. e.g. Porn, break, masturbate, break, drink. This counts for healthy activities too. Don't eat and watch your favourite show at the same time, even if it's healthy food.
+    
+2. **Don't peak your dopamine before or after work/study**. I'm trying to learn Japanese. It's hard and boring. But only because I do high level dopmine activities before it and/or after. If you drop those, or do them later on in the day, after only a couple of days studying becomes a lot easier and more fun. The activity itself gives me the most dopamine.
+    
+3. **Don't start your day with a high dopamine activity**. So studying first thing in the morning is a good idea. Maybe meditate or do something you've always wanted to get good at. This allows you to slowly raise your dopamine level, cementing that activity in your mind as pleasurable. Don't forget rule 2 though.
+    
+4. If you're completely unmotivated; **move first thing in the morning**. Go for a walk. Movement releases dopamine (without cause too much of a peak). Have a warm shower and gently make it as cold as you can handle. Warm up through movement after. This raises your baseline dopamine for several hours so you can get things done.
+    
+5. **Look for things you're grateful for (about what your doing) while studying/working**. This gives you small peaks of dopamine that train you to enjoy what your doing, even if right now it's kinda boring. Give it a couple of days.
+    
+6. **Don't reward yourself every time**. This one's a bit counterintuitive, but the (expected) reward will spike your dopamine and make the activity itself less pleasurable. If you then don't get the reward for some reason, the activity will seem less attractive. Randomise when you get the reward. This is why gambling and lootboxes are so addictive, use it to your advantage. Personally I haven't implemented this point yet, I just don't reward myself. Anyone have any good ideas?
+
+ There are supllement strategies to reduce grow
+	- • N-Acetylcystein (or NAC for short) for reducing cravings of dopamine
+- There are supplements that can increase dopamine
+	- Curcumins
+	- L-Tyrosine (building block for dopamine) •L-Theanine
+	- EPA OMEGA-3 Fatty acids
+	- You can boost your own dopamine
+
+- How To Use Dopamine to Your Advantage
+    - Strategies for naturally regulating and optimizing dopamine levels
+    - Lifestyle, diet, and habits that enhance healthy dopamine function
 
 ### Personal Growth
 
@@ -305,6 +340,13 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 
 ## References 
 
+- Rewards that are liked and wanted can be separated. So you can be addicted to things (want) that you do not like to do! https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171207/
+- Dopamine is a small and relatively simple molecule that fulfills diverse functions: https://academic.oup.com/edrv/article/22/6/724/2424026?login=false
+- REference for reward predicition error coding: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/#ref32
+- Dopamine fasting debunked: https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917
+- Link to delayed gratification: https://www.science.org/doi/10.1126/sciadv.abg6611
+https://troscriptions.com/blogs/main/dopamine
+
 
 
 
@@ -322,18 +364,7 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
         - Tuberoinfundibular
     - Function and significance of each pathway
     - The role of dopamine in motor control, learning, and memory formation
-- Dopamine Baselines
-    - Definition of dopamine baseline levels
-    - Impact of different baselines on behavior and mood
-    - Factors influencing individual differences in dopamine baseline levels
-        - Genetics
-        - Age
-        - Environmental factors
-- Dopamine and Other Neurotransmitters
-    - Relationship between dopamine and other neurotransmitters
-        - Serotonin
-        - Norepinephrine
-        - Glutamate
+- 
     - How these interactions influence brain function and behavior
 - Understanding Dopamine's Role in Reward and Desire
     - The Reward Pathway: Mechanisms and effects
@@ -343,9 +374,7 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
     - Examples of everyday activities that influence dopamine levels
     - How these actions affect our feelings and decisions
     - The impact of technology and social media on dopamine levels and related behaviors
-- How To Use Dopamine to Your Advantage
-    - Strategies for naturally regulating and optimizing dopamine levels
-    - Lifestyle, diet, and habits that enhance healthy dopamine function
+
 - Dopamine-Related Problems
     - Low Baseline: Symptoms and impacts
     - High Baseline: Potential risks and how to manage them
@@ -362,8 +391,6 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 - Therapeutic Applications of Dopamine Research
     - Development of medications for treating dopamine-related disorders
     - The use of dopaminergic therapies in neurodegenerative diseases like Parkinson's
-- Debunking Common Myths about Dopamine
-    - Addressing misconceptions and providing accurate information
 - Conclusion
     - Recap of the key points covered
     - Encouragement to apply the knowledge in daily life
@@ -392,11 +419,7 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 	- This dysfunction turns a human into a lizard.
 	- Dopamine + Cortisol = Addiction
 	- Reward is good, reward + stress is not good, leads to addiction.
-- Monoamine neurotranmitter
-- Derived from Amino Acids
-- Dopamine neurors are in various areas of the brain.
-	- Ven 
-- Your brain can be your best friend or your wosst enemy. 
+
 - Simple distinction of up and down
 	- down 
 		- Paripersonal space
@@ -445,8 +468,7 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 - As soon as what we hope for becomes what we have, dopamine dissappears.
 - Does this mean that we are destined to always be 
 - Go to more of a touch-feely 
-- Dopamine cannot give you satisfaction more tha a hammer can turn a screen.
-- Dopamine is the more molecule of more. 
+- Dopamine cannot give you satisfaction more than a hammer can turn a screen.
 - Dopamine makes the world a better place, it can also destroy us. 
 - Buz Aldrin --> Went to the moon, alcoholic, divocern two women, went to hospital, but for a period of time that lifted him to heaves, made his life a kind of hell. 
 - If you want to do great things, fire up your dopamine circuits
@@ -463,8 +485,6 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 - Makes it hard to pursue things that take longer. 
 - Create a table of dopamien increase from various common actions.
 - The other thing that happens with big fast spikes in dopamine. It takes longer to get back to the Baseline that before taking the drug, the peaks of dopamine that come from continued cocaine are lower, and the throwts are lower and longer. System shifts from pleasure to pain
-- Dopamine Nation
-- The Molecule of More
 - How does this link to ADHD?
 - Dopamine makes you happy, also makes you move
 - Discuss Parkisons Diseases, it is partly a lack of dopamine 
@@ -489,15 +509,8 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 		- The extremes of pleasure (i..e heroin) are addictive. There is always a "holic". Alhocolic, shopaholic. Happiness 
 		- Pleasure is dopamine
 		- Happiness is Seratonin.
-- There are supllement strategies to reduce grow
-	- • N-Acetylcystein (or NAC for short) for reducing cravings of dopamine
-- There are supplements that can increase dopamine
-	- Curcumins
-	- L-Tyrosine (building block for dopamine) •L-Theanine
-	- EPA OMEGA-3 Fatty acids
-	- You can boost your own dopamine
+-
 - Dopamine leads to tolerance
-- I dont understand HOW dopamine makes us feel good?
 - This entire guide links to Brain Meets World. 
 - Companies use dopamine and hotwire people's neurons to profit. Tech and fast food. 
 	- Can dicuss the book "hooked". This video summarizes it: https://www.youtube.com/watch?v=c7fT9U3Q2-o
@@ -508,7 +521,6 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 	- Some goals are more important than others. You may wnat a cheeseburger, but you may not stop reading right now and go to McDonalds right now.
 	- You might think that you like a cheeseburger one because you want one.
 	- Brain proceses for liking and wanting things are differnet.
-	- Dopamine is not the feel good chemical. It does not tell us to like things.
 	- Dopamine teaches how and where to get the things that we need or we like
 	- It makes us pay attention to what is important.
 	- Let's less important things wait. 
@@ -519,15 +531,11 @@ While certain foods and nutrients (like tyrosine, an amino acid precursor to dop
 	- You can never accurately predict how much reward you can get, this is why you can get addicted to herion or other drugs. 
 	- Liking and wanting are two different things. It's not a moral failing, it's a biological.
 	- Addicts want their drugs far more than we could ever imagine. It is not because they like the drug, its because the drugs are teaching the brain to seek more and more drugs —  no matter the cost. 
-	- Also should include some research on cold water exposure and baseline dopamine going up?
+	- Also should include some research on cold water exposure and baseline dopamine going up? 
 
 
 
 
-## Papers
 
-- Rewards that are liked and wanted can be separated. So you can be addicted to things (want) that you do not like to do! https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171207/
-- Dopamine is a small and relatively simple molecule that fulfills diverse functions: https://academic.oup.com/edrv/article/22/6/724/2424026?login=false
-- REference for reward predicition error coding: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/#ref32
-- Dopamine fasting debunked: https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917
-- Link to delayed gratification: https://www.science.org/doi/10.1126/sciadv.abg6611
+
+
