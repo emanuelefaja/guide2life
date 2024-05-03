@@ -6,33 +6,65 @@ Welcome to the Guide2Life, a structured evidence-based approach to get the most 
 - All changes to this guide are [version controlled.](https://github.com/emanuelefaja/howtolive) 
 - Email editor@guide2life.org for contributions, feedback, and questions.
 
-
-
-![](/intro.webp)
-
 Drawing from a wide range of disciplines, including philosophy, [evolutionary psychology](/start/brain-meets-world), health sciences, and personal development, Guide2Life offers a structured approach to understanding and optimizing various aspects of your life. Whether you're seeking to [lose weight](/health/losing-weight), build stronger relationships, make better decisions, or [find a deeper sense of purpose](/start/philosophy-of-life), this guide will provide you with practical strategies and insights to help you along the way.
+
+One consequence of reading this guide is that you may, for the first time in your life, pay close attention to *how* you life. When you do this, you will quickly become aware just how much of your life is on autopilot, and how little conscious thought goes into daily life. This, in turn, defines how you spend your days, and ultimately, how you spend your life.
+
+The goal here is not to prescribe an exact routine, but rather to provide information for you to solve your own problems and create your own approach to living well.  What works in New York or Milan will not necessarily work in rural Cambodia or Subsaharan Africa.
+
+## No Easy Answers <Badge type="danger" text="warning" />
+
+There is no "magic bullet" to living well and having a meaningful life. It takes self-reflection, effort, and personal growth. While this guide provides evidence-based strategies and insights, it's important to understand that everyone's journey is unique. What works for one person may not work for another.
+
+Living well requires you to take an active role in shaping your life. It means questioning your assumptions, challenging your beliefs, and being open to new ideas and perspectives. It also means being willing to face discomfort and uncertainty as you step outside your comfort zone and explore new ways of thinking and being.
+
+**This guide is not a quick fix or a one-size-fits-all solution.**
+
+Rather, it's a starting point for your own journey of self-discovery and personal growth. Use the information and strategies presented here as a foundation, but don't be afraid to adapt and customize them to suit your own needs and circumstances.
+
+Remember, living well is a lifelong process. It requires patience, perseverance, and a willingness to learn from your mistakes. There will be setbacks and challenges along the way, but with the right mindset and tools, you can overcome them and continue moving forward.
+
+Ultimately, the goal of this guide is to empower you to take control of your life and create a future that aligns with your values and aspirations. By approaching life with intentionality and purpose, you can unlock your full potential and live a truly fulfilling life.
+
+## Structure
+
+This guide in divided into parts for each functional area of life. 
 
 ## Rationale
 > "The unexamined life is not worth living." **Socrates.**
 
-Guide2Life was created to fill a significant gap: **a well-organized, trustworthy resource for living well.**
+Thousands of people have written on the topic of how to live across the millennia — so why create Guide2Life?
 
-Many individuals struggle to find proper guidance, relying on trial and error to navigate personal and professional challenges.
+### Filling the Gap
 
-The information found here is widely available, but fragmented across various sources and lacks structure, which complicates the search for dependable advice. For instance, you can check out how recommended books, blogs, and videos for other excellent content online. 
+There is a significant gap in the availability of a well-organized, trustworthy resource for living well. Many individuals struggle to find proper guidance, relying on trial and error to navigate personal and professional challenges. The information found in Guide2Life is widely available, but fragmented across various sources and lacks structure, which complicates the search for dependable advice.
 
-However, there are a lot of actors with misaligned incentives that want to profit from the various struggles that individuals face in their lives.  The abundance of self-help resources in the digital age can also lead to confusion and difficulty distinguishing evidence-based advice from opinion, speculation, and click-bait.
+Guide2Life was created to fill a significant gap: **a well-organized, trustworthy resource for living well.**
 
-School has not filled the gap. Traditional education systems focus on academic subjects like math and geography but but not the art of conversation, how to make critical decisions, or cook a healthy meal. 
+### Education System Shortcomings
 
-**Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines.** 
+Traditional education systems have not filled this gap. Schools focus on academic subjects like math and geography but not the art of conversation, how to make critical decisions, or cook a healthy meal.
 
->[!TIP] Guide2Life was made because we needed it!
-Our  founder has [explored these topics extensively on his blog for over a decade.](https://emanuele.cc) His insights, though valuable, were sporadic and not always evidence-based. His frustration in seeking a structured manual for how to live well led to the creation of Guide2Life.
+As a result, many individuals enter adulthood without the necessary tools to navigate the complexities of daily life effectively.
+
+### Information Overload
+
+The explosion of information in the last few decades has, paradoxically, made it more difficult to get dependable advice. The amount of data created has grown exponentially. [^hilbert] 
+
+However, not all of this information is _quality_ information. There are a lot of actors with misaligned incentives that want to profit from the various struggles that individuals face in their lives. The abundance of self-help resources in the digital age leads to confusion and difficulty distinguishing evidence-based advice from opinion, speculation, and click-bait.
+
+### Science Validates Classical Wisdom
+
+Science is proving a lot of the classical thinkers right. Ideas that were born out of intuition and observation are now being proven with real, hard evidence. We can now reconcile prescientific philosophical advice with modern scientific findings — which makes it a great time for a reexamination of classical thinking. 
+
+We can keep what the science now backs, and disregard ideas that have not stood the test of time.
+
+Guide2Life addresses these challenges by curating and synthesizing the best available evidence from various disciplines. The goal is not to prescribe a singular path to a live well lived, but rather to provide a reliable resource for those seeking to live a more intentional, fulfilling, and well-rounded life.
+
+> [!TIP] Guide2Life was made because we needed it!
+> Our founder has [explored these topics extensively on his blog for over a decade.](https://emanuele.cc) His insights, though valuable, were sporadic and not always evidence-based. His frustration in seeking a structured manual for how to live well led to the creation of Guide2Life.
 
 
-
-The goal is not to prescribe a singular path to a live well lived, but rather to provide a reliable resource for those seeking to live a more intentional, fulfilling, and well-rounded life.
 
 ## Evidence-Based
 **Guide2Life is based on evidence, not personal opinion.** 
@@ -77,5 +109,6 @@ Guide2Life provides guidance and evidence-based recommendations, but you should 
 When in doubt, speak to an expert. 
 
 
+## References
 
-
+[^hilbert]:Martin Hilbert and Priscila López, "The World's Technological Capacity to Store, Communicate, and Compute Information," Science 332, no. 6025 (2011): 60-65, [https://doi.org/10.1126/science.1200970](https://doi.org/10.1126/science.1200970).
