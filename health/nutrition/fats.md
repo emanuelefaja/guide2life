@@ -61,16 +61,6 @@ There are two main types of cholesterol:
 
 One of the main goals of a healthy diet is to reduce LDL (bad) cholesterol and increase HDL (good) cholesterol. This can be achieved by consuming a diet low in saturated and trans fats, rich in fruits, vegetables, whole grains, lean proteins, and healthy fats like monounsaturated and polyunsaturated fats.
 
-### Eggs raise cholesterol levels and increase the risk of heart disease
-
-For many years, eggs were believed to raise blood cholesterol levels and increase the risk of heart disease due to their high dietary cholesterol content. One large egg contains about 186 milligrams of cholesterol, which led to the recommendation to limit egg consumption.
-
-However, recent studies have shown that dietary cholesterol has less impact on blood cholesterol levels than previously thought. The 2015-2020 Dietary Guidelines for Americans removed the recommendation to limit dietary cholesterol to 300 milligrams per day, stating that cholesterol is not a nutrient of concern for overconsumption (U.S. Department of Health and Human Services & U.S. Department of Agriculture, 2015).
-
-Research has shown that consuming eggs as part of a balanced diet does not significantly increase the risk of heart disease in most people. A meta-analysis of prospective cohort studies found no significant association between egg consumption and the risk of coronary heart disease or stroke (Rong et al., 2013).
-Eggs are also a nutritious food, providing high-quality protein, vitamins (such as vitamin D, vitamin B12, and vitamin A), minerals (such as selenium and choline), and antioxidants (such as lutein and zeaxanthin). These nutrients are important for maintaining overall health, including eye, brain, and liver function.
-
-
 ### Cholesterol Levels
 
 When it comes to cholesterol levels, it's important to maintain a healthy balance. The following are the general guidelines for healthy cholesterol levels in adults[1]
@@ -108,7 +98,14 @@ Instead of focusing on low-fat diets, it's more important to prioritize overall 
 
 Dietary cholesterol found in foods like eggs and shellfish has less impact on blood cholesterol levels than previously thought. Saturated and trans fats have a more significant effect on raising LDL cholesterol levels. The overall balance of fats and nutrients in the diet, along with other lifestyle factors, plays a more substantial role in determining blood cholesterol levels.
 
+### Eggs raise cholesterol levels and increase the risk of heart disease
 
+For many years, eggs were believed to raise blood cholesterol levels and increase the risk of heart disease due to their high dietary cholesterol content. One large egg contains about 186 milligrams of cholesterol, which led to the recommendation to limit egg consumption.
+
+However, recent studies have shown that dietary cholesterol has less impact on blood cholesterol levels than previously thought. The 2015-2020 Dietary Guidelines for Americans removed the recommendation to limit dietary cholesterol to 300 milligrams per day, stating that cholesterol is not a nutrient of concern for overconsumption (U.S. Department of Health and Human Services & U.S. Department of Agriculture, 2015).
+
+Research has shown that consuming eggs as part of a balanced diet does not significantly increase the risk of heart disease in most people. A meta-analysis of prospective cohort studies found no significant association between egg consumption and the risk of coronary heart disease or stroke (Rong et al., 2013).
+Eggs are also a nutritious food, providing high-quality protein, vitamins (such as vitamin D, vitamin B12, and vitamin A), minerals (such as selenium and choline), and antioxidants (such as lutein and zeaxanthin). These nutrients are important for maintaining overall health, including eye, brain, and liver function.
 ### Margarine is a healthier alternative to butter.
 
 Many margarine products, especially older formulations, contain trans fats, which are the least healthy type of fat. Trans fats raise LDL cholesterol and lower HDL cholesterol, increasing the risk of heart disease. Some newer margarine products have been reformulated to remove trans fats, but butter from grass-fed cows, consumed in moderation, can be a healthier choice due to its nutrient content.
