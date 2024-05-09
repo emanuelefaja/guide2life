@@ -93,6 +93,7 @@ export default defineConfig({
           { text: '🪞 Cultivating Self-Awareness', link: '/api-examps' },
           { text: '🤔 Emotional Intelligence', link: '/api-examps' },
           { text: '❤️ Conquering Desire', link: '/wisdom/desire' },
+          { text: '❤️ Managing Dissatisfaction', link: '/wisdom/disatisfaction' },
           { text: '✍️ Keep a Journal', link: '/api-exples' },
           { text: '✍️ Instincts vs Reason', link: 'wisdom/instincts-vs-reason' },
           { text: '✈️ Travel', link: 'wisdom/travel' },
