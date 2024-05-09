@@ -1,8 +1,12 @@
 # Dopamine
 
+[REMEBER TO MAKE ALL OF THIS VERY CLEAR! This is a complex topic, but you need to make it easy to understand.]
+
 Understanding dopamine is *essential* for living a well-lived life.  
 
-Your brain, and more specifically the chemicals inside of it, can be your best friend, or your worst enemy. The electrical signals firing off in there are, quite literally, your conscious experience. There could be no higher stakes. 
+Your brain, and more specifically the chemicals inside of it, can be your best friend, or your worst enemy. The electrical signals firing off in there are — *literally* —your conscious experience. 
+
+There could be no higher stakes. 
 
 So this may be one of the most important guides in Guide2Life.  
 
@@ -20,18 +24,44 @@ This understanding isn't just academic; it has practical implications.
 
 By understanding its function, we can better manage our health, psychological well-being, and overall life satisfaction.
 
+[add this somewhere here? Dopamine cannot give you satisfaction more than a hammer can turn a screen.]
+
 Whether you're seeking to improve your focus, break free from addiction, or simply live a more balanced life, this definitive guide to dopamine will be your roadmap. By exploring dopamine's fascinating world, from its evolutionary origins to its practical applications, you'll gain a clear understanding of how this powerful molecule shapes your experiences and how to harness its potential to create the life you desire.
 ## What is Dopamine?
 > "Dopamine is the molecule that makes us look at things outside the boundaries of our skin, to be in pursuit of things." **Andrew Huberman.**
 
+
+[ I think perhaps instead of jumping directly into Dopamine, I should have a dsicussion about this:
+ Simple distinction of up and down
+	- down 
+		- Paripersonal space
+		- space around you within arms reach
+		- Typically thigns you own and control
+		- You use them, control them, consume them
+	- Up
+		- Extrapersonal space
+		- Outside of your arms reach
+		- If you want something in the extraperosnal space, you have to make effort
+		- small effort --> Picking up a book
+		- Large effort --> Planning a trip
+		- These are abstract, and it all takes place in the future
+- The brain uses chemicals to process things in the future, into the abstract, imaginery, you use one single brain chemical called Dopamine]
+
+
 Dopamine is a neurotransmitter, a chemical messenger in the brain that plays a crucial role regulating movement, motivation, drive, craving, time-perception, and reward mechanisms. 
 
-Dopamine is often called the "molecule of more" because it drives us to seek out rewards and motivates us to pursue our goals. It helps us learn from past experiences and shapes our future behavior. 
-
+Dopamine is often called the *"molecule of more"* because it drives us to seek out rewards and motivates us to pursue our goals. It helps us learn from past experiences and shapes our future behavior. 
 
 It is an ancient molecule that has been present in living organisms for hundreds of millions of years. It is found not only in humans but also in many other animals, including vertebrates and invertebrates. It was discovered in 1957 by Arvid Carlsson and Nils-Åke Hillarp at the National Heart Institute of Sweden.
 
 Dopamine is believed to have first appeared in ancient invertebrates, possibly as early as 600 million years ago. Its widespread presence across the animal kingdom, from worms and insects to fish and mammals, highlights its evolutionary significance. The fact that dopamine has been conserved throughout the evolution of such diverse life forms suggests that it plays a critical role in the survival and fitness of organisms. Its ancient origins and ubiquity underscore its importance in shaping behavior, facilitating learning, and promoting adaptability in the face of changing environments.
+
+[add some of this stuff here:
+- Why did evolution create different pathways for what we have and what we don't have.
+- From a survival point of view, it would be you have, or you are dead.
+- There is a big difference between what you have and what you dont, and that can be life or death.
+
+]
 
 In fact, dopamine is playing a key role in driving you to read this very sentence right now! 
 
@@ -54,7 +84,7 @@ To put this in perspective, if the world's population were neurons, *only 1,600 
 
 From an evolutionary perspective, dopamine played a key role in survival by motivating our ancestors to seek out resources and avoid threats. 
 
-Today, it still drives us to pursue things we desire, whether it's a delicious meal, a new gadget, a promotion at work, or learning how to improve our lives
+Today, it still drives us to pursue things we desire, whether it's a delicious meal, a new gadget, a promotion at work, or learning how to improve our lives. 
 
 However, this powerful motivational system can also be hijacked by addictive substances and behaviors, leading to compulsive pursuit of rewards despite negative consequences. 
 
@@ -68,9 +98,13 @@ It's essential for healthy functioning and goal-directed behavior but it can als
 
 By understanding how dopamine works, we can gain insight into our own motivations and behaviors, and learn strategies for harnessing its power while avoiding its pitfalls.
 
-## How Dopamine Works
+Not sure where this should go:
 
-[should also add here about local and global tranmission]
+Modulation of time perception: Dopamine has been shown to influence the perception of time. Increased dopamine levels can lead to an overestimation of time intervals, while decreased levels may cause an underestimation. This unique property has implications for temporal decision-making, impulsivity, and the subjective experience of time.
+
+## Dopamine Patterns
+
+[should also add here about local and global transmission]
 
 To understand how dopamine functions in the brain, it's important to recognize that it is released in two distinct patterns: 
 
@@ -116,28 +150,22 @@ This distinction is important because it helps us understand why certain activit
 
 So, while dopamine is certainly involved in the reward circuit, it's essential to recognize its nuanced role in motivation and learning rather than simply equating it with pleasure. 
 
+[add this bit below, and link to reward prediciton error]
+This is all wrong, and it is more complex, and lot more powerful
+	- It is very unlikely that this circuit evolved to respond to cocaine. Much more likely to respond for food.
+	- Dropped a pellet of food to a mouse, his dopamine spiked.
+	- What if we do this every day at the same time? If the rat expects the reward, the dopamine is gone.
+	- Why?
+	- The answer is not the dopamine of pleasure, it is the dopamine is the molecule of novelty.
+	- Only unexpected rewards spike dopamine.
+	- This is called Reward Prediction Error
+		- Dopamine Release = Actual Reward - Expected Reward
+
 :::
 
 Over time, the brain learns to associate certain cues and behaviors with these dopamine peaks, which can reinforce habits and shape future behavior. This learning process is mediated by changes in the connections between neurons, a phenomenon known as synaptic plasticity.
 
 By understanding the interplay between tonic and phasic dopamine, as well as the factors that influence dopamine release, we can gain valuable insights into how this neurotransmitter shapes our motivations, habits, and overall well-being. In the following sections, we'll explore some of the key mechanisms and pathways through which dopamine exerts its effects on the brain and behavior.
-
-### Dopamine Pathways
-
-Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. 
-
->[!TIP] What is a pathway?
->A dopamine pathway is a series of connected brain regions that use dopamine to communicate with each other, like a network of roads that dopamine travels along to send signals and influence specific functions, such as motivation, reward processing, or decision-making.
-
-Two of these pathways are particularly important for understanding behavior, motivation, and well-being:
-
-1. **Mesolimbic pathway**: Often called the "reward pathway," this pathway is crucial for motivation, reward processing, and learning. It connects the ventral tegmental area (VTA) to the nucleus accumbens, amygdala, and hippocampus. When we anticipate or experience rewards, dopamine is released in this pathway, reinforcing the behaviors that led to the reward. However, imbalances in this pathway can contribute to issues like addiction and mood disorders.
-2. **Mesocortical pathway**: This pathway links the VTA to the prefrontal cortex, which is responsible for higher-order cognitive functions like decision-making, impulse control, and working memory. Dopamine in this pathway helps us stay focused, motivated, and goal-directed. Dysregulation of the mesocortical pathway has been linked to conditions like ADHD, schizophrenia, and depression.
-
-These two pathways work closely together to shape our behaviors, habits, and emotional experiences. They help us learn from rewards, stay motivated, and make decisions that support our well-being.
-
-Other dopamine pathways, like the nigrostriatal pathway (involved in motor control) and the tuberoinfundibular pathway (involved in hormone regulation), also play important roles in brain function. However, the mesolimbic and mesocortical pathways are the most directly relevant to understanding how dopamine influences our day-to-day behaviors and well-being.
-
 
 ### Common Dopamine Triggers
 
@@ -156,12 +184,23 @@ The table below presents estimates of how various activities and substances can 
 | Listening to music      | 10-20%                          |
 | Meditation              | 10-20%                          |
 
-### Likes vs Wants
+## Dopamine Pathways
 
-### Time Perception
+Dopamine influences various brain pathways, each linked to distinct aspects of life—from movement and executive function to emotional response and motivation. 
 
-Modulation of time perception: Dopamine has been shown to influence the perception of time. Increased dopamine levels can lead to an overestimation of time intervals, while decreased levels may cause an underestimation. This unique property has implications for temporal decision-making, impulsivity, and the subjective experience of time.
-### Reward Prediction Error
+>[!TIP] What is a pathway?
+>A dopamine pathway is a series of connected brain regions that use dopamine to communicate with each other, like a network of roads that dopamine travels along to send signals and influence specific functions, such as motivation, reward processing, or decision-making.
+
+Two of these pathways are particularly important for understanding behavior, motivation, and well-being:
+
+1. **Mesolimbic pathway**: Often called the "reward pathway," this pathway is crucial for motivation, reward processing, and learning. It connects the ventral tegmental area (VTA) to the nucleus accumbens, amygdala, and hippocampus. When we anticipate or experience rewards, dopamine is released in this pathway, reinforcing the behaviors that led to the reward. However, imbalances in this pathway can contribute to issues like addiction and mood disorders.
+2. **Mesocortical pathway**: This pathway links the VTA to the prefrontal cortex, which is responsible for higher-order cognitive functions like decision-making, impulse control, and working memory. Dopamine in this pathway helps us stay focused, motivated, and goal-directed. Dysregulation of the mesocortical pathway has been linked to conditions like ADHD, schizophrenia, and depression.
+
+These two pathways work closely together to shape our behaviors, habits, and emotional experiences. They help us learn from rewards, stay motivated, and make decisions that support our well-being.
+
+Other dopamine pathways, like the nigrostriatal pathway (involved in motor control) and the tuberoinfundibular pathway (involved in hormone regulation), also play important roles in brain function. However, the mesolimbic and mesocortical pathways are the most directly relevant to understanding how dopamine influences our day-to-day behaviors and well-being.
+
+## Reward Prediction Error
 
 Reward Prediction Error (RPE) is a concept in neuroscience and psychology that refers to the difference between the expected reward and the actual reward received. It is a key component of reinforcement learning, which is the process by which organisms learn to modify their behavior based on the consequences of their actions.
 
@@ -175,14 +214,9 @@ Here's how RPE works:
 
 RPE is thought to be a fundamental mechanism by which the brain learns from experience and adapts behavior to maximize rewards and minimize punishments. It has been studied extensively in the context of decision-making, addiction, and various neurological and psychiatric disorders.
 
-
-
-
-
-
-
-
 ### Dopamine & Neuroplasticity
+
+Not sure how/if this section is required
 
 ### Interactions with Other Neurotransmitters
 
@@ -193,6 +227,50 @@ Dopamine and Other Neurotransmitters
     - Norepinephrine
     - Glutamate
 - How these interactions influence brain function and behavior
+- - There is only one reward system
+	- If you don't receive reward, you lie down in bed and die.
+	- This has been tested on animals, and these animals have no will to live.
+	- You need this. Reward is the survival of the species.
+	- Reward and contentment are not the same thing. Reward and pleasure are synomnous
+	- Happiness and contentment are synomous.
+	- We have conflated pleasure and happiness.
+	- There are seven differences between the two, and people need to understand the world and how they are being manipulated by the owlrd to be miseralbe:
+		- Pleasure is short term, happiness is long term
+		- Pleasure is visceral, happiness is etheral you feel it above the nack
+		- Pleasure is taken, happiness is given
+		- Pleasure is achieved alone, happiness is achived socially
+		- Pleasure is achievable with substances, happiness is not
+		- The extremes of pleasure (i..e heroin) are addictive. There is always a "holic". Alhocolic, shopaholic. Happiness 
+		- Pleasure is dopamine
+		- Happiness is Seratonin.
+-  "Here and now" checmicals
+	- Serotonin
+	- Endocannabinoid
+	- Oxytocin
+	- Endorphyn
+- Dopamine cannot give you satisfaction more than a hammer can turn a screen.
+
+
+## Likes vs Wants
+
+- We have use these words interchangibly in language.
+- However, when it comes to the brain functions, these are actually completely separate!
+- Dopamine can make you want something that you (the conscious you from your frontal cortex) do not really like
+	- Burger when you're on a diet
+	- One Nights stands when you're trying to get into a relationship or you're with a partner
+	- Heroin when you're trying to live a good live
+	- Pornography when you you should go out there and have a partner.
+- Like = Desire = Dopamine
+- Want = ?? = Serotonin
+- - Dopamine vs Serotonin
+	- Dopamine: This feels good, I want more.
+	- Serotonin: This feels good, I don't want or need any more.
+	- If you do not know the difference, you will try to reward yourself ad-nauseum
+	- Cortisol is the stress hormone, what it does, which is particularly important, it works on the pre-frontal cortex. This is the part of the brain that stops you doing stupid things. 
+	- If you have a dysfunctional pre-frontal cortex you cannot see the future, you only live for the moment
+	- This dysfunction turns a human into a lizard.
+	- Dopamine + Cortisol = Addiction
+	- Reward is good, reward + stress is not good, leads to addiction.
 
 ## How To Use Dopamine
 
@@ -254,11 +332,22 @@ Not sure what to call this section!
     - Alternating between novel and familiar activities for optimal dopamine regulation
 
 
-## Dopamine-Related Problems
+## Dopamine Problems
 
 While dopamine plays a crucial role in motivation, reward processing, and overall well-being, imbalances or dysregulation in the dopamine system can lead to various problems. This section will explore some of the most common issues related to dopamine function and how they tie into the broader discussion of dopamine's impact on our lives.
 
 One unfortunate issue, is that you cannot easily monitor your even levels of dopamine, but may be able to recognize the symptoms which can help you lead a further investigation. 
+
+
+This could also be done via topics:
+
+- Lust & Love
+- Drugs
+	- - Drugs can go over all the the other priorities 
+- Pornography  
+- Gambling
+- Technology Addiction
+- Also link this to Brain Meets World
 
 ### Low Baseline
 
@@ -290,6 +379,8 @@ Frequent, intense spikes in dopamine, often caused by drugs, excessive rewards, 
 - Difficulty deriving pleasure from everyday activities
 - Increased tolerance, requiring larger or more frequent dopamine spikes to achieve the same effect
 - Heightened risk of addiction and compulsive behavior
+
+- Buz Aldrin --> Went to the moon, alcoholic, divocern two women, went to hospital, but for a period of time that lifted him to heaves, made his life a kind of hell. 
 
 ### Dopamine Deficiency 
 ### Dopamine & Addiction
@@ -410,40 +501,9 @@ https://troscriptions.com/blogs/main/dopamine
 - With certain addictions, you can constantly get something going, and with technology designers do thsi on pourpouse. Link this to Tristian Harris stuff as well.
 - 24 hour dopamine detox is not going to do too much.
 - It helps us learn from experience and update expectations
-- Dopamine vs Serotonin
-	- Dopamine: This feels good, I want more.
-	- Serotonin: This feels good, I don't want or need any more.
-	- If you do not know the difference, you will try to reward yourself ad-nauseum
-	- Cortisol is the stress hormone, what it does, which is particularly important, it works on the pre-frontal cortex. This is the part of the brain that stops you doing stupid things. 
-	- If you have a dysfunctional pre-frontal cortex you cannot see the future, you only live for the moment
-	- This dysfunction turns a human into a lizard.
-	- Dopamine + Cortisol = Addiction
-	- Reward is good, reward + stress is not good, leads to addiction.
 
-- Simple distinction of up and down
-	- down 
-		- Paripersonal space
-		- space around you within arms reach
-		- Typically thigns you own and control
-		- You use them, control them, consume them
-	- Up
-		- Extrapersonal space
-		- Outside of your arms reach
-		- If you want something in the extraperosnal space, you have to make effort
-		- small effort --> Picking up a book
-		- Large effort --> Planning a trip
-		- These are abstract, and it all takes place in the future
-- The brain uses chemicals to process things in the future, into the abstract, imaginery, you use one single brain chemical called Dopamine
 - The chemical of what you desire.
-- Why did evolution create different pathways for what we have and what we don't have.
-- From a survival point of view, it would be you have, or you are dead.
-- There is a big difference between what you have and what you dont, and that can be life or death.
 - When we consume things, we get a good feeling at the end.
-- "Here and now" checmicals
-	- Serotonin
-	- Endocannabinoid
-	- Oxytocin
-	- Endorphyn
 - Dopamine
 	- Lots of research of addiction research done
 	- This is because this is the chemical that gets you addicted to things
@@ -453,15 +513,7 @@ https://troscriptions.com/blogs/main/dopamine
 - Dopamine called the pleasure pathway
 - Dopamine rewards when when we do things, that from an evolutoinary perspective, ensures that we can survive and reproduce. Good to link to Brain Meets World here.
 - There is a problem
-	- This is all wrong, and it is more complex, and lot more powerful
-	- It is very unlikely that this circuit evolved to respond to cocaine. Much more likely to respond for food.
-	- Dropped a pellet of food to a mouse, his dopamine spiked.
-	- What if we do this every day at the same time? If the rat expects the reward, the dopamine is gone.
-	- Why?
-	- The answer is not the dopamine of pleasure, it is the dopamine is the molecule of novelty.
-	- Only unexpected rewards spike dopamine.
-	- This is called Reward Prediction Error
-		- Dopamine Release = Actual Reward - Expected Reward
+	- 
 - Walking down the street, everything is the same, no dopamine spike. When you notice a brand new bakery is opened, the dopamine spikes. You try a croissant, it is great, then you come there every day. Two weeks later, you go and eat the croissant, there is no excitement. 
 - When expectations go up, dopamine goes down.
 - Dopamine feels good (but why is that?)
@@ -470,7 +522,6 @@ https://troscriptions.com/blogs/main/dopamine
 - Go to more of a touch-feely 
 - Dopamine cannot give you satisfaction more than a hammer can turn a screen.
 - Dopamine makes the world a better place, it can also destroy us. 
-- Buz Aldrin --> Went to the moon, alcoholic, divocern two women, went to hospital, but for a period of time that lifted him to heaves, made his life a kind of hell. 
 - If you want to do great things, fire up your dopamine circuits
 - But when you get there, you need to do something else. You need to get off your dopamine circuits, and feel the here and now circuits. Spend time in the present moment. 
 - Dopamine and Addiction
@@ -486,6 +537,7 @@ https://troscriptions.com/blogs/main/dopamine
 - Create a table of dopamien increase from various common actions.
 - The other thing that happens with big fast spikes in dopamine. It takes longer to get back to the Baseline that before taking the drug, the peaks of dopamine that come from continued cocaine are lower, and the throwts are lower and longer. System shifts from pleasure to pain
 - How does this link to ADHD?
+- Add somewhere about it pulsing 3-5 times per second, but can go up to 20-30 times per second when really activated. 
 - Dopamine makes you happy, also makes you move
 - Discuss Parkisons Diseases, it is partly a lack of dopamine 
 - It's the "Make things happen" chemical 
@@ -493,22 +545,7 @@ https://troscriptions.com/blogs/main/dopamine
 - Have a discussoin on depression and Dopamine?
 - I am still not sure if more dopamine is good.
 - The more drugs push on dopamine centers, the more they wear them out, the more you have to push to get the same.
-- There is only one reward system
-	- If you don't receive reward, you lie down in bed and die.
-	- This has been tested on animals, and these animals have no will to live.
-	- You need this. Reward is the survival of the species.
-	- Reward and contentment are not the same thing. Reward and pleasure are synomnous
-	- Happiness and contentment are synomous.
-	- We have conflated pleasure and happiness.
-	- There are seven differences between the two, and people need to understand the world and how they are being manipulated by the owlrd to be miseralbe:
-		- Pleasure is short term, happiness is long term
-		- Pleasure is visceral, happiness is etheral you feel it above the nack
-		- Pleasure is taken, happiness is given
-		- Pleasure is achieved alone, happiness is achived socially
-		- Pleasure is achievable with substances, happiness is not
-		- The extremes of pleasure (i..e heroin) are addictive. There is always a "holic". Alhocolic, shopaholic. Happiness 
-		- Pleasure is dopamine
-		- Happiness is Seratonin.
+
 -
 - Dopamine leads to tolerance
 - This entire guide links to Brain Meets World. 
@@ -527,7 +564,7 @@ https://troscriptions.com/blogs/main/dopamine
 	- Addictive drugs don't work the same way as burgers or iphones.
 	- They go to directly to the brain
 	- Make chart of Amphetamine compared to burger and other things, crazy difference. Burger might be a few seconds, morphone might be 5 hours.
-	- Drugs can go over all the the other priorities 
+	
 	- You can never accurately predict how much reward you can get, this is why you can get addicted to herion or other drugs. 
 	- Liking and wanting are two different things. It's not a moral failing, it's a biological.
 	- Addicts want their drugs far more than we could ever imagine. It is not because they like the drug, its because the drugs are teaching the brain to seek more and more drugs —  no matter the cost. 

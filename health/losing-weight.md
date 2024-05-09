@@ -355,6 +355,8 @@ While eating breakfast can be part of a healthy lifestyle, it is not a requireme
 > "Diet is Batman and exercise is Robin. Diet does 95 percent of the work and deserves all the attention; so, logically, it would be sensible to focus on diet. Exercise is still healthy and important—just not equally important. It has many benefits, but weight loss is not among them." **Jason Fung.**
 While exercise is important for overall health and can support weight loss efforts, it is not strictly necessary for weight loss. Creating a calorie deficit through dietary changes alone can lead to weight loss (Swift et al., 2014).
 
+### Drinking Lemon Water Accelerates Fat Loss
+
 
 ## References
 
