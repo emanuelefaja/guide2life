@@ -10,11 +10,26 @@ Drawing from a wide range of disciplines, including philosophy, [evolutionary ps
 
 One consequence of reading this guide is that you may, for the first time in your life, pay close attention to *how* you life. When you do this, you will quickly become aware just how much of your life is on autopilot, and how little conscious thought goes into daily life. This, in turn, defines how you spend your days, and ultimately, how you spend your life.
 
-The goal here is not to prescribe an exact routine, but rather to provide information for you to solve your own problems and create your own approach to living well.  What works in New York or Milan will not necessarily work in rural Cambodia or Subsaharan Africa.
+## Objective
+
+The objective of Guide2Life is to help you live better.
+
+We do this in two ways
+
+1. **Specific, actionable advice:** This may mean solving a specific life problem, such as overcoming a pornography addiction, to broader strategies such as developing good habits and avoiding non-communicable diseases.
+2. **Life Strategy:** Understanding where you are in life, and what you should focus on next. You can then use point 1 to pick a specific topic to learn about and improve that aspect of your life.
+
+In some ways, this can become a virtous loop:
+
+Understand -> Action -> Review -> Decide -> Understand -> Action -> Review -> Decide ->
 
 ## No Easy Answers <Badge type="danger" text="warning" />
 
-There is no "magic bullet" to living well and having a meaningful life. It takes self-reflection, effort, and personal growth. While this guide provides evidence-based strategies and insights, it's important to understand that everyone's journey is unique. What works for one person may not work for another.
+The goal here is *not* to prescribe an exact routine. Individual circumstances are far too varied for a step-by-step approach to work. What works in New York, London, or Milan will not necessarily work in rural Cambodia, Venezuela, or Subsaharan Africa.
+
+**We want to stress that there is no "magic bullet" to living well and having a meaningful life.** It takes self-reflection, effort, and personal growth. While this guide provides evidence-based strategies and insights, it's important to understand that everyone's journey is unique. What works for one person may not work for another.
+
+[quite a bit of duplication from the above, if I am honest]
 
 Living well requires you to take an active role in shaping your life. It means questioning your assumptions, challenging your beliefs, and being open to new ideas and perspectives. It also means being willing to face discomfort and uncertainty as you step outside your comfort zone and explore new ways of thinking and being.
 
