@@ -4,7 +4,7 @@ BMI stands for Body Mass Index and was first introduced July 1972[^keys] . It's 
 
 It can be a preliminary indicator on whether an individual should consider [losing weight](/health/losing-weight) which is important because overweight is one of the main triggers for many [Non-Communicable Diseases](/health/non-communicable-diseases) — the leading cause of death worldwide. [^who-ncd]
 
- BMI is not perfect, it is a reliable measure of relative obesity.
+ BMI is not perfect, but it is a reliable measure of relative obesity. It's a good screening tool. If you have a high BMI, you should investigate *why*. 
 
 ## Calculation
 
