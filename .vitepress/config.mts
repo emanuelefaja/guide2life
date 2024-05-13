@@ -37,6 +37,7 @@ export default defineConfig({
             timeStyle: 'short'
           },
         },
+    externalLinkIcon: true, // Enable external link icons
     search: {
           provider: 'local'
         },
