@@ -13,7 +13,7 @@ That requires trust in the process — this is where the real challenge lies.
 
 
 
-Take meditation, for example. At face value, nothing could be simpler. 
+Take meditation, for example. There are a huge amounts of benefits. At face value, nothing could be simpler. 
 
 You — quite literally — have to do nothing. Just sit still, focus on your breath, and let your thoughts come and go without getting caught up in them. It sounds easy enough, right? But when was the last time you meditated for two hours, or even ten minutes? 
 
@@ -27,6 +27,8 @@ It's not enough to know what to do; *you have to actually do it.*
 
 It's where theory becomes practice, and  knowledge becomes action. This is the hard part that requires effort and dedication.
 
+> "In theory, there is no difference between theory and practice. In practice, there is." **Yogi Berra.** 
+
 Things that look simple are actually very difficult _because_ they look so simple. They catch us off guard, and we fail to plan, to take them seriously. 
 
 We assume that because something is simple, we don't need to put much thought or effort into it. 
@@ -39,11 +41,15 @@ In fact, the more difficult something is, *the more you should be attracted to i
 
 The things we find most difficult, the things we most resist doing, are often the things that are most important for us to do. 
 
-Use this as your guiding light, and the more you start doing "things that suck", the more your brain will adapt to this.
+Use this as your guiding light. Get a list of things that you don't want to do. Ask yourself, exactly *why* you don't want to do them. And then start. Even the simplest, smallest, start. Most of the time, you realize that it is not quite that bad. 
 
-[THERE IS SOME DISCUSSION ABOUT THE PARTICULAR BRAIN AREA]
+The more you start doing *"things that suck"*, the more your brain will adapt to this — quite literally.
 
-**So when reading Guide2Life, do not be surprised if we give rather simple, sometimes obvious advice. The key thing is taking the sometimes difficult path to implement simple ideas.** 
+The part of your brain that gets active when you do things you don't want to do is called the anterior cingulate cortex (ACC). The ACC helps you notice mistakes, manage your emotions, and make decisions. It also helps you deal with challenges and stay focused on difficult tasks. Another important part of your brain is the prefrontal cortex. This part helps you plan, make decisions, and stay motivated even when things are uncomfortable.
+
+Your brain can also change and adapt over time. When you keep pushing yourself to do things you don't want to do, your brain forms new connections and strengthens old ones. This process is called neuroplasticity. The more you practice doing hard things, the better your brain gets at handling similar challenges in the future.
+
+**So when reading Guide2Life, do not be surprised if we give rather simple, sometimes obvious advice. The key thing is taking the sometimes difficult path to implement simple ideas, and changing your brain along the way.**
 
 
 
