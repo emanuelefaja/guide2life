@@ -89,7 +89,9 @@ However, it's important to look beyond this simple *"calories in vs calories out
 
 After all, obesity rates have skyrocketed in recent decades, but it's unlikely that this is due to a sudden mass loss of willpower and self-control.
 
-So then, we need to ask why ([in the style of Richard Feynman](https://www.youtube.com/watch?v=36GT2zI8lVA))  are peopleconsistently consuming too many calories?
+So then, we need to ask why, in the style of Richard Feynman, are people consistently consuming too many calories?
+
+https://www.youtube.com/watch?v=36GT2zI8lVA
 
 The root cause is the mismatch between our modern food environment and the biological systems that regulate our appetite, metabolism and weight.  
 
