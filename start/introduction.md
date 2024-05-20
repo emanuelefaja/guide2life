@@ -58,9 +58,9 @@ Guide2Life was created to fill a significant gap: **a well-organized, trustwort
 
 ### Education System Shortcomings
 
-Traditional education systems have not filled this gap. Schools focus on academic subjects like math and geography but not the art of conversation, how to make critical decisions, or cook a healthy meal. (reference)
+Traditional education systems have not filled this gap. Schools focus on academic subjects like math and geography but not the art of conversation, how to make critical decisions, or cook a healthy meal.
 
-As a result, many individuals enter adulthood without the necessary tools to navigate the complexities of daily life effectively. (refernece?)
+As a result, many individuals enter adulthood without the necessary tools to navigate the complexities of daily life effectively.
 
 ### Information Overload
 

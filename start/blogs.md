@@ -3,6 +3,6 @@ These are various blogs that are worth your time to read. They are not listed in
 
 ---
 
-- emanuele.cc
+- 
 
 
