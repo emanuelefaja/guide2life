@@ -29,6 +29,12 @@ By making conscious decisions to lead healthier lives, we can mitigate these ris
 
 ## Do Not Forget To live 
 
+There is a saying that the safest place for a ship is in the harbour, but then whole poitn of a ship is to be out int he open ocean. Similarly, you do not want to be come so concerned about your health that you forget that you also have to live. 
+
+The body *does* have mechanisms to recover from a less than ideal diet or health regiment, and so there is evidence that some stressors may actually improve health (reference). And so, what we are trying to say here is that you can let your hair down a little and live. 
+
+
+
 **Philosophical point on future health** 
 
 
